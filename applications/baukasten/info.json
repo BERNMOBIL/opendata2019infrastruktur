@@ -1,0 +1,10 @@
+{
+"title": "Störungsdaten der BERNMOBIL-Infrastruktur",
+"description": "BERNMOBIL betreibt 5 Tram-, 3 Trolley- und 15 Buslinien in und rund um Bern. Die Visualisierung zeigt alle Störungen des Jahres 2018 im Zusammenhang mit der Infrastruktur.",
+"authors": [
+    {"name": "Roland Widmer", "email": "roland.widmer@students.unibe.ch"}
+],
+"date": "2019-05-22",
+"category": "traffic",
+"software_license": "GNU General Public License v3"
+}

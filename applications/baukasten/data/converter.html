@@ -1,0 +1,187 @@
+<html>
+<head>
+	<script>
+		function convert(){
+			var input = document.getElementById("input").value;
+			var command = document.getElementById("command").value.split(";");
+			switch(command[0]){
+				case "1": combineDateAndTime(input, command[1], command[2], command[3]); break;
+				case "2": dateDifference(input, command[1], command[2], command[3]); break;
+				case "3": categoryMapper(input, command[1], command[2], command[3], command[4], command[5]); break;
+				case "4": columnMapper(input, command[1], command[2], command[3], command[4], command[5]); break;
+				default: alert("Unknown command.");
+			}
+		}
+		
+		function moveOutputToInput(){
+			document.getElementById("input").value = document.getElementById("output").value;
+			document.getElementById("output").value = "--empty--";
+			
+			alert("Done!");
+		}
+		
+		function combineDateAndTime(input, dateCol, timeCol, newCol){
+			var dateIndex = getIndexByColName(input, dateCol);
+			var timeIndex = getIndexByColName(input, timeCol);
+			
+			var rows = input.split(/\r\n|\n|\r/); //handles all differnt newlines
+			
+			//add new column title
+			rows[0] += ";" + newCol;
+			
+			var i;
+			for(i = 1; i < rows.length; i++){
+				var cols = rows[i].split(";");
+				if(cols[dateIndex] != "" && cols[timeIndex] != "") {
+					var dateArr = cols[dateIndex].split(".");
+					var timeArr = cols[timeIndex].split(":");
+					
+					var d = new Date();
+					d.setDate(dateArr[0]);
+					d.setMonth(dateArr[1] - 1);
+					d.setFullYear(dateArr[2]);
+					d.setHours(timeArr[0]);
+					d.setMinutes(timeArr[1]);
+					d.setSeconds(timeArr[2]);
+					
+					rows[i] += ";" + d.getTime();
+				} else {
+					rows[i] += ";";
+				}
+			}
+			
+			document.getElementById("output").value = rows.join("\r\n");
+			alert("Done!");
+		}
+		
+		function dateDifference(input, date1Col, date2Col, newCol){
+			var date1Index = getIndexByColName(input, date1Col);
+			var date2Index = getIndexByColName(input, date2Col);
+			
+			var rows = input.split(/\r\n|\n|\r/); //handles all differnt newlines
+			
+			//add new column title
+			rows[0] += ";" + newCol;
+			
+			var i;
+			for(i = 1; i < rows.length; i++){
+				var cols = rows[i].split(";");
+				
+				if(cols[date1Index] != "" && cols[date2Index] != "") {
+					rows[i] += ";" + (parseInt(cols[date1Index]) - parseInt(cols[date2Index])).toString();
+				} else {
+					rows[i] += ";";
+				}
+			}
+			
+			document.getElementById("output").value = rows.join("\r\n");
+			alert("Done!");
+		}
+		
+		function categoryMapper(input, idCol, idColMappingData, categoryColMappingData, valueColMappingData, filter) {
+			var mappingData = document.getElementById("mapping").value;
+			
+			var idColIndex = getIndexByColName(input, idCol);
+			var idColMappingDataIndex = getIndexByColName(mappingData, idColMappingData);
+			var categoryColMappingDataIndex = getIndexByColName(mappingData, categoryColMappingData);
+			var valueColMappingDataIndex = getIndexByColName(mappingData, valueColMappingData);
+			
+			
+			var rowsMapping = mappingData.split(/\r\n|\n|\r/);
+			var mapping = [];
+			
+			// keep only cols according to the specified filter
+			var i;
+			for(i = 1; i < rowsMapping.length; i++) {
+				var cols = rowsMapping[i].split(";");
+				if (cols[categoryColMappingDataIndex] == filter){
+					//keep
+					mapping.push({key: cols[idColMappingDataIndex], value: cols[valueColMappingDataIndex]});				
+				}
+			}
+			console.log(mapping);
+			var rows = input.split(/\r\n|\n|\r/);
+			var j;
+			for(j = 1; j < rows.length; j++) {
+				var categories = [];
+				var cols = rows[j].split(";");
+				console.log(cols[idColIndex]);
+				
+				for(i = 0; i < mapping.length; i++) {
+					if(cols[idColIndex].startsWith(mapping[i].key)){
+						categories.push(mapping[i].value);
+					}
+				}
+				console.log(categories);
+			}
+		}
+		
+		function columnMapper(input, idCol, idColMappingData, valueColMappingData, newCol) {
+			var mappingData = document.getElementById("mapping").value;
+			
+			var idColIndex = getIndexByColName(input, idCol);
+			var idColMappingDataIndex = getIndexByColName(mappingData, idColMappingData);
+			var valueColMappingDataIndex = getIndexByColName(mappingData, valueColMappingData);
+			
+			
+			var rowsMapping = mappingData.split(/\r\n|\n|\r/);
+			var mapping = [];
+			
+			// keep only cols according to the specified filter
+			var i;
+			for(i = 1; i < rowsMapping.length; i++) {
+				var cols = rowsMapping[i].split(";");
+				if(cols[idColMappingDataIndex] != "")
+					mapping.push({key: cols[idColMappingDataIndex], value: cols[valueColMappingDataIndex]});				
+			}
+			console.log(mapping);
+			var rows = input.split(/\r\n|\n|\r/);
+			
+			//add new column title
+			rows[0] += ";" + newCol;
+			
+			var j;
+			for(j = 1; j < rows.length; j++) {
+				var cols = rows[j].split(";");
+				var hit = "";
+
+				for(i = 0; i < mapping.length; i++) {
+					if(cols[idColIndex] == mapping[i].key){
+						hit = mapping[i].value;
+					}
+				}
+				
+				rows[j] += ";" + hit;
+			}
+			
+			document.getElementById("output").value = rows.join("\r\n");
+			alert("Done!");
+		}
+		
+		function getIndexByColName(input, colName){
+			var rows = input.split(/\r\n|\n|\r/); //handles all differnt newlines
+			var cols = rows[0].split(";");
+			
+			var i;
+			for(i = 0; i < cols.length; i++) {
+				if(cols[i] == colName){
+					return i;
+				}
+			}
+			return -1;
+		}
+	</script>
+</head>
+
+<body>
+	<div>
+		<input type="text" style="width:300px;" id="command"/>
+		<button onclick="convert()">Convert</button>
+	</div>
+	<textarea id="input" style="width:90%; height:400px;"></textarea>
+	<button onclick="moveOutputToInput()">Use Output as Input</button>
+	<textarea id="output" style="width:90%; height:400px;"></textarea>
+	<p>Additional Mapping Data:</p>
+	<textarea id="mapping" style="width:90%; height:100px;"></textarea>
+</body>
+</html>

@@ -1,0 +1,740 @@
+FehlerKat.;Techn. Platz;Tech.Identnr.;Beschreibung;Verantw.ArbPl.;Meldungsdatum;Meldungszeit;StörBeginn;StörungsBegZt;Störungsende;StörungsEndZt;Meldung;Auftrag;Aktionenbezeichnung;Aktionstext;Codierung Text;Fehlerart Gruppe;Fehlerart Code;Fehlerart Text;Ursache Gruppe;Ursache Code;Ursache Text
+B;03-0101-012-01-2;;Stromabnehmerentgleisung;A474;30.12.2018;11:32:00;31.12.2018;06:46:46;;00:00:00;2269939;215931;;;;6;1;Entgleisung;2;6;Drittverschulden
+C;01-9000-2-001-01;HNSA502/3;DBo keine Fahrstrassen Einstellbar;A474;29.12.2018;20:27:34;27.12.2018;07:00:00;27.12.2018;09:00:00;2269932;215930;Eingestellt;Datensammler neu gestartet;;5;7;Unterbruch;;;
+C;03-0101-018;;Fahrantenne GÜMEBF -HB defekt;A474;28.12.2018;10:44:41;28.12.2018;11:45:10;;00:00:00;2269860;215928;;;;6;8;sonstiges;2;10;unbekannt /sonstiges
+C;01-0341-2-001-01;W0274;W274 v.Hd. W-Licht dunkel;A474;24.12.2018;09:54:20;24.12.2018;10:02:46;;00:00:00;2269690;215929;;;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1009;Weiche 1009 und W1010 schwarz;A474;21.12.2018;15:21:22;21.12.2018;15:41:49;21.12.2018;20:00:00;2269574;215949;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 schwarz;A474;21.12.2018;15:43:07;21.12.2018;15:30:00;;00:00:00;2269569;;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1006;Weiche 1016 schwarz;A474;21.12.2018;15:06:03;21.12.2018;15:42:33;;00:00:00;2269573;;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weiche HB 1003 ging nicht;A474;21.12.2018;16:57:07;24.12.2018;07:46:19;24.12.2018;15:15:00;2269578;215948;;;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1003;W1003 W-Signal dunkel;A474;20.12.2018;08:49:15;20.12.2018;08:50:35;;00:00:00;2269458;;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/3;DBo Steuerbereich 3 ausgestiegen;A474;20.12.2018;12:06:24;20.12.2018;07:00:00;20.12.2018;08:00:00;2269475;215927;Kontrolliert;Endlage wieder eingestellt;;7;4;Keine Endlage;;;
+X;01-9001-2-001-01;HNSA600/1;Punktsignal Eigerpaltz leuchtet permanen;A474;20.12.2018;10:18:04;01.12.2018;09:00:00;01.12.2018;10:00:00;2269472;215926;Eingestellt;Steuerung neu eingelesen;;5;15;Ausserhalb Toleranz;;;
+B;03-0101-091;;Trolleybus Ausfahrt Garage abgeräumt;A474;19.12.2018;07:25:41;17.12.2018;06:30:00;17.12.2018;15:45:00;2269360;215918;Weitere Aktionen;FL wieder einschalten;;6;8;sonstiges;;;
+C;01-0340-2-001-01;W1003;W1003/1004 Block löscht nicht;A474;19.12.2018;11:36:51;19.12.2018;11:42:10;;00:00:00;2269387;;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weiche1003 gestochen;A474;18.12.2018;05:54:36;18.12.2018;06:37:23;;00:00:00;2269265;215915;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0902-2-001-01;W3002;W3002 dauernd W-Block belegt;A474;18.12.2018;17:13:37;19.12.2018;06:40:27;;00:00:00;2269333;215916;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+X;03-0101-091-14;TOR9101;Jahreswartung Torbrücke Gleis 0;A474;17.12.2018;12:18:52;;00:00:00;;00:00:00;2269134;215887;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9102;Jahreswartung Torbrücke Gleis 1;A474;17.12.2018;12:19:32;;00:00:00;;00:00:00;2269135;215888;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9103;Jahreswartung Torbrücke Gleis 2;A474;17.12.2018;12:19:59;;00:00:00;;00:00:00;2269136;215889;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9104;Jahreswartung Torbrücke Gleis 3;A474;17.12.2018;12:20:26;;00:00:00;;00:00:00;2269137;215890;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9105;Jahreswartung Torbrücke Gleis 4;A474;17.12.2018;12:20:56;;00:00:00;;00:00:00;2269138;215891;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9106;Jahreswartung Torbrücke Gleis 5;A474;17.12.2018;12:21:23;;00:00:00;;00:00:00;2269139;215892;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-091-14;TOR9107;DEig Tor 6 kommt nicht runter;A474;17.12.2018;16:25:57;12.11.2018;06:00:00;12.11.2018;07:00:00;2269213;215911;Gewartet;Torbrücke;;5;16;kein Fehler;;;
+X;03-0101-091-14;TOR9107;Jahreswartung Torbrücke Gleis 6;A474;17.12.2018;12:21:49;;00:00:00;;00:00:00;2269140;215893;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9108;Jahreswartung Torbrücke Gleis 7;A474;17.12.2018;12:22:18;;00:00:00;;00:00:00;2269141;215894;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9109;Jahreswartung Torbrücke Gleis 8;A474;17.12.2018;12:22:46;;00:00:00;;00:00:00;2269142;215895;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9110;Jahreswartung Torbrücke Gleis 9;A474;17.12.2018;12:23:16;;00:00:00;;00:00:00;2269143;215896;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-14;TOR9111;Jahreswartung Torbrücke Gleis 10;A474;17.12.2018;12:23:45;;00:00:00;;00:00:00;2269144;215897;Gewartet;Torbrücke;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-9000-2-001-01;HNSA502/1;DBo Steuerbereich 1 draussen;A474;17.12.2018;05:50:51;15.12.2018;16:00:00;15.12.2018;21:00:00;2269058;215867;Gewartet;Weichensteuerung;;5;16;kein Fehler;;;
+C;01-9001-2-001-01;W5001;W5001 Endlagenverlust;A474;17.12.2018;16:40:25;14.11.2018;14:00:00;14.11.2018;15:00:00;2269215;215912;Gewartet;Weiche5000 Weichenantrieb;;5;16;kein Fehler;;;
+C;01-0340-2-001-01;W1009;W1009 - Licht schwarz;A474;16.12.2018;05:50:25;17.12.2018;06:49:22;;00:00:00;2269052;215917;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;W0274;Weichen Nr. 274. De Mio avisiert;A474;13.12.2018;05:17:27;13.12.2018;06:31:54;;00:00:00;2268810;215866;;;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;03-0101-004-01-1;;Ast auf der Oberleitung;A474;12.12.2018;06:30:45;12.12.2018;06:39:58;;00:00:00;2268723;215857;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0340-2-001-01;W1014;Weiche Bundesgasse - Schwanengasse;A474;12.12.2018;11:44:47;12.12.2018;12:04:15;;00:00:00;2268761;;;;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-091-06-1;;Schaden an Weichenheizung DEig;A474;11.12.2018;13:06:29;11.12.2018;13:10:00;;00:00:00;2268682;215856;Ersetzt;;;6;2;Fahrleitungsschaden;;;
+A;03-0101-006-09;;Baum auf Querdraht;A474;10.12.2018;12:40:11;09.12.2018;04:15:00;09.12.2018;06:15:00;2268578;215852;Weitere Aktionen;kein Fehler;;6;1;Entgleisung;;;
+C;01-0902-2-001-01;W0106;Weichen Nr W0106 T1 beim Gpl Block brenn;A474;10.12.2018;21:34:39;11.12.2018;06:47:53;;00:00:00;2268608;215855;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;W1009 Schwarz;A474;10.12.2018;11:40:09;27.11.2018;22:00:00;27.11.2018;23:00:00;2268549;215850;;;;7;2;Kein Block;;;
+C;01-0337-2-001-01;W2002;W2002 stellt trotz Blockbelegung um;A474;10.12.2018;10:14:53;10.12.2018;10:34:59;;00:00:00;2268547;215848;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0337-2-001-01;W2002;Weichenlicht W2002 Schwarz;A474;10.12.2018;11:04:18;08.12.2018;11:30:00;08.12.2018;12:30:00;2268548;215849;;;;7;7;Unbekannter Fehler;;;
+C;01-0340-2-001-01;W0043;W0043 Weichenlicht Schwarz;A474;10.12.2018;11:44:24;27.11.2018;21:00:00;27.11.2018;22:00:00;2268570;215851;Gereinigt;;;7;2;Kein Block;;;
+C;01-0340-2-001-01;W1016;W1016 Block bleibt hängen;A474;09.12.2018;07:15:46;10.12.2018;06:53:13;;00:00:00;2268486;215847;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0338-2-001-01;W2000;W2000 Block bleibt hängen;A474;09.12.2018;07:18:47;10.12.2018;06:53:33;;00:00:00;2268487;215846;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0903-2-001-01;W0211;W211 Block drin, kein Pfeil;A474;09.12.2018;08:49:20;10.12.2018;06:53:54;;00:00:00;2268489;215845;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0103;;Deckel ab von Trafostation Brunnhof;A474;08.12.2018;11:15:38;10.12.2018;07:10:15;;00:00:00;2268452;;;;;5;17;unbekannter Fehler;2;5;Höhere Gewalt
+C;01-0803-2-001-01;W2010;Weich 2010 fällt nicht in Endlage. Oberl;A474;08.12.2018;14:15:26;10.12.2018;06:46:08;;00:00:00;2268455;215844;;;;7;4;Keine Endlage;2;2;Technische Störung
+C;03-0101-029-05;W2902;Weiche Wyler lässt sich nicht umstellen;A474;08.12.2018;16:57:00;10.12.2018;06:45:39;;00:00:00;2268456;215843;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-091-05;W9101;TB-Weichelicht schwarz,Mattenhof/Ziegler;A474;08.12.2018;05:31:06;10.12.2018;06:50:23;;00:00:00;2268433;215842;;;;6;4;Elektrische Störung;2;2;Technische Störung
+B;03-0101-091-01-2;;OBL abgerissen Mattenhofstr./Zieglerstr.;A474;07.12.2018;06:04:44;07.12.2018;06:51:19;;00:00:00;2268378;215826;;;;6;2;Fahrleitungsschaden;2;6;Drittverschulden
+D;03-0101-013-09;;Ballone im Querdraht;A474;06.12.2018;06:33:19;03.12.2018;15:00:00;04.12.2018;10:00:00;2268289;215819;;;;6;8;sonstiges;;;
+C;03-0101-091-05;W9101;Weichenlicht schwarz;A474;06.12.2018;09:30:02;06.12.2018;09:31:50;;00:00:00;2268327;215824;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;"W0043 ""E"",musste stechen, Oberl. avis.";A474;06.12.2018;18:45:47;07.12.2018;05:55:16;;00:00:00;2268373;215827;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-9000-2-001-01;W4014;Weichenstörung DBo W4014;A474;06.12.2018;06:40:40;03.12.2018;07:30:00;03.12.2018;10:00:00;2268290;215821;Gewartet;Weichenantrieb;;5;16;kein Fehler;;;
+C;01-0303-2-001-01;W5100;Endlagenverlust W5100;A474;06.12.2018;06:27:45;03.12.2018;15:30:00;03.12.2018;16:30:00;2268287;215817;Gewartet;Weichenantrieb;;5;16;kein Fehler;;;
+X;03-0101-013-01-1;FD1304;Prov. Mast Kornhausplatz;A474;03.12.2018;08:08:39;03.12.2018;00:00:00;;00:00:00;2269356;215919;;;;6;8;sonstiges;2;10;unbekannt /sonstiges
+C;01-0303-2-001-01;W5102;Weiche 5102 und Signal Q62 gestört;A474;01.12.2018;08:38:06;03.12.2018;06:49:00;;00:00:00;2267877;;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+A;03-0101-090;;Blockiert kein Strom im Depot Bolligenst;A474;29.11.2018;09:47:02;29.11.2018;10:02:57;;00:00:00;2267760;215812;;;;6;4;Elektrische Störung;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1003;W1003 Block schwarz;A474;27.11.2018;10:34:28;27.11.2018;10:47:56;;00:00:00;2267624;215820;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0901-2-001-02;W3001;Weiche  01 und 06 am Gupl schwarz;A474;27.11.2018;19:11:04;28.11.2018;07:04:55;;00:00:00;2267649;215811;;;;7;2;Kein Block;2;2;Technische Störung
+B;01-0340-2-001-01;W0043;W43+49 stellen sich von alleine Rtg.BÄPL;A474;26.11.2018;06:40:17;26.11.2018;06:45:42;;00:00:00;2267457;;;;;7;2;Kein Block;2;2;Technische Störung
+X;1;;Tr-Weichenlichter anpassen;A474;20.11.2018;06:54:11;19.11.2018;07:00:00;;00:00:00;2267054;215786;Programmiert;;;6;8;sonstiges;2;10;unbekannt /sonstiges
+C;01-0337-2-001-01;W2005;Weiche 2005 bleibt schwarz;A474;16.11.2018;14:42:59;16.11.2018;14:49:06;;00:00:00;2266848;215770;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 stellt nicht für Linie 9;A474;13.11.2018;08:10:59;12.11.2018;21:15:00;12.11.2018;22:15:00;2266539;215766;;;;7;7;Unbekannter Fehler;;;
+A;03-0101-025-01-2;;Kraneinsatz Kramgasse;A474;09.11.2018;08:24:56;08.11.2018;14:00:00;08.11.2018;18:00:00;2266320;215752;Weitere Aktionen;Mithilfe Feuerwehr;;6;3;Fremdeinwirkungen;;;
+C;03-0101-011-05;W1105;Entgleisung Bubenbergplatz;A474;09.11.2018;07:34:32;09.11.2018;07:39:57;;00:00:00;2266314;215765;;;;6;1;Entgleisung;2;2;Technische Störung
+C;01-9001-2-001-01;HNSA600/1;DEig: W500 kontrolliert;A474;09.11.2018;08:23:35;07.11.2018;20:00:00;08.11.2018;12:00:00;2266309;215751;;;;5;15;Ausserhalb Toleranz;;;
+C;01-0340-2-001-01;W1016;Weiche 1016 schwarz;A474;07.11.2018;05:31:06;07.11.2018;06:33:59;;00:00:00;2266113;;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1016;W1016, Weichelicht schwarz:Oberl. avis.;A474;06.11.2018;13:53:46;06.11.2018;14:02:02;;00:00:00;2266089;215749;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0337-2-001-01;W2002;Weiche 2002 gestochen, keine Blockbeleg;A474;05.11.2018;14:15:20;05.11.2018;14:17:16;;00:00:00;2265962;215747;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0337-2-001-01;W2005;Weiche 2005 hinter 8/8 oft falsch;A474;05.11.2018;15:31:20;05.11.2018;15:33:58;;00:00:00;2265967;215746;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0903-2-001-01;W0211;Weiche 211 gestochen (Friedheim);A474;05.11.2018;06:59:58;05.11.2018;07:01:11;;00:00:00;2265914;215745;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-026-01-2;;Oberleitung Klee Buck im Fahrdraht;A474;01.11.2018;16:03:08;01.11.2018;16:33:42;;00:00:00;2265780;;;;;6;2;Fahrleitungsschaden;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1000;W1000 OBLT aufgeboten;A474;31.10.2018;07:09:49;31.10.2018;07:12:15;;00:00:00;2265600;;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1000;Weiche 1000 deblockiert nicht;A474;30.10.2018;16:15:57;30.10.2018;16:46:37;;00:00:00;2265583;;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-9001-2-001-01;HNSA600/1;DEig: Diverse Weichen ohne Endlage;A474;30.10.2018;08:16:19;30.10.2018;06:00:00;30.10.2018;08:00:00;2265535;215733;Eingestellt;;;5;15;Ausserhalb Toleranz;;;
+C;01-0340-2-001-01;W0049;Weiche 0049 schwarz;A474;29.10.2018;06:52:23;29.10.2018;07:02:32;29.10.2018;08:30:00;2265412;215723;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W0049;W49  schwarz Oberl avis.;A474;29.10.2018;14:59:32;29.10.2018;15:08:06;;00:00:00;2265482;;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/1;DBo: SB 1 ausgefallen;A474;29.10.2018;08:53:44;25.10.2018;16:00:00;25.10.2018;17:00:00;2265403;215724;Gewartet;Weichensteuerung;;5;16;kein Fehler;;;
+C;01-0340-2-001-01;W1004;W1004 Weichenlicht schwarz;A474;27.10.2018;14:53:43;27.10.2018;15:24:04;27.10.2018;19:00:00;2265329;215722;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0703-2-001-01;W2006;Weichenlicht T1 T2 defekt;A474;26.10.2018;11:54:11;27.10.2018;12:00:00;27.10.2018;14:00:00;2265295;215721;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+B;03-0101-027-01-2;;1 Paar Schuhe an Oberleitung/Entgleisung;A474;24.10.2018;22:47:55;25.10.2018;06:40:18;;00:00:00;2265129;215717;;;;6;1;Entgleisung;2;1;Vandalenschaden
+C;01-0339-2-001-01;W0185;Weiche von Hand gestellt.;A474;24.10.2018;06:50:35;24.10.2018;06:51:51;;00:00:00;2265034;215716;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+D;03-0101-012-09;;Schuhe in Abspannung bei HG Kirche;A474;23.10.2018;07:15:57;21.10.2018;17:00:00;22.10.2018;12:00:00;2264967;215713;;;;6;3;Fremdeinwirkungen;2;1;Vandalenschaden
+C;01-0340-2-001-01;W0049;W49 dunkel;A474;22.10.2018;05:21:43;22.10.2018;06:46:39;;00:00:00;2264871;215708;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W0049;Weichenlicht schwarz;A474;22.10.2018;17:33:46;23.10.2018;06:36:41;;00:00:00;2264944;215714;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;W1009 stellt selber nach Wallgasse;A474;18.10.2018;14:49:25;18.10.2018;15:06:37;;00:00:00;2264736;215703;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1012;Wallgasse T1+T2 nur Block brennt;A474;18.10.2018;10:42:37;18.10.2018;10:47:45;;00:00:00;2264690;215700;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0901-2-001-01;W3000;Weiche 3000 Blockbelegung;A474;18.10.2018;15:46:14;18.10.2018;15:51:27;;00:00:00;2264739;215704;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+A;03-0101-011-01-1;;FL Schaden Bubenbergplatz;A474;17.10.2018;06:45:18;16.10.2018;15:20:00;16.10.2018;20:30:00;2264594;215695;Ausgetauscht;FLachprofil ersetzt;;6;2;Fahrleitungsschaden;2;4;Fehlmanipulation
+A;03-0101-011-01-1;;FDA meldet kein  Strom um 15:20 Uhr;A474;16.10.2018;19:24:41;17.10.2018;06:38:22;;00:00:00;2264582;;;;;6;2;Fahrleitungsschaden;2;6;Drittverschulden
+C;01-0341-2-001-01;EXW0101;W0101 Block bleibt drin;A474;16.10.2018;07:57:20;16.10.2018;08:02:34;;00:00:00;2264529;215693;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weiche 101 Casinoplatz Blockbelegung;A474;15.10.2018;09:12:47;15.10.2018;09:23:17;;00:00:00;2264300;215690;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+X;03-0101-090-14;AP9001;Wartung Achskurzschluss-Prüfanlage;A474;15.10.2018;08:52:04;;00:00:00;;00:00:00;2264297;215581;Gewartet;Achskurzschluss-Prüfanlage;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1010;Weiche 1010 gestochen;A474;09.10.2018;09:55:56;09.10.2018;10:55:56;;00:00:00;2263978;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;Weiche 1014 gestochen;A474;08.10.2018;21:24:09;09.10.2018;07:31:28;;00:00:00;2263955;;;;;7;3;Von Hand gestellt;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1003;Weiche 1003 schwarz;A474;08.10.2018;18:50:57;09.10.2018;07:31:02;;00:00:00;2263952;215565;;;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1010;Weiche 1010 gestochen;A474;05.10.2018;07:56:43;05.10.2018;08:16:04;;00:00:00;2263768;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+D;03-0101-012-05;W1205;Tb- Weiche 1205: Abdeckung fehlte;A474;05.10.2018;06:48:53;01.10.2018;07:00:00;01.10.2018;12:00:00;2263764;215554;Revidiert;Weichenanlage rev.;;6;1;Entgleisung;;;
+B;01-0340-2-001-01;W1003;Weiche 1003 schwarz / schwarz;A474;04.10.2018;13:26:38;04.10.2018;13:43:28;;00:00:00;2263715;;;;;7;2;Kein Block;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1010;Weiche 1010 gestochen;A474;03.10.2018;10:08:28;03.10.2018;10:25:22;;00:00:00;2263623;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;01-0340-2-001-01;W0049;Weiche0049 Wartung Weichenantrieb;A474;02.10.2018;14:43:09;;00:00:00;;00:00:00;2263537;215547;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0002;STW0002 Wartung Weichenantrieb;A474;02.10.2018;14:42:12;;00:00:00;;00:00:00;2263534;215545;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0003;STW0003 Wartung Weichenantrieb;A474;02.10.2018;14:42:42;;00:00:00;;00:00:00;2263536;215546;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;EXSTW0007;STW0007 Wartung Weichenantrieb;A474;02.10.2018;14:43:41;;00:00:00;;00:00:00;2263538;215548;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;EXSTW0008;STW0008 Wartung Weichenantrieb;A474;02.10.2018;14:44:09;;00:00:00;;00:00:00;2263539;215549;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0039;STW0039 Wartung Weichenantrieb;A474;02.10.2018;14:37:11;;00:00:00;;00:00:00;2263525;215536;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0042;STW0042 Wartung Weichenantrieb;A474;02.10.2018;14:38:20;;00:00:00;;00:00:00;2263526;215537;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0043;STW0043 Wartung Weichenantrieb;A474;02.10.2018;14:38:51;;00:00:00;;00:00:00;2263527;215538;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0045;STW0045 Wartung Weichenantrieb;A474;02.10.2018;14:39:19;;00:00:00;;00:00:00;2263528;215539;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0048;STW0048 Wartung Weichenantrieb;A474;02.10.2018;14:39:47;;00:00:00;;00:00:00;2263529;215540;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0049;STW0049 Wartung Weichenantrieb;A474;02.10.2018;14:40:16;;00:00:00;;00:00:00;2263530;215541;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0051;STW0051 Wartung Weichenantrieb;A474;02.10.2018;14:40:44;;00:00:00;;00:00:00;2263531;215542;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0053;STW0053 Wartung Weichenantrieb;A474;02.10.2018;14:41:12;;00:00:00;;00:00:00;2263532;215543;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0055;STW0055 Wartung Weichenantrieb;A474;02.10.2018;14:41:41;;00:00:00;;00:00:00;2263533;215544;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;01.10.2018;17:19:48;02.10.2018;06:51:23;;00:00:00;2263360;215552;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weichenlicht 1003 schwarz;A474;01.10.2018;06:07:07;01.10.2018;07:15:42;;00:00:00;2263269;215534;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 gestochen.;A474;28.09.2018;16:17:23;28.09.2018;16:18:19;;00:00:00;2263185;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;Weiche 1014 gestochen;A474;28.09.2018;21:29:57;01.10.2018;07:21:59;;00:00:00;2263202;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-011-05;W1102;Hi'graben Weiche - HB fällt falsch;A474;28.09.2018;06:09:16;28.09.2018;06:39:15;;00:00:00;2263127;;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-004-01-1;;Bäume verdecken Signal;A474;26.09.2018;12:23:03;26.09.2018;12:27:08;;00:00:00;2262968;202141;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0803-2-001-01;W2010;keine Anmeldung auf LSA durch Weichenste;A474;25.09.2018;12:16:16;25.09.2018;12:29:50;;00:00:00;2262902;215527;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0903-2-001-01;W0211;Friedheim: Weichenlicht schwarz;A474;25.09.2018;14:37:44;25.09.2018;14:45:22;;00:00:00;2262906;215528;;;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-012-01-2;;Pol. meldet Plastik auf Oberl.;A474;24.09.2018;19:07:38;25.09.2018;06:35:07;;00:00:00;2262882;215526;;;;6;3;Fremdeinwirkungen;2;1;Vandalenschaden
+C;03-0101-022-01-2;;Fahrleitungsschaden nach Sturm;A474;24.09.2018;10:13:32;23.09.2018;12:00:00;;00:00:00;2262834;215525;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0903-2-001-01;W0211;kein Weichenpfeil;A474;24.09.2018;07:36:57;24.09.2018;07:46:14;;00:00:00;2262817;215524;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W 1010 musste gestochen werden;A474;22.09.2018;12:30:06;24.09.2018;06:42:18;;00:00:00;2262756;;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-01;W1010;Weiche 1010 gestochen;A474;22.09.2018;09:25:53;24.09.2018;06:42:41;;00:00:00;2262745;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0703-2-001-01;W2006;W2006 kein Weichenblock m. Pantograph;A474;21.09.2018;08:17:24;21.09.2018;08:23:48;;00:00:00;2262669;;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weiche 1003 stellt gegen Perron A;A474;20.09.2018;08:46:23;20.09.2018;09:42:52;;00:00:00;2262593;215523;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0902-2-001-01;HNP0105;LSA Anmeldung funktioniert nicht;A474;20.09.2018;13:33:57;17.09.2018;07:00:00;18.09.2018;12:00:00;2262618;215522;Weitere Aktionen;;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;03-0101-026-01-2;;Oberleitungsschaden Wenderadius PaulKlee;A474;19.09.2018;10:18:19;19.09.2018;10:36:45;;00:00:00;2262537;215521;;;;6;2;Fahrleitungsschaden;2;10;unbekannt /sonstiges
+B;01-0340-2-001-01;W1010;Weichen Nr 1010 ist schwarz;A474;19.09.2018;16:23:17;19.09.2018;16:34:56;;00:00:00;2262564;215520;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+X;03-0101-091-12;#NAME?;Jahreswartung schwenkbare Fahrleitung;A474;17.09.2018;08:02:12;;00:00:00;;00:00:00;2262226;215363;Gewartet;schwenkbare Fahrleitung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP0043;HNP0043 Jahreswartung Weichensteuerung;A474;17.09.2018;08:47:30;;00:00:00;;00:00:00;2262258;215481;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP0045;HNP0045 Jahreswartung Weichensteuerung;A474;17.09.2018;08:48:01;;00:00:00;;00:00:00;2262259;215482;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP0049;HNP0049 Jahreswartung Weichensteuerung;A474;17.09.2018;08:49:21;;00:00:00;;00:00:00;2262260;215483;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;HNP0101;HNP0101 Jahreswartung Weichensteuerung;A474;17.09.2018;08:34:40;;00:00:00;;00:00:00;2262239;215451;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;HNP0105;HNP0105 Jahreswartung Weichensteuerung;A474;17.09.2018;08:49:50;;00:00:00;;00:00:00;2262261;215484;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;HNP0185;HNP0185 Jahreswartung Weichensteuerung;A474;17.09.2018;08:12:14;;00:00:00;;00:00:00;2262229;215436;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;HNP0188;HNP0188 Jahreswartung Weichensteuerung;A474;17.09.2018;08:12:59;;00:00:00;;00:00:00;2262230;215437;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;HNP0208;HNP0208 Jahreswartung Weichensteuerung;A474;17.09.2018;08:17:37;;00:00:00;;00:00:00;2262231;215438;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;HNP0211;HNP0211 Jahreswartung Weichensteuerung;A474;17.09.2018;08:27:48;;00:00:00;;00:00:00;2262232;215439;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;HNP0239;HNP0239 Jahreswartung Weichensteuerung;A474;17.09.2018;08:28:14;;00:00:00;;00:00:00;2262233;215440;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;HNP0274;HNP0274 Jahreswartung Weichensteuerung;A474;17.09.2018;08:50:20;;00:00:00;;00:00:00;2262262;215485;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0342-2-001-01;HNP0301;HNP0301 Jahreswartung Weichensteuerung;A474;17.09.2018;08:50:53;;00:00:00;;00:00:00;2262263;215486;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0802-2-001-01;HNP0304;HNP0304 Jahreswartung Weichensteuerung;A474;17.09.2018;08:51:22;;00:00:00;;00:00:00;2262264;215487;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1000;HNP1000 Jahreswartung Weichensteuerung;A474;17.09.2018;08:51:52;;00:00:00;;00:00:00;2262265;215488;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1003;HNP1003 Jahreswartung Weichensteuerung;A474;17.09.2018;08:52:17;;00:00:00;;00:00:00;2262266;215489;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1006;HNP1006 Jahreswartung Weichensteuerung;A474;17.09.2018;08:38:57;;00:00:00;;00:00:00;2262250;215465;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1009;HNP1009 Jahreswartung Weichensteuerung;A474;17.09.2018;08:39:54;;00:00:00;;00:00:00;2262251;215466;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1014;HNP1014 Jahreswartung Weichensteuerung;A474;17.09.2018;08:42:34;;00:00:00;;00:00:00;2262252;215467;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1016;HNP1016 Jahreswartung Weichensteuerung;A474;17.09.2018;08:43:55;;00:00:00;;00:00:00;2262253;215468;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-01;HNP2000;HNP2000 Jahreswartung Weichensteuerung;A474;17.09.2018;08:44:26;;00:00:00;;00:00:00;2262254;215469;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;HNP2002;HNP2002 Jahreswartung Weichensteuerung;A474;17.09.2018;08:35:11;;00:00:00;;00:00:00;2262240;215452;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0703-2-001-01;HNP2006;HNP2006 Jahreswartung Weichensteuerung;A474;17.09.2018;08:35:39;;00:00:00;;00:00:00;2262241;215453;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;HNP2010;HNP2010 Jahreswartung Weichensteuerung;A474;17.09.2018;08:36:19;;00:00:00;;00:00:00;2262246;215454;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;HNP2112;HNP2112 Jahreswartung Weichensteuerung;A474;17.09.2018;08:36:47;;00:00:00;;00:00:00;2262247;215455;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0901-2-001-01;HNP3000;HNP3000 Jahreswartung Weichensteuerung;A474;17.09.2018;08:28:42;;00:00:00;;00:00:00;2262234;215441;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;HNP3002;HNP3002 Jahreswartung Weichensteuerung;A474;17.09.2018;08:37:18;;00:00:00;;00:00:00;2262248;215456;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;HNP3006;HNP3006 Jahreswartung Weichensteuerung;A474;17.09.2018;08:37:47;;00:00:00;;00:00:00;2262249;215457;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;HNSA502/1;HNSA502/1 Wartung Heizung und Steuerung;A474;17.09.2018;08:46:33;;00:00:00;;00:00:00;2262257;215480;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;HNSA502/2;HNSA502/2 Jahreswartung Weichensteuerung;A474;17.09.2018;08:30:10;;00:00:00;;00:00:00;2262237;215444;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;HNSA502/3;HNSA502/3 Jahreswartung Weichensteuerung;A474;17.09.2018;08:30:54;;00:00:00;;00:00:00;2262238;215445;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;HNSA600/1;HNSA600/1 Jahreswartung Weichensteuerung;A474;17.09.2018;08:44:55;;00:00:00;;00:00:00;2262256;215470;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;HNP5100;HNP5100 Jahreswartung Weichensteuerung;A474;17.09.2018;08:29:15;;00:00:00;;00:00:00;2262235;215442;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;HNP5102;HNP5102 Jahreswartung Weichensteuerung;A474;17.09.2018;08:29:45;;00:00:00;;00:00:00;2262236;215443;Gewartet;Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-03;HCP2112;HCP2112 Jahreswartung Weichenheizung;A474;17.09.2018;09:49:10;;00:00:00;;00:00:00;2262287;215477;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-03;HCP2000;HCP2000 Jahreswartung Weichenheizung;A474;17.09.2018;09:53:22;;00:00:00;;00:00:00;2262293;215493;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0703-2-001-03;HCP2006;HCP2006 Jahreswartung Weichenheizung;A474;17.09.2018;09:54:41;;00:00:00;;00:00:00;2262295;215495;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP1014;HCP1014 Jahreswartung Weichenheizung;A474;17.09.2018;09:42:21;;00:00:00;;00:00:00;2262280;215464;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-03;HCP0274;HCP0274 Jahreswartung Weichenheizung;A474;17.09.2018;09:40:36;;00:00:00;;00:00:00;2262276;215460;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP0043;HCP0043 Jahreswartung Weichenheizung;A474;17.09.2018;09:36:39;;00:00:00;;00:00:00;2262271;215446;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0342-2-001-03;HCP0301;HCP0301 Jahreswartung Weichenheizung;A474;17.09.2018;09:47:19;;00:00:00;;00:00:00;2262283;215473;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-03;HCP0211;HCP0211 Jahreswartung Weichenheizung;A474;17.09.2018;09:38:54;;00:00:00;;00:00:00;2262275;215459;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-03;HCP3006;HCP3006 Jahreswartung Weichenheizung;A474;17.09.2018;10:02:53;;00:00:00;;00:00:00;2262296;215496;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-03;HCP0105;HCP0105 Jahreswartung Weichenheizung;A474;17.09.2018;09:52:27;;00:00:00;;00:00:00;2262291;215491;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0907-2-001-03;HCP4004;HCP4004 Jahreswartung Weichenheizung;A474;17.09.2018;10:03:20;;00:00:00;;00:00:00;2262297;215497;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-03;HCP2010;HCP2010 Jahreswartung Weichenheizung;A474;17.09.2018;09:48:44;;00:00:00;;00:00:00;2262286;215476;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-03;HCP0185;HCP0185 Jahreswartung Weichenheizung;A474;17.09.2018;09:42:47;;00:00:00;;00:00:00;2262281;215471;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-03;HCP0188;HCP0188 Jahreswartung Weichenheizung;A474;17.09.2018;09:46:48;;00:00:00;;00:00:00;2262282;215472;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP0049;HCP0049 Jahreswartung Weichenheizung;A474;17.09.2018;09:37:42;;00:00:00;;00:00:00;2262273;215447;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP1003;HCP1003 Jahreswartung Weichenheizung;A474;17.09.2018;09:41:02;;00:00:00;;00:00:00;2262277;215461;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP1016;HCP1016 Jahreswartung Weichenheizung;A474;17.09.2018;09:52:55;;00:00:00;;00:00:00;2262292;215492;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-03;HCP3002;HCP3002 Jahreswartung Weichenheizung;A474;17.09.2018;09:51:32;;00:00:00;;00:00:00;2262289;215479;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0802-2-001-03;HCP0304;HCP0304 Jahreswartung Weichenheizung;A474;17.09.2018;09:47:51;;00:00:00;;00:00:00;2262284;215474;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP1006;HCP1006 Jahreswartung Weichenheizung;A474;17.09.2018;09:41:28;;00:00:00;;00:00:00;2262278;215462;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP1000;HCP1000 Jahreswartung Weichenheizung;A474;17.09.2018;09:48:18;;00:00:00;;00:00:00;2262285;215475;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-03;HCP2002;HCP2002 Jahreswartung Weichenheizung;A474;17.09.2018;09:54:15;;00:00:00;;00:00:00;2262294;215494;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-03;HCP1009;HCP1009 Jahreswartung Weichenheizung;A474;17.09.2018;09:41:56;;00:00:00;;00:00:00;2262279;215463;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0901-2-001-03;HCP3000;HCP3000 Jahreswartung Weichenheizung;A474;17.09.2018;09:49:39;;00:00:00;;00:00:00;2262288;215478;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-03;HCP0208;HCP0208 Jahreswartung Weichenheizung;A474;17.09.2018;09:38:09;;00:00:00;;00:00:00;2262274;215458;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-03;HCP5000;HCP5000 Jahreswartung Weichenheizung;A474;17.09.2018;10:03:48;;00:00:00;;00:00:00;2262298;215498;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-03;HCP5006;HCP5006 Jahreswartung Weichenheizung;A474;17.09.2018;10:04:16;;00:00:00;;00:00:00;2262299;215499;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-03;HCP5100;HCP5100 Jahreswartung Weichenheizung;A474;17.09.2018;10:04:40;;00:00:00;;00:00:00;2262300;215500;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-03;HCP0101;HCP0101 Jahreswartung Weichenheizung;A474;17.09.2018;09:52:00;;00:00:00;;00:00:00;2262290;215490;Gewartet;Weichenheizung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0337-2-001-01;W2002;Weiche 2002 gestochen, keine Blockbeleg.;A474;14.09.2018;09:30:12;14.09.2018;10:09:02;;00:00:00;2262069;;;;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-026-01-2;;Fahrgast meldet Muristr.5 s.Notiz;A474;12.09.2018;19:03:58;12.09.2018;18:00:00;12.09.2018;20:00:00;2261934;215359;;;;6;8;sonstiges;2;10;unbekannt /sonstiges
+C;01-0337-2-001-01;W2002;W2002 Von Hand gestellt;A474;12.09.2018;10:31:25;12.09.2018;11:00:19;;00:00:00;2261866;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0337-2-001-01;W2002;Weiche 2002 von Hand gestellt;A474;12.09.2018;10:28:56;12.09.2018;10:59:33;;00:00:00;2261865;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-006-01-2;;FL Kontrolle nach Entgleisung DGTB;A474;11.09.2018;06:57:16;10.09.2018;15:00:00;10.09.2018;16:00:00;2261770;215355;Weitere Aktionen;kein Fehler;;6;1;Entgleisung;2;2;Technische Störung
+D;01-0340-2-001-03;HCP1009;W1009: HCP austauschen;A474;11.09.2018;06:59:22;11.09.2018;07:00:00;12.09.2018;14:00:00;2261771;215356;Ausgetauscht;HCP ausgetauscht, zur Kontrolle an H&K;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;03-0101-013-01;;Eingang Marktgasse Ballone an der Oberle;A474;10.09.2018;07:24:44;10.09.2018;07:37:18;10.09.2018;12:00:00;2261681;215354;;;;6;3;Fremdeinwirkungen;2;6;Drittverschulden
+C;01-0340-2-001-01;W1010;W1010, musste stechen,Oberl. avis.;A474;10.09.2018;07:46:44;10.09.2018;07:48:46;;00:00:00;2261685;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;01-0902-2-001-01;STW0010;STW0010 Wartung Weichenantrieb W0105;A474;10.09.2018;08:12:56;;00:00:00;;00:00:00;2261693;215343;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;STW0011;STW0011 Wartung Weichenantrieb W0106;A474;10.09.2018;08:13:53;;00:00:00;;00:00:00;2261694;215344;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;STW0033;STW0033 Wartung Weichenantrieb W0274;A474;10.09.2018;08:09:22;;00:00:00;;00:00:00;2261687;215334;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0342-2-001-01;STW0035;STW0035 Wartung Weichenantrieb W0301;A474;10.09.2018;08:10:19;;00:00:00;;00:00:00;2261688;215335;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0802-2-001-01;STW0037;STW0037 Wartung Weichenantrieb W0304;A474;10.09.2018;08:14:23;;00:00:00;;00:00:00;2261695;215347;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0901-2-001-01;STW0071;STW0071 Wartung Weichenantrieb W3000;A474;10.09.2018;08:10:49;;00:00:00;;00:00:00;2261689;215336;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;STW0073;STW0073 Wartung Weichenantrieb W3002;A474;10.09.2018;08:11:21;;00:00:00;;00:00:00;2261690;215337;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;STW0075;STW0075 Wartung Weichenantrieb W3004;A474;10.09.2018;08:11:48;;00:00:00;;00:00:00;2261691;215338;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;STW0077;STW0077 Wartung Weichenantrieb W3006;A474;10.09.2018;08:12:19;;00:00:00;;00:00:00;2261692;215339;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-009;;SEGG + SRAN kommen Äste nahe an Oberleit;A474;03.09.2018;16:11:13;03.09.2018;16:38:11;;00:00:00;2261276;;;;;6;8;sonstiges;2;5;Höhere Gewalt
+C;01-9000-2-001-01;HNSA502/1;DBo: SB 1 ausgefallen;A474;30.08.2018;06:28:23;24.08.2018;17:00:00;24.08.2018;18:00:00;2260905;215317;Weitere Aktionen;HFP eingelesen;;7;6;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/2;DBo: SB 2 ausgefallen;A474;30.08.2018;06:26:33;22.08.2018;15:00:00;22.08.2018;16:00:00;2260904;215316;Kontrolliert;Endlage wieder eingestellt;;7;4;Keine Endlage;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/3;DBo: SB 3 ausgefaalen;A474;30.08.2018;06:21:43;28.08.2018;06:30:00;28.08.2018;08:00:00;2260903;215314;Weitere Aktionen;HFP eingelesen;;7;6;Ausserhalb Toleranz;2;2;Technische Störung
+B;02.09.5300/01;900.0.012.1;Störung Schranke Saali,schliesst nicht;A474;29.08.2018;07:12:09;29.08.2018;07:00:00;25.09.2018;09:00:00;2260744;215325;;;;5;12;verstellt;2;2;Technische Störung
+C;03-0101-011-01-2;;Bubenbergplatz: FL Schaden;A474;28.08.2018;07:38:21;25.08.2018;17:30:00;25.08.2018;18:30:00;2260662;215310;Ersetzt;;;6;2;Fahrleitungsschaden;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;Weiche 1009 schwarz;A474;28.08.2018;12:20:28;28.08.2018;12:30:00;28.08.2018;13:30:00;2260685;215315;;;;7;2;Kein Block;2;2;Technische Störung
+X;01-0339-2-001-01;STW0013;STW0013 Wartung Weichenantrieb W0185;A474;27.08.2018;09:42:00;;00:00:00;;00:00:00;2260497;215297;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;STW0016;STW0016 Wartung Weichenantrieb W0188;A474;27.08.2018;09:42:33;;00:00:00;;00:00:00;2260498;215298;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;STW0018;STW0018 Wartung Weichenantrieb W0190;A474;27.08.2018;09:43:03;;00:00:00;;00:00:00;2260499;215299;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;STW0024;STW0024 Wartung Weichenantrieb W0211;A474;27.08.2018;09:43:31;;00:00:00;;00:00:00;2260500;215300;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;STW0028;STW0028 Wartung Weichenantrieb W0239;A474;27.08.2018;09:44:01;;00:00:00;;00:00:00;2260501;215301;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-01;STW0057;STW0057 Wartung Weichenantrieb W2000;A474;27.08.2018;09:37:58;;00:00:00;;00:00:00;2260490;215290;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;STW0059;STW0059 Wartung Weichenantrieb W2002;A474;27.08.2018;09:38:52;;00:00:00;;00:00:00;2260491;215291;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;STW0062;STW0062 Wartung Weichenantrieb W2005;A474;27.08.2018;09:39:24;;00:00:00;;00:00:00;2260492;215292;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0703-2-001-01;STW0063;STW0063 Wartung Weichenantrieb W2006;A474;27.08.2018;09:39:54;;00:00:00;;00:00:00;2260493;215293;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;STW0066;STW0066 Wartung Weichenantrieb W2009;A474;27.08.2018;09:40:27;;00:00:00;;00:00:00;2260494;215294;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;STW0067;STW0067 Wartung Weichenantrieb W2010;A474;27.08.2018;09:40:58;;00:00:00;;00:00:00;2260495;215295;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;STW0069;STW0069 Wartung Weichenantrieb W2112;A474;27.08.2018;09:41:31;;00:00:00;;00:00:00;2260496;215296;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;STW0021;STW0021 Wartung Weichenantrieb W0208;A474;27.08.2018;09:44:34;;00:00:00;;00:00:00;2260502;215307;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-005-01-1;;Äste streifen Schleifstück;A474;25.08.2018;23:59:17;27.08.2018;06:46:05;29.08.2018;12:00:00;2260435;202141;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;03-0101-011-01-1;;HB - Hgr Oberleitungsschaden;A474;25.08.2018;17:41:38;27.08.2018;06:43:32;;00:00:00;2260426;215310;;;;6;2;Fahrleitungsschaden;2;10;unbekannt /sonstiges
+C;03-0101-008-01-1;;Bäume schneiden;A474;23.08.2018;10:11:59;23.08.2018;10:27:06;29.08.2018;12:00:00;2260272;202141;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0902-2-001-01;W0105;W105 / Block dauernd belegt;A474;23.08.2018;06:23:43;23.08.2018;06:41:09;;00:00:00;2260261;215279;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0902-2-001-01;W0105;W105 dauernd im Block belegt;A474;23.08.2018;09:21:10;23.08.2018;09:28:38;;00:00:00;2260269;215279;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0902-2-001-01;HNP0105;W0105: Block bleibt hängen;A474;22.08.2018;15:11:46;22.08.2018;15:25:01;;00:00:00;2260231;215279;Ausgetauscht;HFK Böxli getauscht;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Weichenblock löscht nicht;A474;21.08.2018;06:24:44;21.08.2018;06:38:54;21.08.2018;09:00:00;2260078;215278;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0902-2-001-01;HNP0105;W0105: Block bleibt hängen;A474;20.08.2018;06:35:24;18.08.2018;15:00:00;18.08.2018;16:00:00;2259983;215258;Eingestellt;HFK neu eingelesen;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0902-2-001-01;W0105;Weiche 105 deblockiert nicht;A474;18.08.2018;14:57:43;20.08.2018;06:41:40;20.08.2018;12:00:00;2259933;;Weitere Aktionen;keien Meldung erhalten;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W 1010 gestochen;A474;18.08.2018;11:26:57;20.08.2018;06:41:08;;00:00:00;2259927;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-017-01-1;;Muri Mithilfe RBS;A474;16.08.2018;08:47:41;15.08.2018;07:00:00;15.08.2018;17:00:00;2259769;215253;Ausgetauscht;Kabel ersetzt;;6;4;Elektrische Störung;2;2;Technische Störung
+C;01-0340-2-001-03;HCP0049;HCP: W0049 HLR getauscht;A474;16.08.2018;11:54:38;16.08.2018;07:00:00;16.08.2018;12:00:00;2259798;215256;Ausgetauscht;HLR getauscht;;5;8;Kurzschluss;2;2;Technische Störung
+C;01-0902-2-001-01;W0105;Weiche 105 Guisanplatz;A474;15.08.2018;10:30:39;15.08.2018;10:52:22;;00:00:00;2259642;215251;;;;7;1;Block nicht gelöscht;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;15.08.2018;08:00:07;15.08.2018;08:02:41;;00:00:00;2259567;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;15.08.2018;08:27:18;15.08.2018;08:40:30;;00:00:00;2259572;214786;;;;7;3;Von Hand gestellt;2;10;unbekannt /sonstiges
+C;01-0337-2-001-01;W2005;keine Anmeldung, Block bleibt;A474;15.08.2018;13:40:44;15.08.2018;13:48:55;;00:00:00;2259713;215252;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;13.08.2018;13:14:15;13.08.2018;13:21:37;;00:00:00;2259194;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;13.08.2018;14:15:16;13.08.2018;14:19:32;;00:00:00;2259221;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;03-0101-091-04;K9103;Instandh. Trolleybuskreuzung K9103;A474;13.08.2018;13:05:59;;00:00:00;;00:00:00;2259188;215016;Gewartet;Trolleybuskreuzung K9103;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-04;K9105;Instandh. Trolleybuskreuzung K9105;A474;13.08.2018;13:07:46;;00:00:00;;00:00:00;2259189;215017;Gewartet;Trolleybuskreuzung K9105;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0105;STW0105 Wartung Weichenantrieb W5002;A474;13.08.2018;13:15:20;;00:00:00;;00:00:00;2259197;215229;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0106;STW0106 Wartung Weichenantrieb W5003;A474;13.08.2018;13:15:58;;00:00:00;;00:00:00;2259198;215230;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0107;STW0107 Wartung Weichenantrieb W5004;A474;13.08.2018;13:16:31;;00:00:00;;00:00:00;2259199;215231;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0108;STW0108 Wartung Weichenantrieb W5005;A474;13.08.2018;13:17:04;;00:00:00;;00:00:00;2259200;215232;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0109;STW0109 Wartung Weichenantrieb W5006;A474;13.08.2018;13:18:04;;00:00:00;;00:00:00;2259201;215233;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0110;STW0110 Wartung Weichenantrieb W5007;A474;13.08.2018;13:18:44;;00:00:00;;00:00:00;2259203;215234;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0111;STW0111 Wartung Weichenantrieb W5008;A474;13.08.2018;13:19:16;;00:00:00;;00:00:00;2259204;215235;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0112;STW0112 Wartung Weichenantrieb W5009;A474;13.08.2018;13:19:45;;00:00:00;;00:00:00;2259206;215236;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0113;STW0113 Wartung Weichenantrieb W5010;A474;13.08.2018;13:20:16;;00:00:00;;00:00:00;2259207;215237;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0114;STW0114 Wartung Weichenantrieb W5011;A474;13.08.2018;13:20:47;;00:00:00;;00:00:00;2259208;215238;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;STW0019;STW0019 Wartung Weichenantrieb W5100;A474;13.08.2018;13:13:46;;00:00:00;;00:00:00;2259193;215049;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;STW0131;STW0131 Wartung Weichenantrieb W5101;A474;13.08.2018;13:12:07;;00:00:00;;00:00:00;2259190;214884;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;STW0020;STW0020 Wartung Weichenantrieb W5102;A474;13.08.2018;13:12:38;;00:00:00;;00:00:00;2259191;214885;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;STW0132;STW0132 Wartung Weichenantrieb W5105;A474;13.08.2018;13:13:12;;00:00:00;;00:00:00;2259192;214886;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0133;STW0133 Wartung Weichenantrieb W5000;A474;13.08.2018;13:14:22;;00:00:00;;00:00:00;2259195;215227;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;STW0134;STW0134 Wartung Weichenantrieb W5001;A474;13.08.2018;13:14:53;;00:00:00;;00:00:00;2259196;215228;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1010;Musste Weiche 1010 stechen;A474;11.08.2018;08:03:41;13.08.2018;06:41:44;;00:00:00;2258975;214786;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-01;W1010;W1010 gestochen;A474;11.08.2018;10:46:13;13.08.2018;06:42:05;;00:00:00;2258978;214786;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-01;W1010;W 1010 musste gestochen werden;A474;11.08.2018;11:09:06;13.08.2018;06:42:27;;00:00:00;2258979;214786;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-02;W1002;Weiche 1002 fällt auf Gerade;A474;11.08.2018;14:38:54;13.08.2018;06:43:35;13.08.2018;07:30:00;2258989;;Weitere Aktionen;keien Meldung erhalten;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-005-01-1;;Wagenführer meldet Schlag an der Oberl.;A474;10.08.2018;19:55:05;13.08.2018;06:41:07;13.08.2018;07:00:00;2258940;;;keien Meldung erhalten;;6;2;Fahrleitungsschaden;2;5;Höhere Gewalt
+C;01-0340-2-001-01;W1010;Weiche 1010 blockiert auf Gerade;A474;10.08.2018;19:23:33;13.08.2018;06:40:13;;00:00:00;2258936;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 gestochen;A474;10.08.2018;12:44:38;10.08.2018;12:51:26;;00:00:00;2258917;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 stechen nötig;A474;10.08.2018;11:31:32;10.08.2018;12:08:29;;00:00:00;2258914;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-005-01-1;;Pantograph schlägt Oberl.;A474;09.08.2018;09:35:47;09.08.2018;10:05:16;;00:00:00;2258806;214851;;;;6;8;sonstiges;2;2;Technische Störung
+C;03-0101-005-01-1;;Oberleitung;A474;09.08.2018;11:52:51;09.08.2018;12:20:36;;00:00:00;2258823;214852;;;;6;8;sonstiges;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;09.08.2018;08:03:32;09.08.2018;08:12:42;;00:00:00;2258791;214786;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;Weiche 1014 fällt Richtung Bundesgasse;A474;09.08.2018;19:11:22;10.08.2018;06:37:08;10.08.2018;07:00:00;2258861;;;keien Meldung erhalten;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/1;Gleiskreis 8 belegt;A474;09.08.2018;08:03:44;26.07.2018;08:00:00;26.07.2018;16:00:00;2258792;214788;Repariert;Gleiskreis;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;W185 gestochen, Block vorbelegt.;A474;08.08.2018;06:59:50;08.08.2018;07:01:06;;00:00:00;2258714;214844;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand umgestellt;A474;08.08.2018;11:14:15;08.08.2018;11:23:28;;00:00:00;2258736;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 von Hand gestellt.;A474;07.08.2018;13:05:59;07.08.2018;13:20:38;;00:00:00;2258647;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 schwarz;A474;07.08.2018;07:29:16;07.08.2018;07:48:54;;00:00:00;2258601;214786;;;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-0901-2-001-01;W3000;Weichenlicht 3000 schwarz;A474;07.08.2018;16:01:01;07.08.2018;16:05:05;;00:00:00;2258675;214845;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0339-2-001-01;W0188;Weiche Kocherpark-HB schwarz. 188;A474;07.08.2018;07:42:34;07.08.2018;07:48:14;07.08.2018;08:00:00;2258603;;;keien Meldung erhalten;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-0303-2-001-01;W0208;Weichensignal dunkel;A474;07.08.2018;16:23:41;07.08.2018;16:28:13;;00:00:00;2258677;214846;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Weiche 185 Block bleibt hängen;A474;06.08.2018;06:01:49;06.08.2018;06:49:53;;00:00:00;2258484;214839;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;Weiche 1009 Störung rechte Zunge liegt;A474;06.08.2018;11:04:58;06.08.2018;11:06:47;06.08.2018;12:00:00;2258540;;;Mehrfachmeldung;;7;4;Keine Endlage;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;Weiche 1009 schwarz;A474;06.08.2018;11:00:12;06.08.2018;11:05:58;;00:00:00;2258535;214838;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 blockiert auf Geradeaus;A474;06.08.2018;08:01:20;06.08.2018;08:34:42;;00:00:00;2258503;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Musste Weiche 1010 stechen;A474;06.08.2018;11:51:19;06.08.2018;12:05:26;;00:00:00;2258548;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;03-0101-091-14;PE9101;Halbjahreswartung Pegelprüfstation;A474;06.08.2018;10:43:48;;00:00:00;;00:00:00;2258515;214834;Gewartet;Pegelprüfstation;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1010;Weiche 1010 fällt Richtung Wallgasse;A474;05.08.2018;10:55:14;06.08.2018;06:44:18;;00:00:00;2258456;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 Weichenzunge liegt nicht an;A474;05.08.2018;22:54:33;06.08.2018;06:46:36;;00:00:00;2258478;214786;;;;7;4;Keine Endlage;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 blockiert Richtung Wallgasse;A474;05.08.2018;14:07:33;06.08.2018;06:44:43;;00:00:00;2258460;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Weiche 185,Block bleibt hängen.Oberl. av;A474;04.08.2018;06:12:50;06.08.2018;06:43:54;06.08.2018;07:00:00;2258403;;;Mehrfachmeldung;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 reagiert falsch;A474;04.08.2018;00:09:20;06.08.2018;06:43:36;;00:00:00;2258399;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Musste Weiche 1010 von Hand stellen.;A474;03.08.2018;07:33:35;03.08.2018;07:37:49;;00:00:00;2258344;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 stechen;A474;02.08.2018;08:08:34;02.08.2018;10:02:11;;00:00:00;2258261;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 von Hand. Block nicht belegt.;A474;02.08.2018;08:49:38;02.08.2018;10:01:29;;00:00:00;2258271;214786;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0902-2-001-01;W3002;Weiche 3002 deblockiert nicht;A474;02.08.2018;11:49:15;02.08.2018;11:51:23;;00:00:00;2258293;214824;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;W185 Block vorbelegt, musste stechen.;A474;01.08.2018;06:41:27;02.08.2018;06:38:16;02.08.2018;07:00:00;2258215;;;Mehrfachmeldung;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010,musste stechen,Oberl. avis.;A474;01.08.2018;22:39:56;02.08.2018;06:37:49;;00:00:00;2258240;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Weiche Kocherpark 185 Block löscht nicht;A474;31.07.2018;06:16:20;31.07.2018;06:49:27;31.07.2018;07:00:00;2258141;;;Mehrfachmeldung;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0101-005-01-1;;Oberleitung Pestalozzi-Kurve kontr.;A474;30.07.2018;15:47:30;30.07.2018;16:06:09;30.07.2018;17:00:00;2258111;;;Mehrfachmeldung;;6;8;sonstiges;2;2;Technische Störung
+C;01-0340-2-001-01;W1004;Weiche 1004 reagiert nicht;A474;29.07.2018;20:31:42;30.07.2018;06:56:23;30.07.2018;07:30:00;2257955;;;keien Meldung erhalten;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 reagiert nicht;A474;28.07.2018;07:18:16;30.07.2018;06:55:34;;00:00:00;2257881;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010,musste stechen s.Notiz;A474;28.07.2018;15:41:54;30.07.2018;06:53:25;;00:00:00;2257906;214786;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-01;W1010;Weiche 1010 nicht gestellt;A474;28.07.2018;08:01:28;30.07.2018;06:53:45;;00:00:00;2257890;214786;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-01;W1010;Weiche 1010 nicht gestellet.;A474;28.07.2018;07:58:03;30.07.2018;06:55:00;;00:00:00;2257888;214786;;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;03-0101-091-01-2;;Entgleisung Stomabnehmer;A474;27.07.2018;18:46:12;30.07.2018;06:49:35;30.07.2018;07:00:00;2257872;;;keien Meldung erhalten;;6;8;sonstiges;2;5;Höhere Gewalt
+C;01-0339-2-001-01;W0185;Weiche 185 ist der Block hängengeblieben;A474;27.07.2018;08:40:28;27.07.2018;08:41:15;27.07.2018;09:00:00;2257835;;;Mehrfachmeldung;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 v.Hd./reagierte nicht;A474;26.07.2018;07:46:56;26.07.2018;08:01:45;;00:00:00;2257768;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 v.Hd. reagierte nicht;A474;26.07.2018;07:35:06;26.07.2018;07:35:41;;00:00:00;2257765;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 reagiert nicht;A474;24.07.2018;09:45:58;24.07.2018;09:59:59;;00:00:00;2257623;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;Weiche 1010 reagiert nicht;A474;24.07.2018;06:06:36;24.07.2018;06:39:05;;00:00:00;2257596;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+B;01-0340-2-001-01;W1010;Weiche 1010 reagiert nicht;A474;24.07.2018;09:17:39;24.07.2018;09:23:48;;00:00:00;2257622;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1010 v.Hd./reagierte nicht.;A474;24.07.2018;06:32:06;24.07.2018;06:36:35;;00:00:00;2257601;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weiche 1003 / 1004 reagiert nicht;A474;24.07.2018;05:48:12;24.07.2018;06:37:41;24.07.2018;07:00:00;2257593;;;keien Meldung erhalten;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0339-2-001-01;W0190;Weiche 190 reagiert nicht;A474;24.07.2018;05:55:58;24.07.2018;06:38:20;24.07.2018;07:00:00;2257594;;;keien Meldung erhalten;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+B;01-0340-2-001-01;W1010;Weiche 1010 stellt nicht von selbst.;A474;23.07.2018;11:11:14;23.07.2018;11:47:10;;00:00:00;2257544;214786;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+B;01-0340-2-001-01;W1010;Weiche 1010 funkioniert wieder nicht.;A474;23.07.2018;12:36:11;23.07.2018;12:45:32;;00:00:00;2257551;214786;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1006;W1006 dauernde Blockbelegung;A474;23.07.2018;09:45:09;23.07.2018;10:17:52;;00:00:00;2257538;;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0338-2-001-01;W2000;W2000, musste stechen. Oberl. avis.;A474;21.07.2018;20:04:20;23.07.2018;07:10:54;;00:00:00;2257448;214787;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-091-14;TOR9111;DEig: Torbrücke 10;A474;19.07.2018;06:55:53;17.07.2018;07:00:00;17.07.2018;12:00:00;2257282;214785;Eingestellt;Torbrücke gerichtet;;6;2;Fahrleitungsschaden;2;2;Technische Störung
+C;01-0902-2-001-01;HNP3006;W3006: Failsafe;A474;19.07.2018;05:40:03;17.07.2018;12:00:00;18.07.2018;12:00:00;2257274;214783;Programmiert;HNP kontrolliert;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;03-0101-017-01;;L8 Saali Eigentrassee Büsche schneiden;A474;18.07.2018;10:40:06;18.07.2018;10:48:26;;00:00:00;2257227;214782;Weitere Aktionen;Äste geschnitten;;6;8;sonstiges;2;10;unbekannt /sonstiges
+B;01-0340-2-001-01;W1004;Perron A/B, Weichenlicht schwarz;A474;18.07.2018;14:16:34;18.07.2018;14:35:36;;00:00:00;2257244;214781;Kontrolliert;kein Fehler;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;03-0101-012-05;W1202;Schweizerhofweiche defekt;A474;17.07.2018;05:52:36;16.07.2018;07:00:00;16.07.2018;15:00:00;2257105;214778;Weitere Aktionen;Parameter angepasst;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-011-05;W1107;Entgleisung vor Perron A;A474;17.07.2018;06:13:17;17.07.2018;07:49:36;17.07.2018;10:00:00;2257109;214780;Ersetzt;;;6;1;Entgleisung;2;10;unbekannt /sonstiges
+C;01-9000-2-001-01;HNSA502/2;DBo: SB 2 ausgefallen;A474;17.07.2018;05:48:21;01.07.2018;13:30:00;01.07.2018;14:30:00;2257103;214776;Eingestellt;HFP eingelesen;;7;6;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/3;DBo: SB 3 ausgefaalen;A474;17.07.2018;05:50:00;13.07.2018;19:00:00;13.07.2018;20:00:00;2257104;214777;Weitere Aktionen;HFK neu eingelesen;;7;6;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0340-2-001-01;W1004;Weiche 1004 funktioniert teilweise nicht;A474;16.07.2018;08:05:45;16.07.2018;08:39:47;16.07.2018;12:00:00;2256976;214779;Weitere Aktionen;HFK neu eingelesen;;7;3;Von Hand gestellt;2;10;unbekannt /sonstiges
+X;01-0340-2-001-01;STW0039;STW0039 5-Jahreswartung;A474;16.07.2018;10:07:33;;00:00:00;;00:00:00;2257006;214769;Gewartet;5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0051;STW0051 7-Jahreswartung;A474;16.07.2018;10:06:29;;00:00:00;;00:00:00;2257005;214768;Gewartet;7-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0053;STW0053 7-Jahreswartung;A474;16.07.2018;10:04:50;;00:00:00;;00:00:00;2257004;214767;Gewartet;7-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0339-2-001-01;W0185;bei der Weiche 185 bleibt Block hängen;A474;14.07.2018;06:19:29;14.07.2018;06:46:17;14.07.2018;10:00:00;2256873;214688;Eingestellt;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weiche 101,Weichelicht schwarz;A474;14.07.2018;23:44:46;16.07.2018;06:45:34;16.07.2018;12:00:00;2256903;214691;Weitere Aktionen;keine Meldung;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101;;Geschwindikeitsreduktion;A474;13.07.2018;17:01:37;13.07.2018;15:30:00;13.07.2018;16:30:00;2256852;214772;Weitere Aktionen;Kontrolle der FL;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;03-0101-001-01;;Oberleitung wegen Hize sehr in Bewegung.;A474;13.07.2018;14:56:59;13.07.2018;15:15:16;;00:00:00;2256834;214772;;;;6;8;sonstiges;2;5;Höhere Gewalt
+C;03-0101-024-01;;Ast auf der Fahrleitung;A474;13.07.2018;14:38:11;13.07.2018;14:30:00;13.07.2018;15:30:00;2256833;214773;Weitere Aktionen;Kontrolle der FL;;6;8;sonstiges;2;5;Höhere Gewalt
+C;01-0339-2-001-01;W0185;Weiche Kprk-End bleibt Block hängen 185;A474;13.07.2018;12:05:12;11.07.2018;06:30:00;11.07.2018;07:30:00;2256823;214771;Eingestellt;HFP eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;W185 Block vorbelegt.;A474;12.07.2018;06:20:20;12.07.2018;07:03:09;12.07.2018;12:00:00;2256663;214771;Eingestellt;HFK neu eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Weiche 185 deblockiert nicht;A474;11.07.2018;06:19:57;11.07.2018;06:48:25;11.07.2018;12:00:00;2256584;214771;Geschweisst;GK neu geschweisst;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0902-2-001-01;W3002;Guisanplatz Weichen Nr 3002 Block brennt;A474;11.07.2018;08:00:34;11.07.2018;08:30:13;11.07.2018;09:30:00;2256609;214774;Eingestellt;HFP eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+B;01-0339-2-001-01;W0185;W 185 Blockbelegung löscht nicht;A474;10.07.2018;06:01:09;10.07.2018;07:05:47;14.07.2018;15:00:00;2256509;214771;Eingestellt;HFP eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+D;01-0340-2-001-01;HNP1006;W1006 FailSafe;A474;04.07.2018;15:10:24;04.07.2018;15:23:34;;00:00:00;2256172;214692;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-015-01-1;;Hick in Oberleitung seitwärts;A474;03.07.2018;06:26:22;03.07.2018;06:46:15;;00:00:00;2255992;214689;;;;6;8;sonstiges;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Kocherpark;A474;03.07.2018;06:46:18;03.07.2018;06:51:01;;00:00:00;2256004;214688;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Stumpengeleise;A474;03.07.2018;08:15:50;03.07.2018;08:22:10;;00:00:00;2256024;214691;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+D;01-0303-2-001-01;HNP5100;W5101 gestört;A474;03.07.2018;14:36:37;03.07.2018;11:00:00;10.07.2018;12:00:00;2256067;214690;Weitere Aktionen;KV eingebaut;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0101-027-05;W2701;Weiche Spychergasse def;A474;02.07.2018;16:48:22;03.07.2018;06:38:42;;00:00:00;2255972;214687;;;;6;4;Elektrische Störung;2;2;Technische Störung
+B;03-0101-011-05;W1102;W1102 bleibt auf rechts;A474;01.07.2018;05:57:05;01.07.2018;06:38:03;01.07.2018;08:00:00;2255822;214775;Kontrolliert;Rücksteller betätigt;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weiche 101 Casinoplatz Weichenlicht schw;A474;30.06.2018;20:05:49;02.07.2018;06:40:28;15.07.2018;10:00:00;2255817;214770;Eingestellt;HFK neu eingelesen;;7;7;Unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-9000-2-001-01;HNSA502/1;DBo: SB 1 ausgefallen;A474;29.06.2018;07:24:22;27.06.2018;19:00:00;27.06.2018;20:00:00;2255709;214677;Weitere Aktionen;HFP eingelesen;;7;6;Ausserhalb Toleranz;;;
+C;03-0101-029-01-2;;Äste zurückschneiden.;A474;27.06.2018;14:27:12;27.06.2018;14:39:56;28.06.2018;15:00:00;2255570;202141;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-9001-2-001-01;W5001;W 5001 belegt, löscht nicht;A474;27.06.2018;05:54:31;27.06.2018;06:34:54;28.06.2018;12:00:00;2255524;214658;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0902-2-001-01;W3002;Weiche 3002 deblockiert nicht;A474;26.06.2018;06:34:10;26.06.2018;06:38:53;26.06.2018;15:00:00;2255426;214657;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+X;01-9000-2-001-01;STW0081;STW0081 Wartung Weichenantrieb W4006;A474;26.06.2018;08:43:29;;00:00:00;;00:00:00;2255440;214659;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0082;STW0082 Wartung Weichenantrieb W4007;A474;26.06.2018;08:44:39;;00:00:00;;00:00:00;2255442;214660;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0083;STW0083 Wartung Weichenantrieb W4008;A474;26.06.2018;08:47:09;;00:00:00;;00:00:00;2255445;214661;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0084;STW0084 Wartung Weichenantrieb W4009;A474;26.06.2018;08:47:52;;00:00:00;;00:00:00;2255447;214662;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0086;STW0086 Wartung Weichenantrieb W4011;A474;26.06.2018;08:48:43;;00:00:00;;00:00:00;2255449;214663;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0088;STW0088 Wartung Weichenantrieb W4013;A474;26.06.2018;09:43:47;;00:00:00;;00:00:00;2255457;214664;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0089;STW0089 Wartung Weichenantrieb W4014;A474;26.06.2018;09:47:59;;00:00:00;;00:00:00;2255458;214665;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0090;STW0090 Wartung Weichenantrieb W4015;A474;26.06.2018;09:49:08;;00:00:00;;00:00:00;2255459;214666;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0091;STW0091 Wartung Weichenantrieb W4016;A474;26.06.2018;09:49:56;;00:00:00;;00:00:00;2255460;214667;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0092;STW0092 Wartung Weichenantrieb W4017;A474;26.06.2018;09:50:42;;00:00:00;;00:00:00;2255461;214668;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0093;STW0093 Wartung Weichenantrieb W4018;A474;26.06.2018;09:52:26;;00:00:00;;00:00:00;2255462;214669;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0094;STW0094 Wartung Weichenantrieb W4019;A474;26.06.2018;09:53:25;;00:00:00;;00:00:00;2255463;214670;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0095;STW0095 Wartung Weichenantrieb W4020;A474;26.06.2018;09:54:07;;00:00:00;;00:00:00;2255464;214671;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0096;STW0096 Wartung Weichenantrieb W4021;A474;26.06.2018;09:54:45;;00:00:00;;00:00:00;2255465;214672;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;STW0103;STW0103 Wartung Weichenantrieb W4032;A474;26.06.2018;09:55:23;;00:00:00;;00:00:00;2255466;214673;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-9001-2-001-01;HNSA600/1;DEig: 3fach Weichensteuerung;A474;26.06.2018;07:26:55;25.06.2018;07:00:00;25.06.2018;17:00:00;2255432;214658;;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;03-0101-029;;Wankdorf Bahnhof: Äste in FL;A474;25.06.2018;14:08:53;25.06.2018;07:00:00;25.06.2018;12:00:00;2255394;214656;Weitere Aktionen;Äste geschnitten;;6;8;sonstiges;2;6;Drittverschulden
+C;03-0101-029;;Tb Weiche Wyler;A474;25.06.2018;14:06:29;25.06.2018;07:00:00;25.06.2018;12:00:00;2255393;214655;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-027-01-2;FD2705;Spannung fehlt L20 ausw.;A474;25.06.2018;14:00:43;23.06.2018;20:00:00;23.06.2018;21:00:00;2255390;214652;;;;5;17;unbekannter Fehler;2;10;unbekannt /sonstiges
+C;01-0339-2-001-01;HNP0185;W0185: HFP bleibt hängen;A474;25.06.2018;14:02:47;21.06.2018;06:00:00;21.06.2018;07:00:00;2255391;214653;;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0340-2-001-01;HNP1009;W1009: HFK gestört;A474;25.06.2018;13:55:55;24.06.2018;14:00:00;24.06.2018;15:30:00;2255389;214651;;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/1;DBo: SB 1 ausgefallen;A474;25.06.2018;14:04:02;21.06.2018;17:00:00;21.06.2018;19:00:00;2255392;214654;;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0340-2-001-01;W1000;W1000,Weichelicht schwarz,Oberl. avis.;A474;23.06.2018;12:29:01;23.06.2018;12:00:00;23.06.2018;13:00:00;2255237;214649;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1016;W1016 KL muss v.H. gestellt werden/Pik^.;A474;23.06.2018;06:13:12;23.06.2018;06:30:00;23.06.2018;07:30:00;2255225;214650;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-029-01-2;;Bitte Busch schneiden;A474;21.06.2018;09:52:23;21.06.2018;10:11:03;25.06.2018;12:00:00;2255110;214656;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0340-2-001-01;W1000;Weiche 1000 (Perron C-D) schwarz;A474;21.06.2018;22:30:13;22.06.2018;06:40:08;22.06.2018;12:00:00;2255152;214649;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;Block brennt immer.;A474;21.06.2018;06:01:24;21.06.2018;06:42:01;25.06.2018;12:00:00;2255089;214653;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0101-029-05;W2902;Fahrschule;A474;21.06.2018;16:21:43;21.06.2018;16:30:23;25.06.2018;12:00:00;2255148;214655;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-011-01-2;;L20: Kontrolle nach Unfall;A474;20.06.2018;08:07:50;19.06.2018;20:00:00;19.06.2018;21:30:00;2255014;214644;Kontrolliert;FL kontrolliert;;6;1;Entgleisung;2;4;Fehlmanipulation
+C;01-0339-2-001-01;W0185;Weiche 185 Block löscht nicht.;A474;20.06.2018;06:36:42;20.06.2018;06:43:12;20.06.2018;07:30:00;2255003;214639;Eingestellt;HFP eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1016;W1016 HIGR schwarz/Pikett avisiert;A474;20.06.2018;19:13:46;21.06.2018;06:38:48;21.06.2018;12:00:00;2255076;214650;;;;7;5;Verschmutzt;2;6;Drittverschulden
+C;01-9001-2-001-01;HNSA600/1;DEig: Kein Strom im Depot;A474;20.06.2018;08:02:19;20.06.2018;01:00:00;20.06.2018;03:00:00;2255013;214643;Weitere Aktionen;Strom wieder eingeschaltet;;6;7;Fehlbedienung;2;4;Fehlmanipulation
+C;01-9001-2-001-01;HNSA600/1;DEig: 3fach Weichensteuerung;A474;20.06.2018;08:00:27;19.06.2018;15:30:00;19.06.2018;16:30:00;2255012;214642;Eingestellt;Steuerung neu eingelesen;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0337-2-001-01;W2005;LSA schaltet nicht;A474;19.06.2018;13:28:22;19.06.2018;13:50:54;19.06.2018;15:00:00;2254948;214640;Eingestellt;HFK neu eingelesen;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0902-2-001-01;SWS0105;Weiche 0106 stellt nicht;A474;19.06.2018;08:14:37;18.06.2018;07:00:00;;00:00:00;2254921;214638;;;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 43 Kein Pfeil;A474;17.06.2018;21:39:38;18.06.2018;06:52:35;18.06.2018;09:00:00;2254792;214641;Gereinigt;Weiche voll mit Sand;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 0043 Kein Pfeil;A474;17.06.2018;01:37:20;18.06.2018;06:52:11;18.06.2018;09:00:00;2254753;214641;Gereinigt;Weiche voll mit Sand;;7;2;Kein Block;2;900;Doppelmeldung
+C;03-0101-026-01-2;;Weichenlicht von Blätter verdeckt.;A474;15.06.2018;09:49:48;15.06.2018;10:06:52;15.06.2018;11:30:00;2254661;202141;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0340-2-001-01;W0043;Weiche 43, Block i.O. aber ohne Pfeil.;A474;15.06.2018;00:29:34;15.06.2018;06:36:54;15.06.2018;10:00:00;2254628;214630;Gereinigt;Weiche voll mit Sand;;7;2;Kein Block;2;2;Technische Störung
+C;01-0902-2-001-01;W3002;Weiche 3002 deblockiert nicht;A474;14.06.2018;14:01:00;14.06.2018;13:30:00;14.06.2018;14:30:00;2254612;214628;Programmiert;HFK neu eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0101-029-05;W2902;Weiche geht nicht  Oberl. avi;A474;14.06.2018;06:05:22;14.06.2018;06:39:48;14.06.2018;12:00:00;2254571;214626;Kontrolliert;kein Fehler;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-023-01-2;;L11 Inselplatz Higr Äste in der FahrLeit;A474;13.06.2018;06:34:00;13.06.2018;06:40:19;13.06.2018;12:00:00;2254502;202141;Weitere Aktionen;Äste geschnitten;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0802;;L/8 Wittigkofen Sträucher schneiden.;A474;08.06.2018;17:45:38;11.06.2018;07:02:17;15.06.2018;11:30:00;2254127;202141;;;;5;17;unbekannter Fehler;2;5;Höhere Gewalt
+C;01-9000-2-001-01;;DBo: BHS abgestürzt;A474;08.06.2018;08:10:07;07.06.2018;15:00:00;14.06.2018;12:00:00;2254094;214489;Weitere Aktionen;Kontrolle der Verbindungen;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;03-0101-015-01-1;;Zeitinsel Brunnadernstrasse gestört;A474;08.06.2018;07:44:46;07.06.2018;12:00:00;07.06.2018;20:15:00;2254093;214488;Gewartet;Antenne neu angeschlossen;;5;4;korrodiert;2;2;Technische Störung
+X;01-9000-2-001-01;HNSA502/1;DBo: AKP kontrollieren;A474;08.06.2018;11:24:08;;00:00:00;07.06.2018;17:00:00;2254111;214491;Kontrolliert;AKP getestet;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;SWS1000;W1000: HLU Software aktualisieren;A474;08.06.2018;11:21:13;07.06.2018;07:00:00;07.06.2018;17:00:00;2254110;214490;Programmiert;Software update ausgeführt;;5;16;kein Fehler;2;10;unbekannt /sonstiges
+C;03-0101-011-05;W1102;Trolley Weiche Bubenbergplatz funkt.;A474;07.06.2018;15:31:09;07.06.2018;15:15:00;07.06.2018;16:15:00;2254065;214486;Ersetzt;Antenne getauscht;;6;4;Elektrische Störung;2;2;Technische Störung
+C;01-0340-2-001-01;W1004;Musste Weiche stechen Perron A- B;A474;06.06.2018;13:35:26;05.06.2018;12:35:00;06.06.2018;15:00:00;2253946;214487;Ersetzt;Antenne getauscht;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1004;W1004 HB Per.A-B v.H. Blockbelegung;A474;05.06.2018;12:25:12;05.06.2018;12:39:04;;00:00:00;2253873;214487;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+X;01-0303-2-001-01;HNP0208;IBN Protokoll Weiche erstellen;A474;04.06.2018;07:22:00;30.05.2018;07:00:00;30.05.2018;12:00:00;2253742;214478;;;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1004;W1004 HB Perr.A-B schwarz;A474;03.06.2018;22:23:17;03.06.2018;22:15:00;03.06.2018;23:15:00;2253726;214479;Kontrolliert;;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-091-14;TOR9101;DEig: Tor 0;A474;31.05.2018;06:58:19;30.05.2018;22:00:00;30.05.2018;23:00:00;2253473;214471;Eingestellt;Endschalter kontolliert;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;03-0101-091-13;;DEig: Kein Strom im Depot;A474;29.05.2018;07:49:46;22.05.2018;18:30:00;22.05.2018;19:30:00;2253323;214470;Ausgetauscht;Sicherung gewechselt;;6;7;Fehlbedienung;;;
+C;03-0101-091-12;#NAME?;DEig: Kran beschädigt Kabelkanal;A474;29.05.2018;07:31:23;26.05.2018;16:00:00;26.05.2018;18:00:00;2253321;214469;Eingestellt;;;7;2;Kein Block;;;
+C;01-0341-2-001-01;HNP0101;Casinoplatz Weichen Licht schwarz;A474;26.05.2018;20:54:06;28.05.2018;07:12:59;28.05.2018;09:00:00;2253162;214451;Weitere Aktionen;HFP ersetzt;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;HNP0101;W-Licht 101 L6 Casinoplatz einw schwarz;A474;26.05.2018;06:34:26;28.05.2018;07:16:35;28.05.2018;09:00:00;2253139;214451;Weitere Aktionen;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weiche 101 schwarz;A474;25.05.2018;06:26:22;25.05.2018;07:34:24;25.05.2018;09:00:00;2253045;214451;Weitere Aktionen;HFK neu eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-8002-2-001-01;;Amper Abfall Egghölzli beide Richtungen;A474;24.05.2018;16:38:52;25.05.2018;07:37:12;25.05.2018;09:00:00;2252943;;Weitere Aktionen;keine Meldung;;7;2;Kein Block;2;10;unbekannt /sonstiges
+X;03-0101-017-01-1;;fast kein Strom bei Wegf. Egghölzli-HB;A474;24.05.2018;14:11:33;24.05.2018;14:21:28;24.05.2018;14:21:33;2252897;;Weitere Aktionen;Einmalig vorgekommen;;6;4;Elektrische Störung;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weichenlicht 101 wieder schwarz;A474;24.05.2018;13:50:28;24.05.2018;13:56:00;24.05.2018;16:00:00;2252893;214451;Weitere Aktionen;HFP ersetzt;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Casinoplatz Weiche ins Stumpengeleis sch;A474;23.05.2018;10:10:20;23.05.2018;10:44:00;23.05.2018;12:00:00;2252750;214451;Weitere Aktionen;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weichenlicht W101 schwarz;A474;23.05.2018;20:51:27;24.05.2018;06:36:18;24.05.2018;08:00:00;2252797;214451;Weitere Aktionen;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-024-01-2;;Baum in FL;A474;22.05.2018;07:03:57;19.05.2018;19:30:00;19.05.2018;20:30:00;2252596;214436;Weitere Aktionen;Mithilfe Feuerwehr;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+A;03-0101-090-13;;DBo: Brandalarm, kein 600V;A474;22.05.2018;07:10:58;22.05.2018;05:45:00;22.05.2018;06:45:00;2252599;214438;Weitere Aktionen;FL wieder einschalten;;6;8;sonstiges;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weichenlicht def.;A474;22.05.2018;20:41:20;22.05.2018;21:00:00;22.05.2018;23:00:00;2252712;214451;Programmiert;HFP eingelesen;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0339-2-001-01;HNP0185;W185 kein Pfeil;A474;22.05.2018;07:07:27;19.05.2018;20:30:00;19.05.2018;21:30:00;2252597;214437;Gereinigt;Flasche entfernt;;7;4;Keine Endlage;2;6;Drittverschulden
+C;01-0340-2-001-01;HNP1009;W1012: Weiche kann nicht geschaltet werd;A474;22.05.2018;07:40:41;19.05.2018;15:00:00;19.05.2018;18:00:00;2252605;214441;;;;6;4;Elektrische Störung;;;
+C;01-9000-2-001-01;HNSA502/1;DBo: SB 1 ausgefallen;A474;22.05.2018;07:28:00;19.05.2018;21:00:00;19.05.2018;22:00:00;2252602;214440;Eingestellt;HFK neu eingelesen;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+X;03-0101-090-01-1;;Stromausschaltung Mingerstr.;A474;19.05.2018;07:15:41;22.05.2018;06:40:47;;00:00:00;2252522;213459;;;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1009;Weichenlicht  1009 schwarz bei Ablenkung;A474;19.05.2018;12:19:07;19.05.2018;12:30:00;19.05.2018;13:30:00;2252531;214435;Gereinigt;Dose entfernt;;7;2;Kein Block;2;2;Technische Störung
+C;01-0902-2-001-01;W0105;Weiche W105 Block bleibt drin;A474;18.05.2018;13:16:38;18.05.2018;13:21:29;18.05.2018;14:30:00;2252481;214434;Eingestellt;HFK neu eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0101-027-05;W2703;U99 Bollwerk FL Schaden;A474;16.05.2018;06:50:47;15.05.2018;12:00:00;15.05.2018;14:30:00;2252286;214431;Revidiert;;;6;1;Entgleisung;2;4;Fehlmanipulation
+C;03-0101-029-01-2;;Äste berühren Oberleitung;A474;15.05.2018;19:17:48;16.05.2018;06:41:43;;00:00:00;2252251;214432;;;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+X;01-0339-2-001-01;W0185;Anpassung LSA Ansteuerung;A474;15.05.2018;12:40:48;29.05.2018;00:00:00;29.05.2018;00:00:00;2252221;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1009;Weiche 1009 schwarz;A474;15.05.2018;06:50:36;15.05.2018;06:52:01;15.05.2018;10:00:00;2252174;214430;;;;7;2;Kein Block;2;2;Technische Störung
+X;01-0902-2-001-01;W3002;Anpassung LSA Ansteuerung;A474;15.05.2018;12:47:20;;00:00:00;;00:00:00;2252224;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3004;Anpassung LSA Ansteuerung;A474;15.05.2018;12:48:04;;00:00:00;;00:00:00;2252225;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2002;Anpassung LSA Ansteuerung;A474;15.05.2018;12:49:48;;00:00:00;;00:00:00;2252227;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2005;Anpassung LSA Ansteuerung;A474;15.05.2018;12:50:37;;00:00:00;;00:00:00;2252228;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2009;Anpassung LSA Ansteuerung;A474;15.05.2018;12:57:04;;00:00:00;;00:00:00;2252229;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;W2010;Anpassung LSA Ansteuerung;A474;15.05.2018;12:57:42;;00:00:00;;00:00:00;2252230;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;W0190;Anpassung LSA Ansteuerung;A474;15.05.2018;12:46:18;;00:00:00;;00:00:00;2252223;214429;Ausgetauscht;LSA Ansteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0048;STW0048 5-Jahreswartung W1009;A474;15.05.2018;10:19:44;;00:00:00;;00:00:00;2252212;214427;Gewartet;5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;STW0049;STW0049 5-Jahreswartung W1010;A474;15.05.2018;10:23:01;;00:00:00;;00:00:00;2252213;214428;Gewartet;5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2;;Weichen im Failsave;A474;14.05.2018;08:01:04;10.05.2018;23:45:00;11.05.2018;01:00:00;2251919;214420;Weitere Aktionen;Weichen neustarten;;7;7;Unbekannter Fehler;2;6;Drittverschulden
+B;03-0101-091-01-1;;DEig: Kein Strom im Depot;A474;14.05.2018;10:44:29;14.05.2018;01:15:00;14.05.2018;02:15:00;2251984;214425;Weitere Aktionen;FL wieder einschalten;;6;8;sonstiges;;;
+C;04-Z-0060;;Blechhaube demoliert;A474;14.05.2018;13:38:05;14.05.2018;13:49:57;;00:00:00;2252107;214439;;;;5;1;beschädigt;2;1;Vandalenschaden
+C;03-0101-091-14;TOR9105;DEig: Torbrücke 4;A474;14.05.2018;07:08:14;07.05.2018;18:00:00;07.05.2018;19:00:00;2251914;214358;Eingestellt;Torbrüche gerichtet;;6;5;Mechanische Störung;2;2;Technische Störung
+C;01-9001-2-001-01;HNSA600/1;DEig: Ausfall SB 1;A474;14.05.2018;07:11:53;07.05.2018;21:00:00;07.05.2018;22:00:00;2251915;214359;Eingestellt;HFK neu eingelesen;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0902-2-001-01;W0105;W105 am GUPL dauernd im Block;A474;13.05.2018;07:07:52;13.05.2018;07:00:00;13.05.2018;08:00:00;2251880;214421;Programmiert;HFK neu eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1012;Wallgasse T1/T2 Block löscht nicht.;A474;10.05.2018;08:56:10;11.05.2018;07:08:57;11.05.2018;09:00:00;2251726;214360;Gereinigt;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+B;01-0340-2-001-02;W1015;Weichenzunge abgebrochen;A474;10.05.2018;21:34:29;10.05.2018;19:00:00;10.05.2018;20:00:00;2251746;214422;Ausgetauscht;Zunge gewechselt;;5;18;gebrochen;2;10;unbekannt /sonstiges
+C;03-0101-091-14;TOR9101;Oberlei. Piket avis. / Gleis 0 Eigerpla.;A474;10.05.2018;08:47:44;09.05.2018;23:00:00;10.05.2018;14:00:00;2251725;214423;Kontrolliert;Tor funktioniert;;5;17;unbekannter Fehler;2;2;Technische Störung
+C;01-0339-2-001-01;W0185;W185  gestört/Oberleitungspikett avis.;A474;07.05.2018;06:08:48;01.05.2018;07:00:00;07.05.2018;07:00:00;2251445;214342;Kontrolliert;600V Anschluss lose;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;03-0101-027-05;W2703;Entgleisungen Bollwerk L11/20 ew;A474;07.05.2018;12:48:53;07.05.2018;10:00:00;07.05.2018;12:45:00;2251517;214348;Revidiert;Weichenanlage rev.;;6;1;Entgleisung;2;2;Technische Störung
+C;01-0340-2-001-01;W0049;W49 11 Weichenblock leuchtet nicht.;A474;05.05.2018;10:21:51;05.05.2018;11:00:00;05.05.2018;12:00:00;2251363;214341;Kontrolliert;Kein Fehler;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Weiche 101,Weichelicht schwarz;A474;05.05.2018;14:35:54;05.05.2018;14:30:00;05.05.2018;16:00:00;2251375;214339;Eingestellt;HFK ersetzt;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1006;Weichenlicht schwarz Ausfahrt Schwaneng.;A474;05.05.2018;10:10:02;05.05.2018;10:00:00;05.05.2018;11:00:00;2251362;214340;Eingestellt;ZP eingestellt;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-091-01-1;;Kein Strom zum Ausfahren;A474;04.05.2018;16:33:43;04.05.2018;15:00:00;04.05.2018;16:00:00;2251338;214338;Weitere Aktionen;600V einschalten;;6;3;Fremdeinwirkungen;2;6;Drittverschulden
+C;03-0101-012-04;K1205;Tb Weiche HB 1205;A474;04.05.2018;10:07:59;03.05.2018;13:00:00;03.05.2018;15:00:00;2251313;214336;Ersetzt;Anschlusstück ers.;;6;5;Mechanische Störung;2;9;Materialermüdung
+C;01-0803-2-001-01;W2010;Weichenlicht Holenacker schwarz W2010;A474;02.05.2018;14:10:07;02.05.2018;14:11:44;02.05.2018;16:00:00;2251154;214337;Kontrolliert;230V Netz fehlt;;7;2;Kein Block;2;2;Technische Störung
+D;03-0101-026;;Weichenlicht durch Äste verdekt;A474;30.04.2018;07:56:14;30.04.2018;08:17:00;30.04.2018;12:00:00;2251006;214334;Kontrolliert;Baum zurück geschnitten;;6;3;Fremdeinwirkungen;2;5;Höhere Gewalt
+C;01-0339-2-001-01;W0185;Weiche Kocherpark-End blieb Block W185;A474;30.04.2018;15:46:43;30.04.2018;15:54:02;30.04.2018;20:00:00;2251069;214333;Repariert;Klemme lose;;7;1;Block nicht gelöscht;2;2;Technische Störung
+X;01-0340-2-001-01;W0043;Weiche0043 5-Jahreswartung;A474;30.04.2018;13:34:50;01.05.2018;14:54:50;01.05.2018;14:54:51;2251030;214321;Gewartet;Weiche0043;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-01;W2000;Weiche2000 5-Jahreswartung;A474;30.04.2018;13:41:00;;00:00:00;;00:00:00;2251032;214322;Gewartet;Weiche2000;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1009;Weiche 1009,H'graben ausw,Block hängt;A474;27.04.2018;18:47:36;27.04.2018;20:00:00;27.04.2018;22:00:00;2250926;214332;Eingestellt;HFP eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0902-2-001-01;W3006;Meldet W3006  dunkel;A474;27.04.2018;05:28:33;27.04.2018;06:35:32;27.04.2018;09:00:00;2250866;214331;Eingestellt;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 43,Block hängt.Oberl. avis.;A474;27.04.2018;18:56:20;27.04.2018;20:00:00;27.04.2018;22:00:00;2250928;214330;Gereinigt;Sand in Weiche;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Meldet keinen W-Pfeil an W43/dafür Block;A474;27.04.2018;07:27:49;27.04.2018;07:44:22;27.04.2018;22:00:00;2250878;214330;Eingestellt;ZP eingestellt;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weiche 1003 musste gestochen werden.;A474;26.04.2018;06:13:06;26.04.2018;06:35:10;26.04.2018;06:45:00;2250806;214314;Kontrolliert;keine Fehler festgestellt;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;Weiche 1014 reagiert nicht;A474;25.04.2018;10:16:49;25.04.2018;10:19:19;;00:00:00;2250747;;;keine Meldung erhalten;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1004;Weiche 1004 stellt nicht richtig;A474;25.04.2018;15:00:33;25.04.2018;15:09:29;25.04.2018;16:30:00;2250775;214315;Ersetzt;600V Anschluss lose;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1003;Weiche 1003 reagiert nicht;A474;25.04.2018;09:35:10;25.04.2018;10:18:15;;00:00:00;2250743;;;keine Meldung erhalten;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;W1009 Block bleibt drin;A474;24.04.2018;12:32:49;24.04.2018;13:19:17;;00:00:00;2250700;;;Kein Fehler;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-9001-2-001-01;HNSA600/1;DEig: Ausfall SB 1;A474;24.04.2018;07:13:54;21.04.2018;16:00:00;21.04.2018;23:59:00;2250677;214311;;;;5;15;Ausserhalb Toleranz;;;
+C;01-0339-2-001-01;W0185;Blockstörung;A474;23.04.2018;06:10:41;23.04.2018;06:52:03;23.04.2018;07:45:00;2250574;214304;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;ZYTG: Weiche 43 - Block blinkt;A474;23.04.2018;19:35:01;23.04.2018;20:00:00;23.04.2018;21:30:00;2250660;214310;Gereinigt;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0339-2-001-01;W0190;Weichenstörung;A474;23.04.2018;06:52:52;23.04.2018;06:54:41;23.04.2018;07:45:00;2250586;214303;Eingestellt;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 43,Block bleibt hängen,Oberl. avi;A474;22.04.2018;19:11:22;23.04.2018;06:48:33;;00:00:00;2250568;214302;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 43,Weichelicht schwarz oder Block;A474;22.04.2018;22:06:56;23.04.2018;06:49:01;;00:00:00;2250571;214302;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W0049;Störung Weiche W49 ZYTG ausw.;A474;20.04.2018;05:58:08;20.04.2018;05:50:00;20.04.2018;08:00:00;2250454;214300;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+B;01-0340-2-001-01;W1014;W 1014 schwarz Oberl. aufgeboten.;A474;20.04.2018;16:26:16;20.04.2018;16:31:06;;00:00:00;2250506;;;;;7;2;Kein Block;2;10;unbekannt /sonstiges
+C;01-0340-2-001-01;W0043;Weiche 43 deblockiert nicht mehr.;A474;20.04.2018;21:01:32;23.04.2018;06:43:22;;00:00:00;2250511;214302;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;W1014 Block schwarz, keine LSA;A474;19.04.2018;18:20:08;19.04.2018;18:00:00;19.04.2018;19:00:00;2250444;214301;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;W1014, Bundesgasse, Block löscht nicht.;A474;17.04.2018;17:02:38;17.04.2018;17:00:00;17.04.2018;18:00:00;2250276;214298;Eingestellt;HHK neu eingelesen;;7;1;Block nicht gelöscht;2;2;Technische Störung
+B;03-0101-027-05;W2703;Entgleisung mit Oberleitungsschaden;A474;16.04.2018;22:05:07;16.04.2018;22:00:00;16.04.2018;23:00:00;2250206;214297;Ersetzt;Kevlarseil gerissen;;6;2;Fahrleitungsschaden;2;2;Technische Störung
+X;03-0101-090-14;AP9001;Wartung Achskurzschluss-Prüfanlage;A474;16.04.2018;09:47:01;;00:00:00;;00:00:00;2250147;214286;Gewartet;Achskurzschluss-Prüfanlage;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-029-01;;Wasserwerfer stationiert.;A474;15.04.2018;14:04:20;16.04.2018;06:57:42;;00:00:00;2250097;;Weitere Aktionen;keine Massnahmen nötig;;6;8;sonstiges;2;10;unbekannt /sonstiges
+C;03-0101-011-05;;Dienstweiche Hgr. Tb;A474;10.04.2018;12:13:17;10.04.2018;07:00:00;10.04.2018;09:00:00;2249833;214272;Ersetzt;Antenne gewechselt;;5;7;Unterbruch;2;2;Technische Störung
+C;03-0101-029-05;W2902;Tb. Dienstweiche Wyler;A474;10.04.2018;12:22:29;10.04.2018;07:00:00;10.04.2018;09:00:00;2249836;214273;Ersetzt;Antenne ers.;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-026-05;W2601;Tb. Dienstweiche Schosshalde;A474;10.04.2018;12:24:56;10.04.2018;07:00:00;10.04.2018;09:00:00;2249837;214274;Ersetzt;Antenne ers.;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-011-05;;Tb Weiche Bubenbergplatz L 11+12 defekt;A474;09.04.2018;06:24:24;09.04.2018;06:15:00;09.04.2018;10:00:00;2249724;214269;Ausgetauscht;;;6;8;sonstiges;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche Lorenzini einw. / Pfeil löscht;A474;08.04.2018;07:01:18;09.04.2018;06:15:00;09.04.2018;10:00:00;2249701;214268;Ausgetauscht;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0341-2-001-01;HNP0101;Weichensteuerung Ausfahrt Casinoplatz gi;A474;06.04.2018;07:58:14;06.04.2018;08:06:47;09.04.2018;10:00:00;2249606;;Weitere Aktionen;keine Meldung erhalten;;7;2;Kein Block;2;10;unbekannt /sonstiges
+B;03-0101-020-01-1;;Oberleitungsschaden Gpl kurze Schlaufe;A474;05.04.2018;23:56:09;06.04.2018;00:00:00;06.04.2018;01:30:00;2249592;214267;Repariert;;;6;2;Fahrleitungsschaden;2;2;Technische Störung
+C;01-0340-2-001-01;HNP1009;W1009: Kein Block;A474;05.04.2018;07:06:29;03.04.2018;10:00:00;03.04.2018;11:00:00;2249386;214253;Gereinigt;;;5;9;verstopft;2;2;Technische Störung
+C;01-9001-2-001-01;HNSA600/1;DEig: Ausfall SB 1;A474;05.04.2018;07:04:18;03.04.2018;18:30:00;03.04.2018;19:30:00;2249385;214252;Eingestellt;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0340-2-001-01;W1006;Weiche Ausfahrt Schwanengasse schwarz;A474;04.04.2018;09:20:28;04.04.2018;09:43:08;04.04.2018;12:00:00;2249326;214251;Kontrolliert;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0339-2-001-01;W0190;W190 musste mehrmals gestochen werden;A474;04.04.2018;08:19:25;23.03.2018;05:28:00;;00:00:00;2249320;214250;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;01-9000-2-001-01;W4015;Weiche4015 5-Jahreswartung;A474;03.04.2018;09:41:06;01.05.2018;14:57:30;01.05.2018;14:57:31;2249205;214225;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4016;Weiche4016 5-Jahreswartung;A474;03.04.2018;09:41:35;01.05.2018;14:58:06;01.05.2018;14:58:07;2249206;214226;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4017;Weiche4017 5-Jahreswartung;A474;03.04.2018;09:42:03;01.05.2018;15:00:32;01.05.2018;15:00:34;2249207;214227;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4018;Weiche4018 5-Jahreswartung;A474;03.04.2018;09:42:29;01.05.2018;15:01:45;01.05.2018;15:01:47;2249208;214228;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4019;Weiche4019 5-Jahreswartung;A474;03.04.2018;09:42:55;01.05.2018;15:02:25;01.05.2018;15:02:26;2249209;214229;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4020;Weiche4020 5-Jahreswartung;A474;03.04.2018;09:43:22;01.05.2018;15:03:21;01.05.2018;15:03:22;2249210;214230;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4021;Weiche4021 5-Jahreswartung;A474;03.04.2018;09:38:31;01.05.2018;14:56:02;01.05.2018;14:56:03;2249203;214223;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4032;Weiche4032 5-Jahreswartung;A474;03.04.2018;09:40:01;01.05.2018;14:56:53;01.05.2018;14:56:54;2249204;214224;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-003;G0340;Metalteil steht vor, Gefahr!;A474;30.03.2018;12:40:06;03.04.2018;06:52:54;;00:00:00;2249091;214243;Weitere Aktionen;Metalteil abgeschnitten;;5;17;unbekannter Fehler;2;10;unbekannt /sonstiges
+C;03-0101-011-05;W1102;Weiche manuell umstellen;A474;28.03.2018;17:52:06;28.03.2018;18:00:00;28.03.2018;19:00:00;2249008;214241;Kontrolliert;;;6;8;sonstiges;2;2;Technische Störung
+B;03-0101-091-13;;DEig: Kein Strom im Depot;A474;27.03.2018;07:04:50;26.03.2018;19:00:00;26.03.2018;20:30:00;2248919;214238;Programmiert;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-012-05;W1203;Tb Weiche 1203;A474;27.03.2018;07:13:00;01.01.2018;00:00:00;26.03.2018;14:00:00;2248921;214239;Ausgetauscht;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;01-0339-2-001-01;W0190;Weiche Nr. 190 stellt nicht richtig.;A474;27.03.2018;06:04:47;27.03.2018;06:39:45;;00:00:00;2248905;214244;Kontrolliert;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;01-0340-2-001-01;W1000;Weiche1000 Wartung Weichenantrieb;A474;26.03.2018;14:32:49;;00:00:00;;00:00:00;2248863;214214;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W0049;Weiche0049 Wartung Weichenantrieb;A474;26.03.2018;14:51:38;;00:00:00;;00:00:00;2248874;214233;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;EXW0101;Weiche0101 Wartung Weichenantrieb;A474;26.03.2018;14:52:31;;00:00:00;;00:00:00;2248875;214234;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;EXW0102;Weiche0102 Wartung Weichenantrieb;A474;26.03.2018;14:53:30;;00:00:00;;00:00:00;2248876;214235;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1016;Weiche1016 Wartung Weichenantrieb;A474;26.03.2018;14:43:50;;00:00:00;;00:00:00;2248871;214222;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1009;Weiche1009 Wartung Weichenantrieb;A474;26.03.2018;14:38:48;;00:00:00;;00:00:00;2248867;214218;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1010;Weiche1010 Wartung Weichenantrieb;A474;26.03.2018;14:39:57;;00:00:00;;00:00:00;2248868;214219;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1014;Weiche1014 Wartung Weichenantrieb;A474;26.03.2018;14:42:18;;00:00:00;;00:00:00;2248870;214221;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1006;Weiche1006 Wartung Weichenantrieb;A474;26.03.2018;14:37:47;;00:00:00;;00:00:00;2248866;214217;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1004;Weiche1004 Wartung Weichenantrieb;A474;26.03.2018;14:36:36;;00:00:00;;00:00:00;2248865;214216;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1003;Weiche1003 Wartung Weichenantrieb;A474;26.03.2018;14:34:16;;00:00:00;;00:00:00;2248864;214215;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1012;Weiche1012 Wartung Weichenantrieb;A474;26.03.2018;14:41:03;;00:00:00;;00:00:00;2248869;214220;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W0043;Weiche0043 Wartung Weichenantrieb;A474;26.03.2018;14:49:03;;00:00:00;;00:00:00;2248872;214231;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W0045;Weiche0045 Wartung Weichenantrieb;A474;26.03.2018;14:50:14;;00:00:00;;00:00:00;2248873;214232;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-026-01-2;;Oberleitungsschaden Bubenbergplatz;A474;24.03.2018;07:51:27;24.03.2018;06:50:00;24.03.2018;08:40:00;2248729;214208;Ersetzt;Div. Pendel ers.;;6;2;Fahrleitungsschaden;2;2;Technische Störung
+C;03-0101-027-01-2;;Bollwerk: FL Schaden;A474;23.03.2018;07:26:03;22.03.2018;07:00:00;22.03.2018;12:00:00;2248672;214206;Repariert;;;6;2;Fahrleitungsschaden;2;4;Fehlmanipulation
+B;01-0341-2-001-01;W0274;BurgerenzielKreisel Licht schwarz;A474;22.03.2018;07:16:32;22.03.2018;08:04:38;;00:00:00;2248568;214205;Ausgetauscht;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+B;01-0341-2-001-01;HNP0274;Weiche 274 schwarz, Pikett nicht erreich;A474;22.03.2018;06:03:20;22.03.2018;06:47:27;;00:00:00;2248555;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0341-2-001-01;W0274;Weiche 274 schwarz.;A474;21.03.2018;15:58:56;21.03.2018;16:38:32;22.03.2018;09:00:00;2248537;214205;Eingestellt;HFP neu eingelesen;;7;7;Unbekannter Fehler;2;2;Technische Störung
+D;03-0101-091-01-2;;Garage II: Schutzkanal runtergerissen;A474;19.03.2018;10:50:23;19.03.2018;07:30:00;19.03.2018;10:30:00;2248387;214195;Ersetzt;;;6;2;Fahrleitungsschaden;2;2;Technische Störung
+C;01-0341-2-001-01;HNP0101;W0101: Weiche stellt nicht;A474;19.03.2018;10:31:25;19.03.2018;07:00:00;19.03.2018;10:00:00;2248381;214194;Eingestellt;;;5;12;verstellt;2;2;Technische Störung
+C;01-0341-2-001-01;HNP0274;TRX Burgernziel-Batt low Batt ersetzen;A474;19.03.2018;13:40:48;19.03.2018;13:44:03;19.03.2018;16:00:00;2248395;214198;Ersetzt;;;7;7;Unbekannter Fehler;2;9;Materialermüdung
+X;01-0703-2-001-01;HNP2006;WG: VABtrack Pendenz 56 - TRX Batt low a;A474;19.03.2018;13:51:33;19.03.2018;13:53:19;19.03.2018;16:00:00;2248397;214199;Ersetzt;;;7;7;Unbekannter Fehler;2;9;Materialermüdung
+C;01-9001-2-001-01;HNSA600/1;DEig: Ausfall SB 1;A474;19.03.2018;10:29:20;14.03.2018;19:15:00;14.03.2018;20:15:00;2248379;214193;;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0341-2-001-01;EXW0101;Stumpengeleis;A474;16.03.2018;08:01:29;16.03.2018;08:23:13;;00:00:00;2248232;214194;Eingestellt;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0803-2-001-01;W2112;Weichenlicht 2112 schwarz;A474;16.03.2018;11:32:02;16.03.2018;11:57:27;;00:00:00;2248248;214200;Eingestellt;;;7;2;Kein Block;2;10;unbekannt /sonstiges
+D;01-0803-2-001-01;HNP2112;Temporäre starke Anlagestörung;A474;15.03.2018;14:15:58;15.03.2018;14:17:31;09.04.2018;10:00:00;2248170;214270;Weitere Aktionen;Antenne neu verkabelt;;5;17;unbekannter Fehler;2;2;Technische Störung
+D;01-0340-2-001-02;HZS1001.1;W1001 Heizstab defekt;A474;14.03.2018;07:28:45;13.03.2018;20:30:00;14.03.2018;12:00:00;2247952;214181;Ersetzt;Heizstab ersetzt;;5;6;verbrannt;2;2;Technische Störung
+X;01-0342-2-001-01;W0301;Weiche0301 Wartung Weichenantrieb;A474;12.03.2018;13:36:39;;00:00:00;;00:00:00;2247796;214119;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0802-2-001-01;W0304;Weiche0304 Wartung Weichenantrieb;A474;12.03.2018;13:40:35;;00:00:00;;00:00:00;2247803;214135;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;W0274;Weiche0274 Wartung Weichenantrieb;A474;12.03.2018;13:35:54;;00:00:00;;00:00:00;2247795;214118;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W0105;Weiche0105 Wartung Weichenantrieb;A474;12.03.2018;13:39:29;;00:00:00;;00:00:00;2247801;214130;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W0106;Weiche0106 Wartung Weichenantrieb;A474;12.03.2018;13:39:59;;00:00:00;;00:00:00;2247802;214131;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3002;Weiche3002 Wartung Weichenantrieb;A474;12.03.2018;13:37:50;;00:00:00;;00:00:00;2247798;214121;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3006;Weiche3006 Wartung Weichenantrieb;A474;12.03.2018;13:38:57;;00:00:00;;00:00:00;2247800;214123;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3004;Weiche3004 Wartung Weichenantrieb;A474;12.03.2018;13:38:23;;00:00:00;;00:00:00;2247799;214122;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0901-2-001-01;W3000;Weiche3000 Wartung Weichenantrieb;A474;12.03.2018;13:37:15;;00:00:00;;00:00:00;2247797;214120;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W0049;W49 v.Hand/Block aber ohne W-Pfeil;A474;11.03.2018;08:53:08;11.03.2018;09:00:00;11.03.2018;10:00:00;2247683;214098;Gereinigt;;;7;3;Von Hand gestellt;2;900;Doppelmeldung
+C;01-0340-2-001-01;W0049;W49 v.Hand/Block aber ohne W-Pfeil;A474;11.03.2018;08:49:45;11.03.2018;09:00:00;11.03.2018;10:00:00;2247682;214098;Gereinigt;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 43, Weichelicht schwarz,Oberl. av;A474;11.03.2018;22:08:17;11.03.2018;22:30:00;11.03.2018;23:30:00;2247700;214097;Gereinigt;;;7;2;Kein Block;2;2;Technische Störung
+B;01-0341-2-001-01;HNP0101;Vereiste Weichenzungen;A474;05.03.2018;07:48:46;02.03.2018;15:00:00;02.03.2018;16:00:00;2247216;214076;Eingestellt;;;5;12;verstellt;;;
+A;03-0101-017-01-1;;Streckenblockierung vereiste Fahrleitung;A474;04.03.2018;09:42:34;04.03.2018;06:54:58;04.03.2018;10:00:00;2247177;214075;Weitere Aktionen;Mit Speissewagen FL abtauen;;6;8;sonstiges;2;5;Höhere Gewalt
+B;1;;Weichenstörungen ganzes Netz;A474;01.03.2018;10:25:20;01.03.2018;05:30:00;;00:00:00;2247012;214073;Weitere Aktionen;Weichen vom Schnee befreit;;5;9;verstopft;2;5;Höhere Gewalt
+C;01-0340-2-001-01;W0043;Weiche 43 Zytglogge;A474;01.03.2018;19:45:33;01.03.2018;19:30:00;01.03.2018;20:30:00;2247074;214073;Weitere Aktionen;Von Schnee und Eis befreit;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;03-0101-029-05;W2902;Tb Weiche 2902 Wyler, schwarz.;A474;28.02.2018;06:55:22;28.02.2018;07:01:31;28.02.2018;11:00:00;2246889;214071;Ersetzt;Weichenlicht getauscht;;6;4;Elektrische Störung;2;2;Technische Störung
+C;01-0340-2-001-01;HNP1003;HB - Weiche 1004 + 1003 keine Anstrg.;A474;28.02.2018;15:47:10;28.02.2018;15:49:02;28.02.2018;16:50:00;2246958;214074;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-027-01-2;;Decke an der Oberleitung (Querdraht);A474;27.02.2018;08:04:31;27.02.2018;08:14:43;27.02.2018;12:00:00;2246820;214067;;;;6;3;Fremdeinwirkungen;2;6;Drittverschulden
+C;01-0341-2-001-01;W0274;Weiche 274 Weichelicht schwarz.;A474;27.02.2018;00:08:10;27.02.2018;06:39:30;27.02.2018;12:00:00;2246797;214064;Gewartet;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+B;01-0341-2-001-01;W0274;Weiche 274, Weichelicht,Block, def.;A474;27.02.2018;14:26:28;27.02.2018;14:39:47;27.02.2018;17:00:00;2246847;214072;Eingestellt;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;HNP1006;"W1006 ""Failsafe""";A474;27.02.2018;05:51:55;26.02.2018;23:00:00;27.02.2018;05:30:00;2246799;214065;Ausgetauscht;HFK Stufe ersetzt;;5;15;Ausserhalb Toleranz;2;2;Technische Störung
+C;03-0101-091-13;;Kurzschluss DEig;A474;26.02.2018;14:06:31;26.02.2018;12:00:00;26.02.2018;14:00:00;2246773;214062;Ausgetauscht;Sicherung gewechselt;;6;7;Fehlbedienung;2;4;Fehlmanipulation
+X;01-0339-2-001-01;W0185;Weiche0185 Wartung Weichenantrieb;A474;26.02.2018;10:45:37;;00:00:00;;00:00:00;2246729;214051;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0341-2-001-01;W0274;Weiche 274 Schwarz;A474;26.02.2018;06:00:52;26.02.2018;06:51:47;;00:00:00;2246602;214028;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0341-2-001-01;W0274;Weiche 274 bleibt schwarz;A474;26.02.2018;12:57:42;26.02.2018;13:11:27;27.02.2018;05:30:00;2246770;214064;Gewartet;HFP eingelesen;;7;2;Kein Block;2;2;Technische Störung
+X;01-0903-2-001-01;W0239;Weiche0239 Wartung Weichenantrieb;A474;26.02.2018;10:47:59;;00:00:00;;00:00:00;2246733;214055;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2002;Weiche2002 Wartung Weichenantrieb;A474;26.02.2018;10:37:45;;00:00:00;;00:00:00;2246723;214032;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2005;Weiche2005 Wartung Weichenantrieb;A474;26.02.2018;10:38:16;;00:00:00;;00:00:00;2246724;214033;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0703-2-001-01;W2006;Weiche2006 Wartung Weichenantrieb;A474;26.02.2018;10:38:50;;00:00:00;;00:00:00;2246725;214034;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2009;Weiche2009 Wartung Weichenantrieb;A474;26.02.2018;10:39:17;;00:00:00;;00:00:00;2246726;214035;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;W2010;Weiche2010 Wartung Weichenantrieb;A474;26.02.2018;10:39:45;;00:00:00;;00:00:00;2246727;214036;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;W2112;Weiche2112 Wartung Weichenantrieb;A474;26.02.2018;10:40:12;;00:00:00;;00:00:00;2246728;214037;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;W0188;Weiche0188 Wartung Weichenantrieb;A474;26.02.2018;10:46:06;;00:00:00;;00:00:00;2246730;214052;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;W0190;Weiche0190 Wartung Weichenantrieb;A474;26.02.2018;10:46:56;;00:00:00;;00:00:00;2246731;214053;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-01;W2000;Weiche2000 Wartung Weichenantrieb;A474;26.02.2018;10:36:50;;00:00:00;;00:00:00;2246722;214031;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;W0211;Weiche0211 Wartung Weichenantrieb;A474;26.02.2018;10:47:27;;00:00:00;;00:00:00;2246732;214054;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W0208;Weiche0208 Wartung Weichenantrieb;A474;26.02.2018;10:48:32;;00:00:00;;00:00:00;2246735;214061;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-011-05;W1106;Trolleyweiche bei Ski+Velocenter geht ni;A474;23.02.2018;11:38:57;23.02.2018;12:03:16;;00:00:00;2246493;214029;;;;6;4;Elektrische Störung;2;2;Technische Störung
+X;2.02;;Jahreskontrolle Erdgarnituren Depot Eig.;A474;22.02.2018;14:19:25;;00:00:00;;00:00:00;2246425;214021;Kontrolliert;Erdgarnituren Depot Eig.;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;2.03;;Jahreskontrolle Erdgarnituren Depet Bo.;A474;22.02.2018;14:20:10;;00:00:00;;00:00:00;2246426;214022;Kontrolliert;Erdgarnituren Depet Bo.;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;02.02.0541/01;;Jahreskontrolle Erdgarnituren Fahr.&Si.;A474;22.02.2018;14:20:43;;00:00:00;;00:00:00;2246427;214023;Kontrolliert;Erdgarnituren Fahr.&Si.;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0902-2-001-01;HNP3002;Störung W3004;A474;20.02.2018;06:58:07;19.02.2018;07:00:00;19.02.2018;15:00:00;2246254;214019;Ausgetauscht;IFC und PCMCIA Karte getauscht;;5;19;defekt;2;2;Technische Störung
+C;01-0303-2-001-01;HNP5102;Block bleibt hängen;A474;15.02.2018;04:39:21;12.02.2018;06:00:00;12.02.2018;12:00:00;2245979;213995;Ausgetauscht;HFKAbgleichbox getauscht;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W0049;Block bleibt hängen W49/97 Zytglogge;A474;13.02.2018;06:01:56;13.02.2018;06:39:00;13.02.2018;12:00:00;2245645;213993;Kontrolliert;Kein Fehler;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;Weiche Bundesgasse - Wallgasse Störung;A474;12.02.2018;07:55:37;12.02.2018;08:01:48;12.02.2018;10:00:00;2245330;213990;Eingestellt;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;03-0101-091-14;TOR9109;Torbrücke Gl. 8: Panto schlägt an;A474;12.02.2018;06:54:32;10.02.2018;09:00:00;10.02.2018;15:00:00;2245325;213697;Eingestellt;;;6;5;Mechanische Störung;2;9;Materialermüdung
+X;03-0101-091-04;K9103;Instandh. Trolleybuskreuzung K9103;A474;12.02.2018;15:19:06;;00:00:00;;00:00:00;2245549;213763;Gewartet;Trolleybuskreuzung K9103;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-091-04;K9105;Instandh. Trolleybuskreuzung K9105;A474;12.02.2018;15:19:33;;00:00:00;;00:00:00;2245551;213764;Gewartet;Trolleybuskreuzung K9105;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;03-0101-090-13;;D Bo Wartung Spannungsanzeige;A474;12.02.2018;15:05:12;;00:00:00;;00:00:00;2245527;213720;Gewartet;D Bo Wartung Spannungsanzeige;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5002;Weiche5002 Wartung Weichenantrieb;A474;12.02.2018;15:10:30;;00:00:00;;00:00:00;2245534;213966;Gewartet;Weiche5002 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5003;Weiche5003 Wartung Weichenantrieb;A474;12.02.2018;15:11:01;;00:00:00;;00:00:00;2245536;213967;Gewartet;Weiche5003 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5004;Weiche5004 Wartung Weichenantrieb;A474;12.02.2018;15:11:32;;00:00:00;;00:00:00;2245537;213968;Gewartet;Weiche5004 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5005;Weiche5005 Wartung Weichenantrieb;A474;12.02.2018;15:12:02;;00:00:00;;00:00:00;2245538;213969;Gewartet;Weiche5005 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5006;Weiche5006 Wartung Weichenantrieb;A474;12.02.2018;15:12:33;;00:00:00;;00:00:00;2245539;213970;Gewartet;Weiche5006 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5007;Weiche5007 Wartung Weichenantrieb;A474;12.02.2018;15:13:05;;00:00:00;;00:00:00;2245541;213971;Gewartet;Weiche5007 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5008;Weiche5008 Wartung Weichenantrieb;A474;12.02.2018;15:13:34;;00:00:00;;00:00:00;2245542;213972;Gewartet;Weiche5008 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5009;Weiche5009 Wartung Weichenantrieb;A474;12.02.2018;15:14:04;;00:00:00;;00:00:00;2245544;213973;Gewartet;Weiche5009 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5010;Weiche5010 Wartung Weichenantrieb;A474;12.02.2018;15:14:34;;00:00:00;;00:00:00;2245545;213974;Gewartet;Weiche5010 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5011;Weiche5011 Wartung Weichenantrieb;A474;12.02.2018;15:15:17;;00:00:00;;00:00:00;2245546;213975;Gewartet;Weiche5011 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5100;Weiche5100 Wartung Weichenantrieb;A474;12.02.2018;15:08:51;;00:00:00;;00:00:00;2245531;213765;Gewartet;Weiche5100 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5101;Weiche5101 Wartung Weichenantrieb;A474;12.02.2018;15:06:37;;00:00:00;;00:00:00;2245528;213721;Gewartet;Weiche5101 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5102;Weiche5102 Wartung Weichenantrieb;A474;12.02.2018;15:07:35;;00:00:00;;00:00:00;2245529;213722;Gewartet;Weiche5102 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5105;Weiche5105 Wartung Weichenantrieb;A474;12.02.2018;15:08:15;;00:00:00;;00:00:00;2245530;213723;Gewartet;Weiche5105 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5000;Weiche5000 Wartung Weichenantrieb;A474;12.02.2018;15:09:32;;00:00:00;;00:00:00;2245532;213964;Gewartet;Weiche5000 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9001-2-001-01;W5001;Weiche5001 Wartung Weichenantrieb;A474;12.02.2018;15:10:01;;00:00:00;;00:00:00;2245533;213965;Gewartet;Weiche5001 Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0340-2-001-01;W1014;Weiche 1014 nur Block, ohne Pfeil;A474;10.02.2018;07:08:43;10.02.2018;09:00:00;10.02.2018;15:00:00;2245260;213696;Gereinigt;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0803-2-001-01;W2112;Weichenblockstörung W2112;A474;10.02.2018;12:53:21;12.02.2018;06:41:06;;00:00:00;2245266;213695;Programmiert;Weiche stellt selbstständig;;7;7;Unbekannter Fehler;2;2;Technische Störung
+X;01-0342-2-001-01;W0301;Beschriftung W0301 montieren;A474;07.02.2018;10:27:15;;00:00:00;;00:00:00;2245023;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0802-2-001-01;W0304;Beschriftung W0304 montieren;A474;07.02.2018;10:27:51;;00:00:00;;00:00:00;2245024;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1000;Beschriftung W1000 montieren;A474;07.02.2018;10:28:44;;00:00:00;;00:00:00;2245025;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W0049;Beschriftung W0049 montieren;A474;07.02.2018;10:01:19;;00:00:00;;00:00:00;2245013;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;W0185;Beschriftung W0185 montieren;A474;07.02.2018;10:05:18;;00:00:00;;00:00:00;2245018;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;W0274;Beschriftung W0274 montieren;A474;07.02.2018;11:09:13;;00:00:00;;00:00:00;2245053;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W0105;Beschriftung W0105 montieren;A474;07.02.2018;10:03:34;;00:00:00;;00:00:00;2245016;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W0106;Beschriftung W0106 montieren;A474;07.02.2018;10:04:10;;00:00:00;;00:00:00;2245017;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;EXW0101;Beschriftung W0101 montieren;A474;07.02.2018;10:02:05;;00:00:00;;00:00:00;2245014;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;EXW0102;Beschriftung W0102 montieren;A474;07.02.2018;10:02:51;;00:00:00;;00:00:00;2245015;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1016;Beschriftung W1016 montieren;A474;07.02.2018;10:51:24;;00:00:00;;00:00:00;2245033;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1009;Beschriftung W1009 montieren;A474;07.02.2018;10:31:37;;00:00:00;;00:00:00;2245028;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1010;Beschriftung W1010 montieren;A474;07.02.2018;10:32:33;;00:00:00;;00:00:00;2245030;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1014;Beschriftung W1014 montieren;A474;07.02.2018;10:50:52;;00:00:00;;00:00:00;2245032;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1006;Beschriftung W1006 montieren;A474;07.02.2018;10:31:01;;00:00:00;;00:00:00;2245027;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1004;Beschriftung W1004 montieren;A474;07.02.2018;11:10:39;;00:00:00;;00:00:00;2245055;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1003;Beschriftung W1003 montieren;A474;07.02.2018;10:29:22;;00:00:00;;00:00:00;2245026;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W1012;Beschriftung W1012 montieren;A474;07.02.2018;10:33:00;;00:00:00;;00:00:00;2245031;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3002;Beschriftung W3002 montieren;A474;07.02.2018;10:57:35;;00:00:00;;00:00:00;2245043;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3006;Beschriftung W3006 montieren;A474;07.02.2018;10:59:43;;00:00:00;;00:00:00;2245045;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;W3004;Beschriftung W3004 montieren;A474;07.02.2018;10:59:10;;00:00:00;;00:00:00;2245044;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0901-2-001-01;W3000;Beschriftung W3000 montieren;A474;07.02.2018;10:57:10;;00:00:00;;00:00:00;2245042;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2002;Beschriftung W2002 montieren;A474;07.02.2018;10:52:37;;00:00:00;;00:00:00;2245035;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2005;Beschriftung W2005 montieren;A474;07.02.2018;10:53:23;;00:00:00;;00:00:00;2245036;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0703-2-001-01;W2006;Beschriftung W2006 montieren;A474;07.02.2018;10:53:52;;00:00:00;;00:00:00;2245037;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;W2009;Beschriftung W2009 montieren;A474;07.02.2018;10:54:33;;00:00:00;;00:00:00;2245038;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;W2010;Beschriftung W2010 montieren;A474;07.02.2018;10:54:56;;00:00:00;;00:00:00;2245040;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0803-2-001-01;W2112;Beschriftung W2112 montieren;A474;07.02.2018;10:56:26;;00:00:00;;00:00:00;2245041;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W0043;Beschriftung W0043 montieren;A474;07.02.2018;08:43:26;;00:00:00;;00:00:00;2245008;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;W0045;Beschriftung W0045 montieren;A474;07.02.2018;09:59:28;;00:00:00;;00:00:00;2245012;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;W0188;Beschriftung W0188 montieren;A474;07.02.2018;10:06:50;;00:00:00;;00:00:00;2245019;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;W0190;Beschriftung W0190 montieren;A474;07.02.2018;10:07:18;;00:00:00;;00:00:00;2245020;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-01;W2000;Beschriftung W2000 montieren;A474;07.02.2018;10:52:10;;00:00:00;;00:00:00;2245034;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;W0211;Beschriftung W0211 montieren;A474;07.02.2018;10:15:40;;00:00:00;;00:00:00;2245022;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5100;Beschriftung W5100 montieren;A474;07.02.2018;11:00:35;;00:00:00;;00:00:00;2245046;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5101;Beschriftung W5101 montieren;A474;07.02.2018;11:01:19;;00:00:00;;00:00:00;2245049;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5102;Beschriftung W5102 montieren;A474;07.02.2018;11:01:45;;00:00:00;;00:00:00;2245050;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W5105;Beschriftung W5105 montieren;A474;07.02.2018;11:02:10;;00:00:00;;00:00:00;2245051;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;W0208;Beschriftung W0208 montieren;A474;07.02.2018;10:08:11;;00:00:00;14.06.2018;12:00:00;2245021;213693;Weitere Aktionen;Signalisationstafel montiert;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+A;03-0101-091-14;TOR9106;DEig Torbrücke G. 5 defekt;A474;05.02.2018;10:12:05;03.02.2018;07:00:00;03.02.2018;09:00:00;2244594;213690;Gewartet;Torbrücke;;5;16;kein Fehler;;;
+B;01-9001-2-001-01;HNSA600/1;DEig Netzgerät zu TRX defekt;A474;05.02.2018;10:22:11;03.02.2018;07:00:00;03.02.2018;09:00:00;2244596;213691;;;;5;15;Ausserhalb Toleranz;;;
+B;03-0101-090-13;34924;DBo Störung USV;A474;05.02.2018;10:10:09;04.02.2018;08:00:00;04.02.2018;09:00:00;2244592;213689;;;;6;4;Elektrische Störung;2;2;Technische Störung
+X;03-0101-091-14;PE9101;Halbjahreswartung Pegelprüfstation;A474;05.02.2018;10:56:14;;00:00:00;;00:00:00;2244613;213541;Gewartet;Pegelprüfstation;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;03-0101-013-01-1;;Div Luftballone hängen am Fahrdraht;A474;04.02.2018;07:05:50;05.02.2018;08:14:37;05.02.2018;10:00:00;2244514;213687;;;;6;8;sonstiges;2;1;Vandalenschaden
+C;01-0341-2-001-01;EXW0101;Weiche Stumpengel. Block schwarz;A474;02.02.2018;15:27:12;05.02.2018;08:09:43;05.02.2018;10:00:00;2244460;213688;;;;7;2;Kein Block;2;10;unbekannt /sonstiges
+C;01-0337-2-001-01;W2002;Blockt brennt immer und blinkt.;A474;02.02.2018;11:26:27;02.02.2018;11:38:57;02.02.2018;12:00:00;2244430;;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+X;01-0340-2-001-01;HNP0043;Ersatz Deckel Weichensteuerung;A474;02.02.2018;10:59:51;01.06.2018;07:00:00;25.06.2018;15:00:00;2244415;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;HNP0101;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:04:20;01.06.2018;07:00:00;25.06.2018;12:00:00;2244416;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;HNP0105;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:05:16;01.06.2018;07:00:00;25.06.2018;12:00:00;2244417;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;HNP0185;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:06:20;01.06.2018;07:00:00;25.06.2018;12:00:00;2244418;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0339-2-001-01;HNP0188;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:07:06;01.06.2018;07:00:00;25.06.2018;12:00:00;2244419;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0303-2-001-01;HNP0208;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:08:03;01.06.2018;07:00:00;25.06.2018;12:00:00;2244420;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0903-2-001-01;HNP0211;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:08:34;01.06.2018;07:00:00;25.06.2018;12:00:00;2244421;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0341-2-001-01;HNP0274;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:09:22;01.06.2018;07:00:00;25.06.2018;12:00:00;2244422;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0342-2-001-01;HNP0301;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:09:50;01.06.2018;07:00:00;25.06.2018;12:00:00;2244423;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0802-2-001-01;HNP0304;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:10:21;01.06.2018;07:00:00;25.06.2018;12:00:00;2244424;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1000;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:10:57;01.06.2018;07:00:00;25.06.2018;12:00:00;2244425;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1003;Ersatz Deckel Weichensteuerung;A474;02.02.2018;11:11:34;01.06.2018;07:00:00;25.06.2018;12:00:00;2244426;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1006;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:09:12;01.06.2018;07:00:00;25.06.2018;12:00:00;2244438;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1009;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:09:45;01.06.2018;07:00:00;25.06.2018;12:00:00;2244439;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0340-2-001-01;HNP1014;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:10:14;01.06.2018;07:00:00;25.06.2018;12:00:00;2244440;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0338-2-001-01;HNP2000;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:10:46;01.06.2018;07:00:00;25.06.2018;12:00:00;2244441;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0337-2-001-01;HNP2002;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:11:18;01.06.2018;07:00:00;25.06.2018;12:00:00;2244442;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0703-2-001-01;HNP2006;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:11:47;01.06.2018;07:00:00;25.06.2018;12:00:00;2244443;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0901-2-001-01;HNP3000;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:12:21;01.06.2018;07:00:00;25.06.2018;12:00:00;2244444;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;HNP3002;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:13:54;01.06.2018;07:00:00;25.06.2018;12:00:00;2244446;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-0902-2-001-01;HNP3006;Ersatz Deckel Weichensteuerung;A474;02.02.2018;13:14:21;01.06.2018;07:00:00;25.06.2018;12:00:00;2244447;213460;Ersetzt;Deckel für Weichensteuerung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;;;Fahrzeug zu AMAG für offene Reparaturen;A474;31.01.2018;08:08:41;30.01.2018;07:00:00;31.01.2018;17:00:00;2245004;;Weitere Aktionen;;;5;16;kein Fehler;2;3;Falschmeldungen
+X;03-0101;;Fahrleitungsabschaltung;A474;31.01.2018;04:33:52;31.01.2018;06:37:28;31.01.2018;06:37:29;2244233;;;;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-9001-2-001-01;HNSA600/1;Störung Depot Eiger;A474;31.01.2018;10:23:22;29.01.2018;20:00:00;31.01.2018;07:00:00;2244264;213457;;;;7;6;Ausserhalb Toleranz;2;2;Technische Störung
+B;01-0342-2-001-01;W0301;Weichendefekt Egghölzli auswärts;A474;30.01.2018;13:45:06;30.01.2018;14:18:39;30.01.2018;15:00:00;2244191;213454;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+B;01-0340-2-001-01;W0043;W043 Zytglogge -HB L6,7,8 reagiert nicht;A474;30.01.2018;13:04:21;30.01.2018;13:11:26;30.01.2018;15:00:00;2244186;213455;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+X;01-0340-2-001-01;W0049;Weiche0049 5-Jahreswartung;A474;29.01.2018;12:29:57;;00:00:00;;00:00:00;2244107;213411;Gewartet;Weiche 5-Jahreswartung;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+C;01-0902-2-001-01;W3004;W3004 reagiert nicht / Stechen;A474;29.01.2018;20:50:30;30.01.2018;06:38:12;30.01.2018;06:38:12;2244137;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-011-05;W1105;Entgleisung Bubenbergstrasse;A474;29.01.2018;06:44:18;29.01.2018;06:51:33;;00:00:00;2244007;;;;;6;1;Entgleisung;2;2;Technische Störung
+C;03-0101-026-05;W2601;Schosshalde- Weiche stelt nicht um;A474;29.01.2018;10:09:13;29.01.2018;10:13:36;30.01.2018;12:00:00;2244071;213456;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-091-05;W9106;Fl. Störung Philoweg;A474;29.01.2018;07:40:07;28.01.2018;08:00:00;28.01.2018;09:00:00;2244015;213406;Repariert;Cu Rohr und Verbinder ers.;;6;1;Entgleisung;2;6;Drittverschulden
+X;01-0340-2-001-01;W0045;Weiche0045 5-Jahreswartung;A474;29.01.2018;12:29:16;14.05.2018;00:00:00;14.05.2018;00:00:00;2244106;213410;Weitere Aktionen;Keine Aktion notwendig;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4006;Weiche4006 Wartung Weichenantrieb;A474;29.01.2018;12:19:12;;00:00:00;;00:00:00;2244090;213407;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4007;Weiche4007 Wartung Weichenantrieb;A474;29.01.2018;12:20:31;;00:00:00;;00:00:00;2244091;213408;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4008;Weiche4008 Wartung Weichenantrieb;A474;29.01.2018;12:21:14;;00:00:00;;00:00:00;2244093;213409;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4009;Weiche4009 Wartung Weichenantrieb;A474;29.01.2018;12:21:49;;00:00:00;;00:00:00;2244094;213412;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4011;Weiche4011 Wartung Weichenantrieb;A474;29.01.2018;12:22:20;;00:00:00;;00:00:00;2244095;213413;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4013;Weiche4013 Wartung Weichenantrieb;A474;29.01.2018;12:22:58;;00:00:00;;00:00:00;2244096;213414;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4014;Weiche4014 Wartung Weichenantrieb;A474;29.01.2018;12:23:38;;00:00:00;;00:00:00;2244097;213415;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4015;Weiche4015 Wartung Weichenantrieb;A474;29.01.2018;12:24:09;;00:00:00;;00:00:00;2244098;213416;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4016;Weiche4016 Wartung Weichenantrieb;A474;29.01.2018;12:24:43;;00:00:00;;00:00:00;2244099;213417;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4017;Weiche4017 Wartung Weichenantrieb;A474;29.01.2018;12:25:13;;00:00:00;;00:00:00;2244100;213418;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4018;Weiche4018 Wartung Weichenantrieb;A474;29.01.2018;12:25:44;;00:00:00;;00:00:00;2244101;213419;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4019;Weiche4019 Wartung Weichenantrieb;A474;29.01.2018;12:26:15;;00:00:00;;00:00:00;2244102;213420;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4020;Weiche4020 Wartung Weichenantrieb;A474;29.01.2018;12:26:53;;00:00:00;;00:00:00;2244103;213421;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4021;Weiche4021 Wartung Weichenantrieb;A474;29.01.2018;12:27:25;;00:00:00;;00:00:00;2244104;213422;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+X;01-9000-2-001-01;W4032;Weiche4032 Wartung Weichenantrieb;A474;29.01.2018;12:27:53;;00:00:00;;00:00:00;2244105;213423;Gewartet;Weichenantrieb;;5;16;kein Fehler;2;7;Geplante Instandhaltung
+B;03-0101-090;;Brandalarm Depot Bolli;A474;28.01.2018;07:22:25;28.01.2018;06:44:20;28.01.2018;08:00:00;2243980;213404;;;;5;7;Unterbruch;2;2;Technische Störung
+C;04-F-0040-01;;unterer Beobachtungsmonitor dunkel;A474;28.01.2018;16:34:02;29.01.2018;06:46:29;29.01.2018;15:00:00;2243986;213405;;;;5;7;Unterbruch;2;2;Technische Störung
+A;03-0101-011;;Tram - Tb Kollision;A474;25.01.2018;07:21:31;24.01.2018;17:00:00;24.01.2018;22:00:00;2243813;213400;Repariert;Fahrleitungsschaden;;6;2;Fahrleitungsschaden;2;4;Fehlmanipulation
+C;01-0340-2-001-01;W1014;Weichen Nr 1014 Block brennt, Pfeil feht;A474;25.01.2018;09:01:58;25.01.2018;09:37:00;;00:00:00;2243822;;;;;7;2;Kein Block;2;2;Technische Störung
+C;03-0101-027-01-2;;Entgleisung Bollwerk;A474;24.01.2018;06:41:52;22.01.2018;17:00:00;22.01.2018;20:00:00;2243714;213397;;;;6;1;Entgleisung;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/1;Depot Eiger, Steuerbereich 1 ausgefallen;A474;23.01.2018;15:11:45;23.01.2018;15:14:38;23.01.2018;17:00:00;2243692;;;;;5;7;Unterbruch;2;2;Technische Störung
+C;01-9001-2-001-01;HNSA600/1;BHS Depot Eigerplatz;A474;23.01.2018;07:15:55;22.01.2018;19:00:00;22.01.2018;20:00:00;2243655;213395;Weitere Aktionen;Fehlersuche und einschalten der Anlage;;6;7;Fehlbedienung;2;2;Technische Störung
+C;03-0101-091-01-2;;Depot Servicetrakt kein Strom;A474;22.01.2018;17:00:12;22.01.2018;19:00:00;22.01.2018;20:00:00;2243623;213394;Eingestellt;Fehler gelöschtv und Anlage eingeschalte;;6;7;Fehlbedienung;2;4;Fehlmanipulation
+C;01-0340-2-001-01;W1014;Weiche 1014 schwarz,.;A474;22.01.2018;07:13:18;22.01.2018;07:44:05;22.01.2018;17:00:00;2243560;;;;;7;2;Kein Block;2;2;Technische Störung
+X;01-9000-2-001-01;HNSA502/1;Anpassung Weichenheizung DBo;A474;22.01.2018;07:36:12;22.01.2018;07:37:32;;00:00:00;2243561;213388;;;;5;7;Unterbruch;;;
+C;01-0340-2-001-01;W1016;Weiche1016 muss von Hand gestellt werden;A474;21.01.2018;14:00:45;22.01.2018;06:41:40;;00:00:00;2243542;213386;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1014;Weiche Bundesgasse 1014 schwarz;A474;21.01.2018;06:30:17;22.01.2018;06:41:42;;00:00:00;2243522;213385;;;;7;4;Keine Endlage;2;2;Technische Störung
+C;01-0340-2-001-01;W1010;W1009+1010 HIGR KS dunkel;A474;18.01.2018;06:06:53;18.01.2018;06:37:44;;00:00:00;2243270;213387;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;03-0101-029-05;W2902;Wylerweiche defekt;A474;18.01.2018;07:19:21;17.01.2018;12:30:00;17.01.2018;15:00:00;2243283;213383;;;;6;4;Elektrische Störung;2;2;Technische Störung
+C;03-0101-090-13;;Notaustaster defekt;A474;17.01.2018;07:24:03;01.01.2018;07:00:00;16.01.2018;12:00:00;2243222;213378;;;;6;7;Fehlbedienung;2;2;Technische Störung
+B;01-0340-2-001-01;W1016;Weiche Hgr kann nicht Richtung Wabern ge;A474;17.01.2018;07:46:22;17.01.2018;07:55:30;17.01.2018;09:00:00;2243224;213379;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;03-0101-029-05;W2902;Weiche Wyler;A474;17.01.2018;11:23:17;17.01.2018;11:51:54;17.01.2018;15:00:00;2243244;213384;;;;6;4;Elektrische Störung;2;2;Technische Störung
+B;03-0101-010-03-1;ST1002;Streckentrenner hängt herunter;A474;17.01.2018;07:10:12;16.01.2018;10:00:00;16.01.2018;11:00:00;2243217;213377;;;;6;2;Fahrleitungsschaden;2;9;Materialermüdung
+C;01-0340-2-001-01;W1016;Weiche 1016,Weichelicht schwarz;A474;16.01.2018;14:59:01;16.01.2018;15:22:28;16.01.2018;23:00:00;2243183;213376;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;W1016;Weiche 1016 bleibr hängen;A474;16.01.2018;16:56:29;17.01.2018;06:36:55;17.01.2018;07:00:00;2243200;;;;;7;1;Block nicht gelöscht;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/1;DBo Tor 6 schliesst nicht;A474;16.01.2018;06:56:02;15.01.2018;07:00:00;15.01.2018;17:00:00;2243050;213373;;;;7;6;Ausserhalb Toleranz;2;2;Technische Störung
+C;01-0303-2-001-01;W5101;W 5101 steht Richtung Depot.;A474;15.01.2018;06:42:11;15.01.2018;06:51:41;15.01.2018;08:00:00;2242757;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;HNP1000;Weichenlicht W1000 dunkel;A474;15.01.2018;08:12:55;14.01.2018;09:00:00;14.01.2018;10:00:00;2242762;213173;;;;7;5;Verschmutzt;2;2;Technische Störung
+C;01-0339-2-001-01;W0190;Weiche 190 reagiert nicht;A474;13.01.2018;05:24:44;15.01.2018;06:44:37;;00:00:00;2242670;213172;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+X;03-0101-003-01-1;;1 Paar Schuhe hängen am Querdraht zur FL;A474;12.01.2018;13:56:54;12.01.2018;14:00:00;12.01.2018;15:00:00;2242641;213171;;;;6;8;sonstiges;2;6;Drittverschulden
+X;03-0101-021-01-1;;Raureif Taste benutzt;A474;10.01.2018;06:04:01;10.01.2018;06:47:26;10.01.2018;06:47:28;2242494;;Weitere Aktionen;Keine Aktion;;5;17;unbekannter Fehler;2;5;Höhere Gewalt
+C;01-0339-2-001-01;W0190;Weiche 190 von Hand gestellt;A474;10.01.2018;06:39:29;10.01.2018;06:42:55;;00:00:00;2242500;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;03-0101-026-01-2;;Rechtes Führungsseil gerissen;A474;09.01.2018;11:26:29;09.01.2018;06:30:00;09.01.2018;12:00:00;2242458;213165;;;;6;2;Fahrleitungsschaden;2;6;Drittverschulden
+C;01-0303-2-001-01;W5101;Weiche 5101 stellt von selbst;A474;09.01.2018;14:09:56;09.01.2018;14:00:00;09.01.2018;15:00:00;2242472;213166;Kontrolliert;Alles i.O;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-0340-2-001-01;HNP1016;Weiche 1014 schwarz.;A474;09.01.2018;09:52:37;09.01.2018;09:30:00;09.01.2018;11:00:00;2242451;213162;Eingestellt;HFP neu eingelesen;;7;2;Kein Block;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/3;Depot 4, Steuerbereich 3 = Ausfall;A474;09.01.2018;11:33:42;09.01.2018;11:35:45;09.01.2018;13:00:00;2242460;213167;Eingestellt;Datensammler neu gestartet;;5;7;Unterbruch;2;2;Technische Störung
+C;01-0340-2-001-01;W0043;Weiche 0043 Verschmutzt;A474;08.01.2018;07:08:25;05.01.2018;20:00:00;;00:00:00;2242342;213155;;;;7;5;Verschmutzt;2;6;Drittverschulden
+C;1;;Weichenlicht W9743 schwarz;A474;05.01.2018;18:53:27;08.01.2018;06:46:22;08.01.2018;06:46:23;2242246;;;;;7;3;Von Hand gestellt;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;Weichenlicht Hirschengraben;A474;05.01.2018;13:23:15;05.01.2018;13:32:20;;00:00:00;2242222;213153;;;;7;2;Kein Block;2;2;Technische Störung
+C;01-0340-2-001-01;W1009;Weiche 1009 Hgr-Wallgasse ist schwarz. O;A474;05.01.2018;10:22:24;05.01.2018;10:49:16;;00:00:00;2242216;213154;;;;7;2;Kein Block;2;2;Technische Störung
+A;03-0101-022;;Mehrere  Stommasten umgekippt;A474;03.01.2018;11:20:33;03.01.2018;10:30:00;;00:00:00;2242082;213145;Weitere Aktionen;prov.;;5;1;beschädigt;2;5;Höhere Gewalt
+C;01-0337-2-001-01;W2002;Weiche Unterführung macht Probleme;A474;03.01.2018;11:58:37;03.01.2018;12:14:19;;00:00:00;2242091;213144;;;;7;7;Unbekannter Fehler;2;2;Technische Störung
+C;01-9000-2-001-01;HNSA502/3;SB 3 Datensammler;A474;03.01.2018;07:40:51;28.12.2017;07:00:00;28.12.2017;08:30:00;2242054;213135;;;;5;15;Ausserhalb Toleranz;2;2;Technische Störung

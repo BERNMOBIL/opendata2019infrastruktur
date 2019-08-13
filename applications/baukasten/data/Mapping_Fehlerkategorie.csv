@@ -1,0 +1,7 @@
+Kategorie;Beschreibung
+&;nicht bestimmt
+A;Schwer: Infrastruktur gesperrt
+B;Gravierend: Infrastruktur eingeschalten
+C;Fehler: Reparatur nötig
+D;Unkritisch: Reparatur planen
+X;Irrelevant: keine Auswirkung (Bsp. präventive Instandhaltung)

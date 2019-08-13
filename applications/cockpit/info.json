@@ -1,0 +1,11 @@
+{
+"title": "Infrastruktur Störungs Cockpit Bernmobil",
+"description": "Dieses Cockpit visualisiert in einem übersichtlichen, aussagekräftigen und fully responsive Design in verschiedenen Darstellungen alle Infrastruktur-Störungen der Bernmobil im Jahr 2018. Der Zeitraum wird über einen Slider oder Buttons individuell angepasst und Angaben zu Störungsdauer, Art der Störungen oder der Verteilung auf die Wochentage werden sofort ersichtlich.",
+"authors": [
+    {"name": "Patrick Hux", "email": "patrick.hux@students.unibe.ch"},
+    {"name": "Marc Sulzberger", "email": "marc.sulzberger@students.unibe.ch"}
+],
+"date": "2019-05-23",
+"category": "traffic",
+"software_license": "GNU General Public License v3"
+}

@@ -1,0 +1,338 @@
+/* CSS-VARIABLES */
+:root {
+  --primary-color: #6A5ACD;
+  --primary-color-hover: #9384ed;
+  --secondary-color: #beb7e8;
+  --secondary-color-hover: #d0cbed;
+  --primary-bg-color: white;
+  --primary-bg-color-hover: #e2edff;
+  --text-color: black;
+  --disabled-color: gray;
+  --inverse-text-color: white;
+}
+
+body {
+	position: absolute;
+	font-family: "opextralight", "Arial", serif;
+	padding: 0;
+	margin: 0;
+}
+body, html {
+  height: 100%;
+  width: 100%;
+}
+p, ul {
+	font-size: 20px;
+}
+h1 {
+	font-size: 50px;
+	font-weight: lighter;
+}
+h2 {
+	font-size: 40px;
+	font-weight: lighter;
+}
+h3 {
+	font-size: 30px;
+	font-weight: lighter;
+}
+.inlineImage{
+	float: right;
+	width: 150px;
+	border-radius: 13px;
+}
+
+
+/* CHART */
+#chart {
+	display: inline-block;
+}
+.sliceSelected{
+	stroke: black;
+	stroke-width: 3px;
+	fill-opacity: 1;
+}
+
+.secondaryChart{
+	fill-opacity: 0.2;
+}
+
+
+/* BUTTONS */
+.button, .button:visited {
+	cursor: default;
+	font-size: 16px;
+	
+	padding: 8px;
+	margin: 2px;
+	border-radius: 13px;
+	line-height: 24px;
+	display: inline-block;
+	border: 3px solid var(--primary-color);
+	background-color: var(--primary-bg-color);
+	color: var(--text-color);
+	
+}
+.button:active, .button:hover {
+	background-color: var(--primary-bg-color-hover);
+	color: var(--text-color);
+}
+
+.columnPickerButton, #magicSelectionButton{
+	padding-left: 36px;
+	
+	background-position: 6px 6px;
+	background-repeat: no-repeat;
+	background-size: 26px;
+}
+
+#closeDialogButton {
+	position: fixed;
+	right: 15px;
+	top: 15px;
+	padding-right: 36px;
+	
+	background-image: url(./icons/close2.png);
+	background-position: right 4px top 11px;
+	background-repeat: no-repeat;
+	background-size: 26px;
+}
+
+.selectedColumnsButton, .selectedColumnsButton:visited{
+	cursor: default;
+	font-size: 16px;
+	margin: 2px;
+	border-radius: 13px;
+	vertical-align: top;
+	line-height: 24px;
+	display: inline-block;
+	border: 3px solid var(--primary-color);
+	color: var(--text-color);
+	
+	background-color: var(--secondary-color);
+}
+.selectedColumnsButton:active, .selectedColumnsButton:hover{
+	background-color: var(--secondary-color-hover);
+	color: var(--text-color);
+}
+
+.selectedColumnsButton .subbutton {
+	padding: 8px 8px 8px 36px;
+}
+
+.selectedColumnsButton .text {
+	padding: 8px 36px 8px 36px;
+	background-color: var(--primary-bg-color);
+	border-radius: 10px;
+	background-position: 6px 6px, right 4px top 11px;
+	background-repeat: no-repeat;
+	background-size: 26px, 26px;
+}
+.selectedColumnsButton .text:active, .selectedColumnsButton .text:hover {
+	background-color: var(--primary-bg-color-hover);
+}
+
+
+/* LEGEND */
+#legend {
+	cursor:  default;
+	
+	display: inline-block;
+	vertical-align: top;
+	font-size: 18px;
+	
+	max-width: 340px;
+	max-height: 580px;
+
+	overflow-y: auto;
+	margin-top: 30px;
+}
+#legend .legenditem {
+	display: block;
+	padding: 5px;
+	padding-right: 30px;
+	
+	white-space: nowrap;
+}
+#legend .legenditem div {
+	display: inline-block;
+	vertical-align: top;
+	width: 30px;
+	height: 30px;
+	border-radius: 10px;
+}
+#legend .legenditem > span {
+	padding: 5px;
+	max-width: 270px;
+	display: inline-block;
+	vertical-align: middle;
+	
+	white-space: normal;
+}
+#legend .legenditem .description {
+	color: var(--disabled-color); 
+}
+
+
+/* PARALLAX */
+.parallax {
+  background-image: url(./img/cover2.jpg);
+  height: 550px;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  will-change: transform;
+}
+.parallax2 {
+  background-image: url(./img/cover3.jpg);
+  height: 500px;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  background-image: url(./img/cover4.jpg);
+  height: 500px;
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* BOX */
+.box {
+	width: 100%;
+	margin: 0px auto;
+	max-width: 1000px;
+}
+.widebox {
+	margin: 5px;
+}
+
+
+/* COLUMNPICKER */
+#columnPickerTutorial, #columnPickerMessage {
+	position: absolute;
+	margin-left: 15px;
+	display: none;
+}
+#columnPickerBox {
+	background-color: var(--primary-bg-color-hover);
+	border-radius: 15px;
+}
+
+#columnPicker {
+	background-color: var(--secondary-color);
+	border-radius: 15px;
+	padding: 5px;
+}
+
+
+/* SELECTEDCOLUMNSPANEL */
+#selectedColumnsPanel::before { 
+  display: block; 
+  content: " "; 
+  margin-top: -300px; 
+  height: 300px; 
+  visibility: hidden; 
+  pointer-events: none;
+  /*trick, to avoid a complete jump for anchor links, see https://css-tricks.com/hash-tag-links-padding/*/
+}
+
+/* TABLE */
+#tableContainer {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: var(--primary-bg-color);
+	width: 100%;
+	z-index: 20;
+}
+
+#tableContainer table {
+	border-radius: 15px;
+	border: 4px solid var(--primary-color);
+	border-spacing: 0;
+	border-collapse: separate !important;
+	
+	margin: 15px;
+}
+
+#tableContainer td, #tableContainer th {
+	border: none;
+	text-align: left;
+	padding: 8px;
+}
+
+#tableContainer thead tr {
+	background-color: var(--secondary-color-hover);
+}
+
+#tableContainer tr:nth-child(even) {
+  background-color: var(--primary-bg-color-hover);
+}
+
+#tableContainer .ascending, #tableContainer .descending {
+	padding-left: 23px;
+	
+	background-position: left 4px center;
+	background-repeat: no-repeat;
+	background-size: 14px;
+}
+#tableContainer .ascending {background-image: url(./icons/ascending.png);}
+#tableContainer .descending {background-image: url(./icons/descending.png);}
+
+.dialogbox {
+	margin: 20px;
+	padding: 5px;
+}
+
+
+/* CENTRALPANEL */
+#centralPanel {
+	width: 250px;
+	height: 250px;
+	position: absolute;
+	border-radius: 200px;
+	text-align: center;
+	transform: translate(200px, 200px);
+}
+#centralPanel .counter {
+	margin-top: 70px;
+	margin-bottom: 10px;
+}
+#centralPanel .highlight{
+	font-size: 50px;
+}
+
+
+/* TOOLTIP */
+.tooltip {
+	font-size: 18px;
+	
+	display:block;
+	border: 3px solid var(--primary-color);
+	border-radius: 13px;
+	position: absolute;
+	pointer-events: none;
+	background-color: var(--primary-bg-color);
+	padding: 8px;
+}
+
+
+/* FONT */
+@font-face {
+	font-family: 'opextralight';
+	src: url('./font/opextralight.woff2') format('woff2'), url('./font/opextralight.woff') format('woff');
+	font-weight: regular;
+}
+@font-face {
+	font-family: 'opextralight';
+	src: url('./font/opbold.woff2') format('woff2'), url('./font/opbold.woff') format('woff');
+	font-weight: bold;
+}

@@ -1,0 +1,72 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 93% !important;
+    margin-bottom: 0px !important;
+}
+
+.jumbotron {
+    padding: 20px !important
+}
+
+.jumbotron.text-center {
+         margin-bottom: 0px !important;
+}
+
+h3 {
+    padding-bottom: 3px !important;
+    text-align: center;
+}
+
+h4 {
+    font-size: 19px !important;
+}
+
+.bg-1 {
+    background-image: url(Tram1.jpeg);
+    background-position: bottom;
+    background-size: cover;
+    padding: 100px;
+    color: white;
+    height: 320px;
+}
+
+.Einleitung {
+    margin-bottom: 0px !important;
+}
+
+#Einleitungszeile {
+    padding: 1px !important
+}
+
+.card-header {
+    color: black;
+}
+
+#amount {
+    background-color: transparent !important
+}
+
+.buttons {
+    padding-top: 4px;
+}
+
+.Kennzahlen {
+    font-size: 17px;
+}
+
+#total {
+    color: #CB1742;
+}
+
+#dauer {
+    color: #CB1742;
+}
+
+.c3-region.regionX {
+  fill: #D999A5;
+}
+
+Corporate Color: #CB1742

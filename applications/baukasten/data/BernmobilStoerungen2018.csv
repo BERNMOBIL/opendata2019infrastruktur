@@ -1,0 +1,740 @@
+Fehlerkategorie;Techn. Platz;Techn. Identitätsnr.;Störungsbeginn;Massnahme;Fehlertext;Ursache;Traktion;Anlagenart;Ort;Dauer (in Std.)
+B;03-0101-012-01-2;;31.12.18;;Entgleisung;Drittverschulden;;;;0
+C;01-9000-2-001-01;HNSA502/3;27.12.18;Eingestellt;Unterbruch;;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;2
+C;03-0101-018;;28.12.18;;sonstiges;unbekannt /sonstiges;;;;0
+C;01-0341-2-001-01;W0274;24.12.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Burgernziel;0
+C;01-0340-2-001-01;W1009;21.12.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;4.3
+C;01-0340-2-001-01;W1010;21.12.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1006;21.12.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Schwanengasse;0
+C;01-0340-2-001-01;W1003;24.12.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Bahnhof;7.5
+C;01-0340-2-001-01;W1003;20.12.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-9000-2-001-01;HNSA502/3;20.12.18;Kontrolliert;Keine Endlage;;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+X;01-9001-2-001-01;HNSA600/1;01.12.18;Eingestellt;Ausserhalb Toleranz;;Tr;Elektrischer Weichensteuerung;Eigerplatz;1
+B;03-0101-091;;17.12.18;Weitere Aktionen;sonstiges;;;;;9.3
+C;01-0340-2-001-01;W1003;19.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0340-2-001-01;W1003;18.12.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0902-2-001-01;W3002;19.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;0
+X;03-0101-091-14;TOR9101;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9102;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9103;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9104;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9106;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+C;03-0101-091-14;TOR9107;12.11.18;Gewartet;kein Fehler;;Tr;Torbrücke;Betriebshof Eiger;1
+X;03-0101-091-14;TOR9107;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9108;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9109;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9110;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+X;03-0101-091-14;TOR9111;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Torbrücke;Betriebshof Eiger;0
+C;01-9000-2-001-01;HNSA502/1;15.12.18;Gewartet;kein Fehler;;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;5
+C;01-9001-2-001-01;W5001;14.11.18;Gewartet;kein Fehler;;Tr;Elektrische Weiche;Depot Eiger;1
+C;01-0340-2-001-01;W1009;17.12.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0341-2-001-01;W0274;13.12.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Burgernziel;0
+C;03-0101-004-01-1;;12.12.18;;Fremdeinwirkungen;Höhere Gewalt;;;;0
+C;01-0340-2-001-01;W1014;12.12.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;0
+C;03-0101-091-06-1;;11.12.18;Ersetzt;Fahrleitungsschaden;;;;;0
+A;03-0101-006-09;;09.12.18;Weitere Aktionen;Entgleisung;;;;;2
+C;01-0902-2-001-01;W0106;11.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;0
+C;01-0340-2-001-01;W1009;27.11.18;;Kein Block;;Tr;Elektrische Weiche;Hirschengraben;1
+C;01-0337-2-001-01;W2002;10.12.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-0337-2-001-01;W2002;08.12.18;;Unbekannter Fehler;;Tr;Elektrische Weiche;Unterführung;1
+C;01-0340-2-001-01;W0043;27.11.18;Gereinigt;Kein Block;;Tr;Elektrische Weiche;Du Theatre;1
+C;01-0340-2-001-01;W1016;10.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;National;0
+C;01-0338-2-001-01;W2000;10.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Brunnmatt;0
+C;01-0903-2-001-01;W0211;10.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Friedheim;0
+C;03-0103;;10.12.18;;unbekannter Fehler;Höhere Gewalt;;;;0
+C;01-0803-2-001-01;W2010;10.12.18;;Keine Endlage;Technische Störung;Tr;Elektrische Weiche;Holenacker;0
+C;03-0101-029-05;W2902;10.12.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;0
+C;03-0101-091-05;W9101;10.12.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Dienstgeleise Trolleybus;0
+B;03-0101-091-01-2;;07.12.18;;Fahrleitungsschaden;Drittverschulden;;;;0
+D;03-0101-013-09;;03.12.18;;sonstiges;;;;;19
+C;03-0101-091-05;W9101;06.12.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Dienstgeleise Trolleybus;0
+C;01-0340-2-001-01;W0043;07.12.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Du Theatre;0
+C;01-9000-2-001-01;W4014;03.12.18;Gewartet;kein Fehler;;Tr;Elektrische Weiche;Depot Bolligenstrasse;2.5
+C;01-0303-2-001-01;W5100;03.12.18;Gewartet;kein Fehler;;Tr;Elektrische Weiche;Eigerplatz;1
+X;03-0101-013-01-1;FD1304;03.12.18;;sonstiges;unbekannt /sonstiges;Tr;Fahrdraht Tram;Spitalgasse;0
+C;01-0303-2-001-01;W5102;03.12.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Eigerplatz;0
+A;03-0101-090;;29.11.18;;Elektrische Störung;unbekannt /sonstiges;;;;0
+C;01-0340-2-001-01;W1003;27.11.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0901-2-001-02;W3001;28.11.18;;Kein Block;Technische Störung;;;;0
+B;01-0340-2-001-01;W0043;26.11.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Du Theatre;0
+X;1;;19.11.18;Programmiert;sonstiges;unbekannt /sonstiges;;;;0
+C;01-0337-2-001-01;W2005;16.11.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-0340-2-001-01;W1010;12.11.18;;Unbekannter Fehler;;Tr;Elektrische Weiche;Hirschengraben;1
+A;03-0101-025-01-2;;08.11.18;Weitere Aktionen;Fremdeinwirkungen;;;;;4
+C;03-0101-011-05;W1105;09.11.18;;Entgleisung;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;0
+C;01-9001-2-001-01;HNSA600/1;07.11.18;;Ausserhalb Toleranz;;Tr;Elektrischer Weichensteuerung;Eigerplatz;16
+C;01-0340-2-001-01;W1016;07.11.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;National;0
+C;01-0340-2-001-01;W1016;06.11.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;National;0
+C;01-0337-2-001-01;W2002;05.11.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-0337-2-001-01;W2005;05.11.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-0903-2-001-01;W0211;05.11.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Friedheim;0
+C;03-0101-026-01-2;;01.11.18;;Fahrleitungsschaden;unbekannt /sonstiges;;;;0
+C;01-0340-2-001-01;W1000;31.10.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Spitalgasse;0
+C;01-0340-2-001-01;W1000;30.10.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Spitalgasse;0
+C;01-9001-2-001-01;HNSA600/1;30.10.18;Eingestellt;Ausserhalb Toleranz;;Tr;Elektrischer Weichensteuerung;Eigerplatz;2
+C;01-0340-2-001-01;W0049;29.10.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kornhaus;1.5
+C;01-0340-2-001-01;W0049;29.10.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kornhaus;0
+C;01-9000-2-001-01;HNSA502/1;25.10.18;Gewartet;kein Fehler;;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+C;01-0340-2-001-01;W1004;27.10.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bahnhof;3.6
+C;01-0703-2-001-01;W2006;27.10.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bümpliz;2
+B;03-0101-027-01-2;;25.10.18;;Entgleisung;Vandalenschaden;;;;0
+C;01-0339-2-001-01;W0185;24.10.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+D;03-0101-012-09;;21.10.18;;Fremdeinwirkungen;Vandalenschaden;;;;19
+C;01-0340-2-001-01;W0049;22.10.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kornhaus;0
+C;01-0340-2-001-01;W0049;23.10.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kornhaus;0
+C;01-0340-2-001-01;W1009;18.10.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1012;18.10.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0901-2-001-01;W3000;18.10.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Wankdorf Bahnhof;0
+A;03-0101-011-01-1;;16.10.18;Ausgetauscht;Fahrleitungsschaden;Fehlmanipulation;;;;5.2
+A;03-0101-011-01-1;;17.10.18;;Fahrleitungsschaden;Drittverschulden;;;;0
+C;01-0341-2-001-01;EXW0101;16.10.18;;Block nicht gelöscht;Technische Störung;;;;0
+C;01-0341-2-001-01;EXW0101;15.10.18;;Block nicht gelöscht;Technische Störung;;;;0
+X;03-0101-090-14;AP9001;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+C;01-0340-2-001-01;W1010;09.10.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1014;09.10.18;;Von Hand gestellt;unbekannt /sonstiges;Tr;Elektrische Weiche;Bundesgasse;0
+C;01-0340-2-001-01;W1003;09.10.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0340-2-001-01;W1010;05.10.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+D;03-0101-012-05;W1205;01.10.18;Revidiert;Entgleisung;;Tb;Elektrische Weiche;Bahnhof Ost;5
+B;01-0340-2-001-01;W1003;04.10.18;;Kein Block;unbekannt /sonstiges;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0340-2-001-01;W1010;03.10.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0340-2-001-01;W0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kornhaus;0
+X;01-0340-2-001-01;STW0002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Theatre;0
+X;01-0340-2-001-01;STW0003;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Marktgasse;0
+X;01-0341-2-001-01;EXSTW0007;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0341-2-001-01;EXSTW0008;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0340-2-001-01;STW0039;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Spitalgasse;0
+X;01-0340-2-001-01;STW0042;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Bahnhof;0
+X;01-0340-2-001-01;STW0043;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Bahnhof;0
+X;01-0340-2-001-01;STW0045;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Schwanengasse;0
+X;01-0340-2-001-01;STW0048;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Hirschengraben;0
+X;01-0340-2-001-01;STW0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Hirschengraben;0
+X;01-0340-2-001-01;STW0051;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Hirschengraben;0
+X;01-0340-2-001-01;STW0053;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Bundesgasse;0
+X;01-0340-2-001-01;STW0055;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;National;0
+C;01-0340-2-001-01;W1010;02.10.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1003;01.10.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0340-2-001-01;W1010;28.09.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1014;01.10.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;0
+C;03-0101-011-05;W1102;28.09.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;0
+C;03-0101-004-01-1;;26.09.18;;Fremdeinwirkungen;Höhere Gewalt;;;;0
+C;01-0803-2-001-01;W2010;25.09.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Holenacker;0
+C;01-0903-2-001-01;W0211;25.09.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Friedheim;0
+C;03-0101-012-01-2;;25.09.18;;Fremdeinwirkungen;Vandalenschaden;;;;0
+C;03-0101-022-01-2;;23.09.18;;Fremdeinwirkungen;Höhere Gewalt;;;;0
+C;01-0903-2-001-01;W0211;24.09.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Friedheim;0
+C;01-0340-2-001-01;W1010;24.09.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;24.09.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0703-2-001-01;W2006;21.09.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bümpliz;0
+C;01-0340-2-001-01;W1003;20.09.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0902-2-001-01;HNP0105;17.09.18;Weitere Aktionen;unbekannter Fehler;Technische Störung;Tr;Elektrischer Weichensteuerung;Guisanplatz;29
+C;03-0101-026-01-2;;19.09.18;;Fahrleitungsschaden;unbekannt /sonstiges;;;;0
+B;01-0340-2-001-01;W1010;19.09.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+X;03-0101-091-12;#NAME?;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0340-2-001-01;HNP0043;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Du Theatre;0
+X;01-0340-2-001-01;HNP0045;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Marktgasse;0
+X;01-0340-2-001-01;HNP0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Kornhaus;0
+X;01-0341-2-001-01;HNP0101;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Casinoplatz;0
+X;01-0902-2-001-01;HNP0105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Guisanplatz;0
+X;01-0339-2-001-01;HNP0185;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Kocherpark;0
+X;01-0339-2-001-01;HNP0188;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Kocherpark;0
+X;01-0303-2-001-01;HNP0208;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Weissenbühl;0
+X;01-0903-2-001-01;HNP0211;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Friedheim;0
+X;01-0903-2-001-01;HNP0239;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Wabern;0
+X;01-0341-2-001-01;HNP0274;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Burgernziel;0
+X;01-0342-2-001-01;HNP0301;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Egghölzli;0
+X;01-0802-2-001-01;HNP0304;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Saali;0
+X;01-0340-2-001-01;HNP1000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Spitalgasse;0
+X;01-0340-2-001-01;HNP1003;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Markthalle;0
+X;01-0340-2-001-01;HNP1006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Schwanengasse;0
+X;01-0340-2-001-01;HNP1009;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Wallgasse;0
+X;01-0340-2-001-01;HNP1014;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Bundesgasse;0
+X;01-0340-2-001-01;HNP1016;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;National;0
+X;01-0338-2-001-01;HNP2000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Brunnmatt;0
+X;01-0337-2-001-01;HNP2002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Unterführung;0
+X;01-0703-2-001-01;HNP2006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Bümpliz;0
+X;01-0803-2-001-01;HNP2010;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Holenacker;0
+X;01-0803-2-001-01;HNP2112;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Brünnen;0
+X;01-0901-2-001-01;HNP3000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Wankdorf-Bahnhof;0
+X;01-0902-2-001-01;HNP3002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Papiermühle;0
+X;01-0902-2-001-01;HNP3006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Guisanplatz;0
+X;01-9000-2-001-01;HNSA502/1;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;HNSA502/2;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;HNSA502/3;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;0
+X;01-9001-2-001-01;HNSA600/1;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Eigerplatz;0
+X;01-0303-2-001-01;HNP5100;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Eigerplatz;0
+X;01-0303-2-001-01;HNP5102;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Eigerplatz;0
+X;01-0803-2-001-03;HCP2112;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Brünnen;0
+X;01-0338-2-001-03;HCP2000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Brunnmatt;0
+X;01-0703-2-001-03;HCP2006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Bümpliz;0
+X;01-0340-2-001-03;HCP1014;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Bundesgasse;0
+X;01-0341-2-001-03;HCP0274;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Burgernziel;0
+X;01-0340-2-001-03;HCP0043;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Du Theatre;0
+X;01-0342-2-001-03;HCP0301;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Egghölzli;0
+X;01-0903-2-001-03;HCP0211;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Friedheim;0
+X;01-0902-2-001-03;HCP3006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Guisanplatz;0
+X;01-0902-2-001-03;HCP0105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Guisanplatz;0
+X;01-0907-2-001-03;HCP4004;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Guisanplatz;0
+X;01-0803-2-001-03;HCP2010;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Holenacker;0
+X;01-0339-2-001-03;HCP0185;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Kocherpark;0
+X;01-0339-2-001-03;HCP0188;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Kocherpark;0
+X;01-0340-2-001-03;HCP0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Kornhaus;0
+X;01-0340-2-001-03;HCP1003;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Markthalle;0
+X;01-0340-2-001-03;HCP1016;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;National;0
+X;01-0902-2-001-03;HCP3002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Papiermühle;0
+X;01-0802-2-001-03;HCP0304;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Saali;0
+X;01-0340-2-001-03;HCP1006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Schwanengasse;0
+X;01-0340-2-001-03;HCP1000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Spitalgasse;0
+X;01-0337-2-001-03;HCP2002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Unterführung;0
+X;01-0340-2-001-03;HCP1009;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Wallgasse;0
+X;01-0901-2-001-03;HCP3000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Wankdorf Bahnhof;0
+X;01-0303-2-001-03;HCP0208;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Weissenbühl;0
+X;01-9001-2-001-03;HCP5000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Depot Eiger;0
+X;01-9001-2-001-03;HCP5006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Depot Eiger;0
+X;01-0303-2-001-03;HCP5100;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Eigerplatz;0
+X;01-0341-2-001-03;HCP0101;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Weichenheizungssteuerung;Casino;0
+C;01-0337-2-001-01;W2002;14.09.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;03-0101-026-01-2;;12.09.18;;sonstiges;unbekannt /sonstiges;;;;2
+C;01-0337-2-001-01;W2002;12.09.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-0337-2-001-01;W2002;12.09.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;03-0101-006-01-2;;10.09.18;Weitere Aktionen;Entgleisung;Technische Störung;;;;1
+D;01-0340-2-001-03;HCP1009;11.09.18;Ausgetauscht;unbekannter Fehler;Technische Störung;Tr;Weichenheizungssteuerung;Wallgasse;31
+C;03-0101-013-01;;10.09.18;;Fremdeinwirkungen;Drittverschulden;;;;4.4
+C;01-0340-2-001-01;W1010;10.09.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0902-2-001-01;STW0010;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Guisanplatz;0
+X;01-0902-2-001-01;STW0011;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Guisanplatz;0
+X;01-0341-2-001-01;STW0033;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Burgernziel;0
+X;01-0342-2-001-01;STW0035;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Egghölzli;0
+X;01-0802-2-001-01;STW0037;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Saali;0
+X;01-0901-2-001-01;STW0071;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Wankdorf Bahnhof;0
+X;01-0902-2-001-01;STW0073;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Guisanplatz;0
+X;01-0902-2-001-01;STW0075;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Guisanplatz;0
+X;01-0902-2-001-01;STW0077;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Guisanplatz;0
+C;03-0101-009;;03.09.18;;sonstiges;Höhere Gewalt;;;;0
+C;01-9000-2-001-01;HNSA502/1;24.08.18;Weitere Aktionen;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+C;01-9000-2-001-01;HNSA502/2;22.08.18;Kontrolliert;Keine Endlage;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+C;01-9000-2-001-01;HNSA502/3;28.08.18;Weitere Aktionen;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1.5
+B;02.09.5300/01;900.0.012.1;29.08.18;;verstellt;Technische Störung;;;;650
+C;03-0101-011-01-2;;25.08.18;Ersetzt;Fahrleitungsschaden;Technische Störung;;;;1
+C;01-0340-2-001-01;W1009;28.08.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;1
+X;01-0339-2-001-01;STW0013;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Kocherpark;0
+X;01-0339-2-001-01;STW0016;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Kocherpark;0
+X;01-0339-2-001-01;STW0018;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Kocherpark;0
+X;01-0903-2-001-01;STW0024;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Friedheim;0
+X;01-0903-2-001-01;STW0028;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Wabern;0
+X;01-0338-2-001-01;STW0057;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Brunnmatt;0
+X;01-0337-2-001-01;STW0059;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Unterführung;0
+X;01-0337-2-001-01;STW0062;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Unterführung;0
+X;01-0703-2-001-01;STW0063;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Bümpliz;0
+X;01-0337-2-001-01;STW0066;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Unterführung;0
+X;01-0803-2-001-01;STW0067;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Holenacker;0
+X;01-0803-2-001-01;STW0069;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Brünnen;0
+X;01-0303-2-001-01;STW0021;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Weissenbühl;0
+C;03-0101-005-01-1;;27.08.18;;Fremdeinwirkungen;Höhere Gewalt;;;;53.2
+C;03-0101-011-01-1;;27.08.18;;Fahrleitungsschaden;unbekannt /sonstiges;;;;0
+C;03-0101-008-01-1;;23.08.18;;Fremdeinwirkungen;Höhere Gewalt;;;;145.5
+C;01-0902-2-001-01;W0105;23.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;0
+C;01-0902-2-001-01;W0105;23.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;0
+C;01-0902-2-001-01;HNP0105;22.08.18;Ausgetauscht;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Guisanplatz;0
+C;01-0339-2-001-01;W0185;21.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;2.4
+C;01-0902-2-001-01;HNP0105;18.08.18;Eingestellt;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Guisanplatz;1
+C;01-0902-2-001-01;W0105;20.08.18;Weitere Aktionen;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;5.3
+C;01-0340-2-001-01;W1010;20.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;03-0101-017-01-1;;15.08.18;Ausgetauscht;Elektrische Störung;Technische Störung;;;;10
+C;01-0340-2-001-03;HCP0049;16.08.18;Ausgetauscht;Kurzschluss;Technische Störung;Tr;Weichenheizungssteuerung;Kornhaus;5
+C;01-0902-2-001-01;W0105;15.08.18;;Block nicht gelöscht;unbekannt /sonstiges;Tr;Elektrische Weiche;Guisanplatz;0
+C;01-0340-2-001-01;W1010;15.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;15.08.18;;Von Hand gestellt;unbekannt /sonstiges;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0337-2-001-01;W2005;15.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-0340-2-001-01;W1010;13.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;13.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+X;03-0101-091-04;K9103;;Gewartet;kein Fehler;Geplante Instandhaltung;Tb;Kreuzung Tr-Tb;Dienstgeleise Trolleybus;0
+X;03-0101-091-04;K9105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tb;Kreuzung Tr-Tb;Dienstgeleise Trolleybus;0
+X;01-9001-2-001-01;STW0105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0106;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0107;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0108;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0109;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0110;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0111;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0112;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0113;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0114;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-0303-2-001-01;STW0019;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Eigerplatz;0
+X;01-0303-2-001-01;STW0131;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Eigerplatz;0
+X;01-0303-2-001-01;STW0020;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Eigerplatz;0
+X;01-0303-2-001-01;STW0132;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Eigerplatz;0
+X;01-9001-2-001-01;STW0133;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+X;01-9001-2-001-01;STW0134;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Eiger;0
+C;01-0340-2-001-01;W1010;13.08.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;13.08.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;13.08.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-02;W1002;13.08.18;Weitere Aktionen;Von Hand gestellt;Technische Störung;;;;0.8
+C;03-0101-005-01-1;;13.08.18;;Fahrleitungsschaden;Höhere Gewalt;;;;0.3
+C;01-0340-2-001-01;W1010;13.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;10.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;10.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;03-0101-005-01-1;;09.08.18;;sonstiges;Technische Störung;;;;0
+C;03-0101-005-01-1;;09.08.18;;sonstiges;Technische Störung;;;;0
+C;01-0340-2-001-01;W1010;09.08.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1014;10.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;0.4
+C;01-9000-2-001-01;HNSA502/1;26.07.18;Repariert;unbekannter Fehler;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;8
+C;01-0339-2-001-01;W0185;08.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+C;01-0340-2-001-01;W1010;08.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;07.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;07.08.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0901-2-001-01;W3000;07.08.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Wankdorf Bahnhof;0
+C;01-0339-2-001-01;W0188;07.08.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Kocherpark;0.2
+C;01-0303-2-001-01;W0208;07.08.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Weissenbühl;0
+C;01-0339-2-001-01;W0185;06.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+C;01-0340-2-001-01;W1009;06.08.18;;Keine Endlage;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0.9
+C;01-0340-2-001-01;W1009;06.08.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;06.08.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;06.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+X;03-0101-091-14;PE9101;;Gewartet;kein Fehler;Geplante Instandhaltung;;Pegelprüfstation Garage Eiger;;0
+C;01-0340-2-001-01;W1010;06.08.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;06.08.18;;Keine Endlage;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;06.08.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0339-2-001-01;W0185;06.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.3
+C;01-0340-2-001-01;W1010;06.08.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;03.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;02.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;02.08.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0902-2-001-01;W3002;02.08.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;0
+C;01-0339-2-001-01;W0185;02.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.4
+C;01-0340-2-001-01;W1010;02.08.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0339-2-001-01;W0185;31.07.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.2
+C;03-0101-005-01-1;;30.07.18;;sonstiges;Technische Störung;;;;0.9
+C;01-0340-2-001-01;W1004;30.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0.6
+C;01-0340-2-001-01;W1010;30.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;30.07.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;30.07.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;30.07.18;;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Hirschengraben;0
+C;03-0101-091-01-2;;30.07.18;;sonstiges;Höhere Gewalt;;;;0.2
+C;01-0339-2-001-01;W0185;27.07.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.3
+C;01-0340-2-001-01;W1010;26.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;26.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;24.07.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;24.07.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+B;01-0340-2-001-01;W1010;24.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1010;24.07.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1003;24.07.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0.4
+C;01-0339-2-001-01;W0190;24.07.18;;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Kocherpark;0.4
+B;01-0340-2-001-01;W1010;23.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+B;01-0340-2-001-01;W1010;23.07.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1006;23.07.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Schwanengasse;0
+C;01-0338-2-001-01;W2000;23.07.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Brunnmatt;0
+C;03-0101-091-14;TOR9111;17.07.18;Eingestellt;Fahrleitungsschaden;Technische Störung;Tr;Torbrücke;Betriebshof Eiger;5
+C;01-0902-2-001-01;HNP3006;17.07.18;Programmiert;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Guisanplatz;24
+C;03-0101-017-01;;18.07.18;Weitere Aktionen;sonstiges;unbekannt /sonstiges;;;;0
+B;01-0340-2-001-01;W1004;18.07.18;Kontrolliert;Unbekannter Fehler;unbekannt /sonstiges;Tr;Elektrische Weiche;Bahnhof;0
+C;03-0101-012-05;W1202;16.07.18;Weitere Aktionen;Elektrische Störung;Technische Störung;Tb;Einlaufweiche;Bahnhof Ost;8
+C;03-0101-011-05;W1107;17.07.18;Ersetzt;Entgleisung;unbekannt /sonstiges;Tb;Einlaufweiche;Bahnhof West;2.2
+C;01-9000-2-001-01;HNSA502/2;01.07.18;Eingestellt;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+C;01-9000-2-001-01;HNSA502/3;13.07.18;Weitere Aktionen;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+C;01-0340-2-001-01;W1004;16.07.18;Weitere Aktionen;Von Hand gestellt;unbekannt /sonstiges;Tr;Elektrische Weiche;Bahnhof;3.3
+X;01-0340-2-001-01;STW0039;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Spitalgasse;0
+X;01-0340-2-001-01;STW0051;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Hirschengraben;0
+X;01-0340-2-001-01;STW0053;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Bundesgasse;0
+C;01-0339-2-001-01;W0185;14.07.18;Eingestellt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kocherpark;3.2
+C;01-0341-2-001-01;EXW0101;16.07.18;Weitere Aktionen;Kein Block;Technische Störung;;;;5.2
+C;03-0101;;13.07.18;Weitere Aktionen;Fremdeinwirkungen;Höhere Gewalt;;;;1
+C;03-0101-001-01;;13.07.18;;sonstiges;Höhere Gewalt;;;;0
+C;03-0101-024-01;;13.07.18;Weitere Aktionen;sonstiges;Höhere Gewalt;;;;1
+C;01-0339-2-001-01;W0185;11.07.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;1
+C;01-0339-2-001-01;W0185;12.07.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;4.9
+C;01-0339-2-001-01;W0185;11.07.18;Geschweisst;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;5.2
+C;01-0902-2-001-01;W3002;11.07.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;1
+B;01-0339-2-001-01;W0185;10.07.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;103.9
+D;01-0340-2-001-01;HNP1006;04.07.18;;Elektrische Störung;Technische Störung;Tr;Elektrischer Weichensteuerung;Schwanengasse;0
+C;03-0101-015-01-1;;03.07.18;;sonstiges;Technische Störung;;;;0
+C;01-0339-2-001-01;W0185;03.07.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+C;01-0341-2-001-01;EXW0101;03.07.18;;Block nicht gelöscht;Technische Störung;;;;0
+D;01-0303-2-001-01;HNP5100;03.07.18;Weitere Aktionen;Block nicht gelöscht;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;169
+C;03-0101-027-05;W2701;03.07.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Bollwerk;0
+B;03-0101-011-05;W1102;01.07.18;Kontrolliert;Unbekannter Fehler;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;1.4
+C;01-0341-2-001-01;EXW0101;02.07.18;Eingestellt;Unbekannter Fehler;unbekannt /sonstiges;;;;315.3
+C;01-9000-2-001-01;HNSA502/1;27.06.18;Weitere Aktionen;Ausserhalb Toleranz;;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+C;03-0101-029-01-2;;27.06.18;;Fremdeinwirkungen;Höhere Gewalt;;;;24.3
+C;01-9001-2-001-01;W5001;27.06.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Depot Eiger;29.4
+C;01-0902-2-001-01;W3002;26.06.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;8.4
+X;01-9000-2-001-01;STW0081;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0082;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0083;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0084;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0086;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0088;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0089;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0090;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0091;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0092;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0093;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0094;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0095;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0096;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;STW0103;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Depot Bolligenstrasse;0
+C;01-9001-2-001-01;HNSA600/1;25.06.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;10
+C;03-0101-029;;25.06.18;Weitere Aktionen;sonstiges;Drittverschulden;;;;5
+C;03-0101-029;;25.06.18;;Elektrische Störung;Technische Störung;;;;5
+C;03-0101-027-01-2;FD2705;23.06.18;;unbekannter Fehler;unbekannt /sonstiges;Tb;Fahrdraht Trolleybus;Bollwerk;1
+C;01-0339-2-001-01;HNP0185;21.06.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Kocherpark;1
+C;01-0340-2-001-01;HNP1009;24.06.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Wallgasse;1.5
+C;01-9000-2-001-01;HNSA502/1;21.06.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;2
+C;01-0340-2-001-01;W1000;23.06.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Spitalgasse;1
+C;01-0340-2-001-01;W1016;23.06.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;National;1
+C;03-0101-029-01-2;;21.06.18;;Fremdeinwirkungen;Höhere Gewalt;;;;97.8
+C;01-0340-2-001-01;W1000;22.06.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Spitalgasse;5.3
+C;01-0339-2-001-01;W0185;21.06.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;101.3
+C;03-0101-029-05;W2902;21.06.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;91.5
+C;03-0101-011-01-2;;19.06.18;Kontrolliert;Entgleisung;Fehlmanipulation;;;;1.5
+C;01-0339-2-001-01;W0185;20.06.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.8
+C;01-0340-2-001-01;W1016;21.06.18;;Verschmutzt;Drittverschulden;Tr;Elektrische Weiche;National;5.4
+C;01-9001-2-001-01;HNSA600/1;20.06.18;Weitere Aktionen;Fehlbedienung;Fehlmanipulation;Tr;Elektrischer Weichensteuerung;Eigerplatz;2
+C;01-9001-2-001-01;HNSA600/1;19.06.18;Eingestellt;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;1
+C;01-0337-2-001-01;W2005;19.06.18;Eingestellt;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Unterführung;1.2
+C;01-0902-2-001-01;SWS0105;18.06.18;;unbekannter Fehler;Technische Störung;;;;0
+C;01-0340-2-001-01;W0043;18.06.18;Gereinigt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Du Theatre;2.1
+C;01-0340-2-001-01;W0043;18.06.18;Gereinigt;Kein Block;Doppelmeldung;Tr;Elektrische Weiche;Du Theatre;2.1
+C;03-0101-026-01-2;;15.06.18;;Fremdeinwirkungen;Höhere Gewalt;;;;1.4
+C;01-0340-2-001-01;W0043;15.06.18;Gereinigt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Du Theatre;3.4
+C;01-0902-2-001-01;W3002;14.06.18;Programmiert;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;1
+C;03-0101-029-05;W2902;14.06.18;Kontrolliert;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;5.3
+C;03-0101-023-01-2;;13.06.18;Weitere Aktionen;Fremdeinwirkungen;Höhere Gewalt;;;;5.3
+C;01-0802;;11.06.18;;unbekannter Fehler;Höhere Gewalt;;;;100.5
+C;01-9000-2-001-01;;07.06.18;Weitere Aktionen;unbekannter Fehler;Technische Störung;;;;165
+C;03-0101-015-01-1;;07.06.18;Gewartet;korrodiert;Technische Störung;;;;8.3
+X;01-9000-2-001-01;HNSA502/1;;Kontrolliert;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;0
+X;01-0340-2-001-01;SWS1000;07.06.18;Programmiert;kein Fehler;unbekannt /sonstiges;;;;10
+C;03-0101-011-05;W1102;07.06.18;Ersetzt;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;1
+C;01-0340-2-001-01;W1004;05.06.18;Ersetzt;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bahnhof;26.4
+C;01-0340-2-001-01;W1004;05.06.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+X;01-0303-2-001-01;HNP0208;30.05.18;;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Weissenbühl;5
+C;01-0340-2-001-01;W1004;03.06.18;Kontrolliert;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bahnhof;1
+C;03-0101-091-14;TOR9101;30.05.18;Eingestellt;unbekannter Fehler;Technische Störung;Tr;Torbrücke;Betriebshof Eiger;1
+C;03-0101-091-13;;22.05.18;Ausgetauscht;Fehlbedienung;;;;;1
+C;03-0101-091-12;#NAME?;26.05.18;Eingestellt;Kein Block;;;;;2
+C;01-0341-2-001-01;HNP0101;28.05.18;Weitere Aktionen;Kein Block;Technische Störung;Tr;Elektrischer Weichensteuerung;Casinoplatz;1.8
+C;01-0341-2-001-01;HNP0101;28.05.18;Weitere Aktionen;Kein Block;Technische Störung;Tr;Elektrischer Weichensteuerung;Casinoplatz;1.7
+C;01-0341-2-001-01;EXW0101;25.05.18;Weitere Aktionen;Kein Block;Technische Störung;;;;1.4
+C;01-8002-2-001-01;;25.05.18;Weitere Aktionen;Kein Block;unbekannt /sonstiges;;;;1.4
+X;03-0101-017-01-1;;24.05.18;Weitere Aktionen;Elektrische Störung;Technische Störung;;;;0
+C;01-0341-2-001-01;EXW0101;24.05.18;Weitere Aktionen;Kein Block;Technische Störung;;;;2.1
+C;01-0341-2-001-01;EXW0101;23.05.18;Weitere Aktionen;Kein Block;Technische Störung;;;;1.3
+C;01-0341-2-001-01;EXW0101;24.05.18;Weitere Aktionen;Kein Block;Technische Störung;;;;1.4
+C;03-0101-024-01-2;;19.05.18;Weitere Aktionen;Fremdeinwirkungen;Höhere Gewalt;;;;1
+A;03-0101-090-13;;22.05.18;Weitere Aktionen;sonstiges;Technische Störung;;;;1
+C;01-0341-2-001-01;EXW0101;22.05.18;Programmiert;Unbekannter Fehler;Technische Störung;;;;2
+C;01-0339-2-001-01;HNP0185;19.05.18;Gereinigt;Keine Endlage;Drittverschulden;Tr;Elektrischer Weichensteuerung;Kocherpark;1
+C;01-0340-2-001-01;HNP1009;19.05.18;;Elektrische Störung;;Tr;Elektrischer Weichensteuerung;Wallgasse;3
+C;01-9000-2-001-01;HNSA502/1;19.05.18;Eingestellt;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1
+X;03-0101-090-01-1;;22.05.18;;kein Fehler;Geplante Instandhaltung;;;;0
+C;01-0340-2-001-01;W1009;19.05.18;Gereinigt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;1
+C;01-0902-2-001-01;W0105;18.05.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;1.1
+C;03-0101-027-05;W2703;15.05.18;Revidiert;Entgleisung;Fehlmanipulation;Tb;Einlaufweiche;Bollwerk;2.5
+C;03-0101-029-01-2;;16.05.18;;Fremdeinwirkungen;Höhere Gewalt;;;;0
+X;01-0339-2-001-01;W0185;29.05.18;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+C;01-0340-2-001-01;W1009;15.05.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;3.1
+X;01-0902-2-001-01;W3002;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W3004;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0337-2-001-01;W2002;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0337-2-001-01;W2005;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0337-2-001-01;W2009;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0803-2-001-01;W2010;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Holenacker;0
+X;01-0339-2-001-01;W0190;;Ausgetauscht;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0340-2-001-01;STW0048;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Hirschengraben;0
+X;01-0340-2-001-01;STW0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichenantrieb;Hirschengraben;0
+C;01-0340-2;;10.05.18;Weitere Aktionen;Unbekannter Fehler;Drittverschulden;;;;1.3
+B;03-0101-091-01-1;;14.05.18;Weitere Aktionen;sonstiges;;;;;1
+C;04-Z-0060;;14.05.18;;beschädigt;Vandalenschaden;;;;0
+C;03-0101-091-14;TOR9105;07.05.18;Eingestellt;Mechanische Störung;Technische Störung;Tr;Torbrücke;Betriebshof Eiger;1
+C;01-9001-2-001-01;HNSA600/1;07.05.18;Eingestellt;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;1
+C;01-0902-2-001-01;W0105;13.05.18;Programmiert;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;1
+C;01-0340-2-001-01;W1012;11.05.18;Gereinigt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;1.9
+B;01-0340-2-001-02;W1015;10.05.18;Ausgetauscht;gebrochen;unbekannt /sonstiges;;;;1
+C;03-0101-091-14;TOR9101;09.05.18;Kontrolliert;unbekannter Fehler;Technische Störung;Tr;Torbrücke;Betriebshof Eiger;15
+C;01-0339-2-001-01;W0185;01.05.18;Kontrolliert;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Kocherpark;144
+C;03-0101-027-05;W2703;07.05.18;Revidiert;Entgleisung;Technische Störung;Tb;Einlaufweiche;Bollwerk;2.8
+C;01-0340-2-001-01;W0049;05.05.18;Kontrolliert;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kornhaus;1
+C;01-0341-2-001-01;EXW0101;05.05.18;Eingestellt;Kein Block;Technische Störung;;;;1.5
+C;01-0340-2-001-01;W1006;05.05.18;Eingestellt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Schwanengasse;1
+C;03-0101-091-01-1;;04.05.18;Weitere Aktionen;Fremdeinwirkungen;Drittverschulden;;;;1
+C;03-0101-012-04;K1205;03.05.18;Ersetzt;Mechanische Störung;Materialermüdung;Tb;Kreuzung Tb-Tb;Bahnhof Ost;2
+C;01-0803-2-001-01;W2010;02.05.18;Kontrolliert;Kein Block;Technische Störung;Tr;Elektrische Weiche;Holenacker;1.8
+D;03-0101-026;;30.04.18;Kontrolliert;Fremdeinwirkungen;Höhere Gewalt;;;;3.7
+C;01-0339-2-001-01;W0185;30.04.18;Repariert;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;4.1
+X;01-0340-2-001-01;W0043;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Du Theatre;0
+X;01-0338-2-001-01;W2000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Brunnmatt;0
+C;01-0340-2-001-01;W1009;27.04.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;2
+C;01-0902-2-001-01;W3006;27.04.18;Eingestellt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;2.4
+C;01-0340-2-001-01;W0043;27.04.18;Gereinigt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Du Theatre;2
+C;01-0340-2-001-01;W0043;27.04.18;Eingestellt;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Du Theatre;14.3
+C;01-0340-2-001-01;W1003;26.04.18;Kontrolliert;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0.2
+C;01-0340-2-001-01;W1014;25.04.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;0
+C;01-0340-2-001-01;W1004;25.04.18;Ersetzt;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Bahnhof;1.3
+C;01-0340-2-001-01;W1003;25.04.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bahnhof;0
+C;01-0340-2-001-01;W1009;24.04.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-9001-2-001-01;HNSA600/1;21.04.18;;Ausserhalb Toleranz;;Tr;Elektrischer Weichensteuerung;Eigerplatz;8
+C;01-0339-2-001-01;W0185;23.04.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.9
+C;01-0340-2-001-01;W0043;23.04.18;Gereinigt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Du Theatre;1.5
+C;01-0339-2-001-01;W0190;23.04.18;Eingestellt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0.8
+C;01-0340-2-001-01;W0043;23.04.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Du Theatre;0
+C;01-0340-2-001-01;W0043;23.04.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Du Theatre;0
+C;01-0340-2-001-01;W0049;20.04.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kornhaus;2.2
+B;01-0340-2-001-01;W1014;20.04.18;;Kein Block;unbekannt /sonstiges;Tr;Elektrische Weiche;Bundesgasse;0
+C;01-0340-2-001-01;W0043;23.04.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Du Theatre;0
+C;01-0340-2-001-01;W1014;19.04.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;1
+C;01-0340-2-001-01;W1014;17.04.18;Eingestellt;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;1
+B;03-0101-027-05;W2703;16.04.18;Ersetzt;Fahrleitungsschaden;Technische Störung;Tb;Einlaufweiche;Bollwerk;1
+X;03-0101-090-14;AP9001;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+C;03-0101-029-01;;16.04.18;Weitere Aktionen;sonstiges;unbekannt /sonstiges;;;;0
+C;03-0101-011-05;;10.04.18;Ersetzt;Unterbruch;Technische Störung;;;;2
+C;03-0101-029-05;W2902;10.04.18;Ersetzt;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;2
+C;03-0101-026-05;W2601;10.04.18;Ersetzt;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Schosshalde;2
+C;03-0101-011-05;;09.04.18;Ausgetauscht;sonstiges;Technische Störung;;;;3.8
+C;01-0340-2-001-01;W0043;09.04.18;Ausgetauscht;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Du Theatre;3.8
+C;01-0341-2-001-01;HNP0101;06.04.18;Weitere Aktionen;Kein Block;unbekannt /sonstiges;Tr;Elektrischer Weichensteuerung;Casinoplatz;73.9
+B;03-0101-020-01-1;;06.04.18;Repariert;Fahrleitungsschaden;Technische Störung;;;;1.5
+C;01-0340-2-001-01;HNP1009;03.04.18;Gereinigt;verstopft;Technische Störung;Tr;Elektrischer Weichensteuerung;Wallgasse;1
+C;01-9001-2-001-01;HNSA600/1;03.04.18;Eingestellt;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;1
+C;01-0340-2-001-01;W1006;04.04.18;Kontrolliert;Kein Block;Technische Störung;Tr;Elektrische Weiche;Schwanengasse;2.3
+C;01-0339-2-001-01;W0190;23.03.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-9000-2-001-01;W4015;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4016;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4017;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4018;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4019;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4020;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4021;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4032;01.05.18;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+C;01-0340-2-003;G0340;03.04.18;Weitere Aktionen;unbekannter Fehler;unbekannt /sonstiges;;;;0
+C;03-0101-011-05;W1102;28.03.18;Kontrolliert;sonstiges;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;1
+B;03-0101-091-13;;26.03.18;Programmiert;Elektrische Störung;Technische Störung;;;;1.5
+C;03-0101-012-05;W1203;01.01.18;Ausgetauscht;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Bahnhof Ost;2029
+C;01-0339-2-001-01;W0190;27.03.18;Kontrolliert;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0340-2-001-01;W1000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Spitalgasse;0
+X;01-0340-2-001-01;W0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kornhaus;0
+X;01-0341-2-001-01;EXW0101;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0341-2-001-01;EXW0102;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0340-2-001-01;W1016;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;National;0
+X;01-0340-2-001-01;W1009;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0340-2-001-01;W1010;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0340-2-001-01;W1014;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bundesgasse;0
+X;01-0340-2-001-01;W1006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Schwanengasse;0
+X;01-0340-2-001-01;W1004;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bahnhof;0
+X;01-0340-2-001-01;W1003;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bahnhof;0
+X;01-0340-2-001-01;W1012;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0340-2-001-01;W0043;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Du Theatre;0
+X;01-0340-2-001-01;W0045;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Marktgasse;0
+C;03-0101-026-01-2;;24.03.18;Ersetzt;Fahrleitungsschaden;Technische Störung;;;;1.8
+C;03-0101-027-01-2;;22.03.18;Repariert;Fahrleitungsschaden;Fehlmanipulation;;;;5
+B;01-0341-2-001-01;W0274;22.03.18;Ausgetauscht;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Burgernziel;0
+B;01-0341-2-001-01;HNP0274;22.03.18;;Von Hand gestellt;Technische Störung;Tr;Elektrischer Weichensteuerung;Burgernziel;0
+C;01-0341-2-001-01;W0274;21.03.18;Eingestellt;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Burgernziel;16.4
+D;03-0101-091-01-2;;19.03.18;Ersetzt;Fahrleitungsschaden;Technische Störung;;;;3
+C;01-0341-2-001-01;HNP0101;19.03.18;Eingestellt;verstellt;Technische Störung;Tr;Elektrischer Weichensteuerung;Casinoplatz;3
+C;01-0341-2-001-01;HNP0274;19.03.18;Ersetzt;Unbekannter Fehler;Materialermüdung;Tr;Elektrischer Weichensteuerung;Burgernziel;2.3
+X;01-0703-2-001-01;HNP2006;19.03.18;Ersetzt;Unbekannter Fehler;Materialermüdung;Tr;Elektrischer Weichensteuerung;Bümpliz;2.1
+C;01-9001-2-001-01;HNSA600/1;14.03.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;1
+C;01-0341-2-001-01;EXW0101;16.03.18;Eingestellt;Von Hand gestellt;Technische Störung;;;;0
+C;01-0803-2-001-01;W2112;16.03.18;Eingestellt;Kein Block;unbekannt /sonstiges;Tr;Elektrische Weiche;Brünnen;0
+D;01-0803-2-001-01;HNP2112;15.03.18;Weitere Aktionen;unbekannter Fehler;Technische Störung;Tr;Elektrischer Weichensteuerung;Brünnen;594.7
+D;01-0340-2-001-02;HZS1001.1;13.03.18;Ersetzt;verbrannt;Technische Störung;Tr;Heizstäbe Weichen;Spitalgasse;15.5
+X;01-0342-2-001-01;W0301;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Egghölzli;0
+X;01-0802-2-001-01;W0304;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Saali;0
+X;01-0341-2-001-01;W0274;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Burgernziel;0
+X;01-0902-2-001-01;W0105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W0106;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W3002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W3006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W3004;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0901-2-001-01;W3000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Wankdorf Bahnhof;0
+C;01-0340-2-001-01;W0049;11.03.18;Gereinigt;Von Hand gestellt;Doppelmeldung;Tr;Elektrische Weiche;Kornhaus;1
+C;01-0340-2-001-01;W0049;11.03.18;Gereinigt;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kornhaus;1
+C;01-0340-2-001-01;W0043;11.03.18;Gereinigt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Du Theatre;1
+B;01-0341-2-001-01;HNP0101;02.03.18;Eingestellt;verstellt;;Tr;Elektrischer Weichensteuerung;Casinoplatz;1
+A;03-0101-017-01-1;;04.03.18;Weitere Aktionen;sonstiges;Höhere Gewalt;;;;3.1
+B;1;;01.03.18;Weitere Aktionen;verstopft;Höhere Gewalt;;;;0
+C;01-0340-2-001-01;W0043;01.03.18;Weitere Aktionen;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Du Theatre;1
+C;03-0101-029-05;W2902;28.02.18;Ersetzt;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;4
+C;01-0340-2-001-01;HNP1003;28.02.18;;Von Hand gestellt;Technische Störung;Tr;Elektrischer Weichensteuerung;Markthalle;1
+C;03-0101-027-01-2;;27.02.18;;Fremdeinwirkungen;Drittverschulden;;;;3.8
+C;01-0341-2-001-01;W0274;27.02.18;Gewartet;Kein Block;Technische Störung;Tr;Elektrische Weiche;Burgernziel;5.3
+B;01-0341-2-001-01;W0274;27.02.18;Eingestellt;Kein Block;Technische Störung;Tr;Elektrische Weiche;Burgernziel;2.3
+C;01-0340-2-001-01;HNP1006;26.02.18;Ausgetauscht;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Schwanengasse;6.5
+C;03-0101-091-13;;26.02.18;Ausgetauscht;Fehlbedienung;Fehlmanipulation;;;;2
+X;01-0339-2-001-01;W0185;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+C;01-0341-2-001-01;W0274;26.02.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Burgernziel;0
+C;01-0341-2-001-01;W0274;26.02.18;Gewartet;Kein Block;Technische Störung;Tr;Elektrische Weiche;Burgernziel;16.3
+X;01-0903-2-001-01;W0239;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Wabern;0
+X;01-0337-2-001-01;W2002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0337-2-001-01;W2005;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0703-2-001-01;W2006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bümpliz;0
+X;01-0337-2-001-01;W2009;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0803-2-001-01;W2010;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Holenacker;0
+X;01-0803-2-001-01;W2112;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Brünnen;0
+X;01-0339-2-001-01;W0188;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0339-2-001-01;W0190;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0338-2-001-01;W2000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Brunnmatt;0
+X;01-0903-2-001-01;W0211;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Friedheim;0
+X;01-0303-2-001-01;W0208;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Weissenbühl;0
+C;03-0101-011-05;W1106;23.02.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;0
+X;2.02;;;Kontrolliert;kein Fehler;Geplante Instandhaltung;;;;0
+X;2.03;;;Kontrolliert;kein Fehler;Geplante Instandhaltung;;;;0
+X;02.02.0541/01;;;Kontrolliert;kein Fehler;Geplante Instandhaltung;;;;0
+C;01-0902-2-001-01;HNP3002;19.02.18;Ausgetauscht;defekt;Technische Störung;Tr;Elektrischer Weichensteuerung;Papiermühle;8
+C;01-0303-2-001-01;HNP5102;12.02.18;Ausgetauscht;Block nicht gelöscht;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;6
+C;01-0340-2-001-01;W0049;13.02.18;Kontrolliert;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Kornhaus;5.4
+C;01-0340-2-001-01;W1014;12.02.18;Eingestellt;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;2
+C;03-0101-091-14;TOR9109;10.02.18;Eingestellt;Mechanische Störung;Materialermüdung;Tr;Torbrücke;Betriebshof Eiger;6
+X;03-0101-091-04;K9103;;Gewartet;kein Fehler;Geplante Instandhaltung;Tb;Kreuzung Tr-Tb;Dienstgeleise Trolleybus;0
+X;03-0101-091-04;K9105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tb;Kreuzung Tr-Tb;Dienstgeleise Trolleybus;0
+X;03-0101-090-13;;;Gewartet;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-9001-2-001-01;W5002;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5003;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5004;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5005;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5007;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5008;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5009;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5010;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5011;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-0303-2-001-01;W5100;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W5101;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W5102;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W5105;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-9001-2-001-01;W5000;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+X;01-9001-2-001-01;W5001;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Eiger;0
+C;01-0340-2-001-01;W1014;10.02.18;Gereinigt;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;6
+C;01-0803-2-001-01;W2112;12.02.18;Programmiert;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Brünnen;0
+X;01-0342-2-001-01;W0301;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Egghölzli;0
+X;01-0802-2-001-01;W0304;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Saali;0
+X;01-0340-2-001-01;W1000;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Spitalgasse;0
+X;01-0340-2-001-01;W0049;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kornhaus;0
+X;01-0339-2-001-01;W0185;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0341-2-001-01;W0274;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Burgernziel;0
+X;01-0902-2-001-01;W0105;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W0106;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0341-2-001-01;EXW0101;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0341-2-001-01;EXW0102;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;;;;0
+X;01-0340-2-001-01;W1016;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;National;0
+X;01-0340-2-001-01;W1009;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0340-2-001-01;W1010;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0340-2-001-01;W1014;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bundesgasse;0
+X;01-0340-2-001-01;W1006;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Schwanengasse;0
+X;01-0340-2-001-01;W1004;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bahnhof;0
+X;01-0340-2-001-01;W1003;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bahnhof;0
+X;01-0340-2-001-01;W1012;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Hirschengraben;0
+X;01-0902-2-001-01;W3002;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W3006;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0902-2-001-01;W3004;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Guisanplatz;0
+X;01-0901-2-001-01;W3000;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Wankdorf Bahnhof;0
+X;01-0337-2-001-01;W2002;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0337-2-001-01;W2005;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0703-2-001-01;W2006;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Bümpliz;0
+X;01-0337-2-001-01;W2009;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Unterführung;0
+X;01-0803-2-001-01;W2010;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Holenacker;0
+X;01-0803-2-001-01;W2112;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Brünnen;0
+X;01-0340-2-001-01;W0043;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Du Theatre;0
+X;01-0340-2-001-01;W0045;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Marktgasse;0
+X;01-0339-2-001-01;W0188;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0339-2-001-01;W0190;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kocherpark;0
+X;01-0338-2-001-01;W2000;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Brunnmatt;0
+X;01-0903-2-001-01;W0211;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Friedheim;0
+X;01-0303-2-001-01;W5100;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W5101;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W5102;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W5105;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Eigerplatz;0
+X;01-0303-2-001-01;W0208;;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Weissenbühl;0
+A;03-0101-091-14;TOR9106;03.02.18;Gewartet;kein Fehler;;Tr;Torbrücke;Betriebshof Eiger;2
+B;01-9001-2-001-01;HNSA600/1;03.02.18;;Ausserhalb Toleranz;;Tr;Elektrischer Weichensteuerung;Eigerplatz;2
+B;03-0101-090-13;34924;04.02.18;;Elektrische Störung;Technische Störung;;;;1
+X;03-0101-091-14;PE9101;;Gewartet;kein Fehler;Geplante Instandhaltung;;Pegelprüfstation Garage Eiger;;0
+C;03-0101-013-01-1;;05.02.18;;sonstiges;Vandalenschaden;;;;1.8
+C;01-0341-2-001-01;EXW0101;05.02.18;;Kein Block;unbekannt /sonstiges;;;;1.8
+C;01-0337-2-001-01;W2002;02.02.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;Unterführung;0.4
+X;01-0340-2-001-01;HNP0043;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Du Theatre;584
+X;01-0341-2-001-01;HNP0101;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Casinoplatz;581
+X;01-0902-2-001-01;HNP0105;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Guisanplatz;581
+X;01-0339-2-001-01;HNP0185;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Kocherpark;581
+X;01-0339-2-001-01;HNP0188;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Kocherpark;581
+X;01-0303-2-001-01;HNP0208;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Weissenbühl;581
+X;01-0903-2-001-01;HNP0211;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Friedheim;581
+X;01-0341-2-001-01;HNP0274;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Burgernziel;581
+X;01-0342-2-001-01;HNP0301;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Egghölzli;581
+X;01-0802-2-001-01;HNP0304;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Saali;581
+X;01-0340-2-001-01;HNP1000;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Spitalgasse;581
+X;01-0340-2-001-01;HNP1003;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Markthalle;581
+X;01-0340-2-001-01;HNP1006;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Schwanengasse;581
+X;01-0340-2-001-01;HNP1009;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Wallgasse;581
+X;01-0340-2-001-01;HNP1014;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Bundesgasse;581
+X;01-0338-2-001-01;HNP2000;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Brunnmatt;581
+X;01-0337-2-001-01;HNP2002;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Unterführung;581
+X;01-0703-2-001-01;HNP2006;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Bümpliz;581
+X;01-0901-2-001-01;HNP3000;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Wankdorf-Bahnhof;581
+X;01-0902-2-001-01;HNP3002;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Papiermühle;581
+X;01-0902-2-001-01;HNP3006;01.06.18;Ersetzt;kein Fehler;Geplante Instandhaltung;Tr;Elektrischer Weichensteuerung;Guisanplatz;581
+X;;;30.01.18;Weitere Aktionen;kein Fehler;Falschmeldungen;;;;34
+X;03-0101;;31.01.18;;kein Fehler;Geplante Instandhaltung;;;;0
+C;01-9001-2-001-01;HNSA600/1;29.01.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;35
+B;01-0342-2-001-01;W0301;30.01.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Egghölzli;0.7
+B;01-0340-2-001-01;W0043;30.01.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Du Theatre;1.8
+X;01-0340-2-001-01;W0049;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Kornhaus;0
+C;01-0902-2-001-01;W3004;30.01.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Guisanplatz;0
+C;03-0101-011-05;W1105;29.01.18;;Entgleisung;Technische Störung;Tb;Elektrische Weiche;Bahnhof West;0
+C;03-0101-026-05;W2601;29.01.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Schosshalde;25.8
+C;03-0101-091-05;W9106;28.01.18;Repariert;Entgleisung;Drittverschulden;Tb;Einlaufweiche;Garage Eiger;1
+X;01-0340-2-001-01;W0045;14.05.18;Weitere Aktionen;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Marktgasse;0
+X;01-9000-2-001-01;W4006;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4007;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4008;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4009;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4011;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4013;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4014;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4015;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4016;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4017;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4018;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4019;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4020;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4021;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+X;01-9000-2-001-01;W4032;;Gewartet;kein Fehler;Geplante Instandhaltung;Tr;Elektrische Weiche;Depot Bolligenstrasse;0
+B;03-0101-090;;28.01.18;;Unterbruch;Technische Störung;;;;1.3
+C;04-F-0040-01;;29.01.18;;Unterbruch;Technische Störung;;;;8.2
+A;03-0101-011;;24.01.18;Repariert;Fahrleitungsschaden;Fehlmanipulation;;;;5
+C;01-0340-2-001-01;W1014;25.01.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;0
+C;03-0101-027-01-2;;22.01.18;;Entgleisung;Technische Störung;;;;3
+C;01-9000-2-001-01;HNSA502/1;23.01.18;;Unterbruch;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1.8
+C;01-9001-2-001-01;HNSA600/1;22.01.18;Weitere Aktionen;Fehlbedienung;Technische Störung;Tr;Elektrischer Weichensteuerung;Eigerplatz;1
+C;03-0101-091-01-2;;22.01.18;Eingestellt;Fehlbedienung;Fehlmanipulation;;;;1
+C;01-0340-2-001-01;W1014;22.01.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;9.3
+X;01-9000-2-001-01;HNSA502/1;22.01.18;;Unterbruch;;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;0
+C;01-0340-2-001-01;W1016;22.01.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;National;0
+C;01-0340-2-001-01;W1014;22.01.18;;Keine Endlage;Technische Störung;Tr;Elektrische Weiche;Bundesgasse;0
+C;01-0340-2-001-01;W1010;18.01.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;03-0101-029-05;W2902;17.01.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;2.5
+C;03-0101-090-13;;01.01.18;;Fehlbedienung;Technische Störung;;;;365
+B;01-0340-2-001-01;W1016;17.01.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;National;1.1
+C;03-0101-029-05;W2902;17.01.18;;Elektrische Störung;Technische Störung;Tb;Elektrische Weiche;Wyler;3.1
+B;03-0101-010-03-1;ST1002;16.01.18;;Fahrleitungsschaden;Materialermüdung;Tr;Streckentrenner Tram;Monbijou;1
+C;01-0340-2-001-01;W1016;16.01.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;National;7.6
+C;01-0340-2-001-01;W1016;17.01.18;;Block nicht gelöscht;Technische Störung;Tr;Elektrische Weiche;National;0.4
+C;01-9000-2-001-01;HNSA502/1;15.01.18;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;10
+C;01-0303-2-001-01;W5101;15.01.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Eigerplatz;1.1
+C;01-0340-2-001-01;HNP1000;14.01.18;;Verschmutzt;Technische Störung;Tr;Elektrischer Weichensteuerung;Spitalgasse;1
+C;01-0339-2-001-01;W0190;15.01.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+X;03-0101-003-01-1;;12.01.18;;sonstiges;Drittverschulden;;;;1
+X;03-0101-021-01-1;;10.01.18;Weitere Aktionen;unbekannter Fehler;Höhere Gewalt;;;;0
+C;01-0339-2-001-01;W0190;10.01.18;;Von Hand gestellt;Technische Störung;Tr;Elektrische Weiche;Kocherpark;0
+C;03-0101-026-01-2;;09.01.18;;Fahrleitungsschaden;Drittverschulden;;;;5.5
+C;01-0303-2-001-01;W5101;09.01.18;Kontrolliert;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Eigerplatz;1
+C;01-0340-2-001-01;HNP1016;09.01.18;Eingestellt;Kein Block;Technische Störung;Tr;Elektrischer Weichensteuerung;National;1.5
+C;01-9000-2-001-01;HNSA502/3;09.01.18;Eingestellt;Unterbruch;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1.4
+C;01-0340-2-001-01;W0043;05.01.18;;Verschmutzt;Drittverschulden;Tr;Elektrische Weiche;Du Theatre;0
+C;1;;08.01.18;;Von Hand gestellt;Technische Störung;;;;0
+C;01-0340-2-001-01;W1009;05.01.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+C;01-0340-2-001-01;W1009;05.01.18;;Kein Block;Technische Störung;Tr;Elektrische Weiche;Hirschengraben;0
+A;03-0101-022;;03.01.18;Weitere Aktionen;beschädigt;Höhere Gewalt;;;;0
+C;01-0337-2-001-01;W2002;03.01.18;;Unbekannter Fehler;Technische Störung;Tr;Elektrische Weiche;Unterführung;0
+C;01-9000-2-001-01;HNSA502/3;28.12.17;;Ausserhalb Toleranz;Technische Störung;Tr;Elektrischer Weichensteuerung;Depot Bolligenstrasse;1.5

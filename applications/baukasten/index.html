@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+
+	<script src="d3.min.js"></script>
+	<script src="donutChart.js"></script>
+	<script src="app.js"></script>
+	<script src="columnInfo.js"></script>
+	<script src="dataTable.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="donutChart.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+	<title>Störungsdaten der BERNMOBIL-Infrastruktur</title>
+</head>
+<body>
+	<div id="main">
+		<div class="parallax">
+		</div>
+		<div class="box">
+			<h1>Störungsdaten der BERNMOBIL-Infrastruktur</h1>
+			<p>BERNMOBIL betreibt 5 Tram-, 3 Trolley- und 15 Buslinien in und rund um Bern. Diese Visualisierung zeigt alle Störungen des Jahres 2018 im Zusammenhang mit der Infrastruktur, also zum Beispiel Weichenstörungen oder beschädigte Fahrdrähte.</p>
+			<p>&nbsp;</p>
+		</div>		
+		<div id="columnPickerBox" class="box">
+			<p id="columnPickerTutorial">Wählen Sie einen Abschnitt aus, um die nächste Spalte auswählen zu können.</p>
+			<p id="columnPickerMessage">Maximale Anzahl Spalten ausgewählt. Die Auswahl kann in der <a href="#selectedColumnsPanel">Leiste</a> unter der Visualisierung angepasst werden.</p>
+			<div id="columnPicker">
+				<div class="button" id="magicSelectionButton" style="background-image: url(./icons/magicwand.png);" onclick="magicSelection(0)">Zufällig</div><!--
+			--></div>
+		</div>
+		<div class="box">
+			<div id="chart">
+				<div id="centralPanel" style="display: none;">
+					<p class="counter"><span class="highlight">1</span>/<span class="all">378</span> Störungen</p>
+					<div id="showTableButton" class="button">Störungen anzeigen</div>
+				</div>
+			</div>
+			<div id="legend">
+				<div class="legendContainer"></div>
+			</div>
+			<div id="selectedColumnsPanel" class="box"></div>
+		</div>
+		
+		
+		<p></p>
+		
+		<div class="parallax2">
+		</div>
+		<div class="box">
+			<h2>Über</h2>
+			<p>Die Visualisierung entstand 2019 im Rahmen der <a href="http://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html" target="_blank">Open Data-Veranstaltung</a> an der Universität Bern.</p>
+			<h3>Roland Widmer</h3>
+			<p><img src="img/team.jpg" class="inlineImage" />An der Universität Bern studiere ich im 4. Semester Informatik und in den Nebenfächern Mathematik und Betriebswirtschaftslehre. Nachfolgend die Rohdaten und einige interessante Links, die mir beim Entwickeln geholfen haben.</p>
+			<p>E-Mail: <a id="emailLink"></a></p>
+			<script>
+				// add email address (spam protection)
+				document.getElementById("emailLink").href = "mailto:roland." + "widmer@" + "students.unibe.ch";
+				document.getElementById("emailLink").textContent = "roland." + "widmer@" + "students.unibe.ch";
+			</script>
+			<p style="clear:both;">&nbsp;</p>
+			<h3>Rohdaten</h3>
+			<ul>
+				<li><a href="data/readme.txt" target="_blank">Informationen zu den Daten</a></li>
+				<li><a href="data/Stoerungen_Meldeliste.csv" target="_blank">Ursprüngliche Störungsliste 2018 von BERNMOBIL</a></li>
+				<li><a href="data/Mapping_Fehlerkategorie.csv" target="_blank">Zusätzliche Informationen zur Störungskategorie</a></li>
+				<li><a href="data/MappingTechnischeIdentitatsnummer.csv" target="_blank">Zusätzliche Informationen zu den Störungen</a></li>
+				<li><a href="data/BernmobilStoerungen2018.csv" target="_blank">Bereinigter, angepasster und mit zusätzlichen Informationen angereicherter Datensatz</a> (wird von der Visualisierung verwendet)</li>
+				<li><a href="data/converter.html" target="_blank">Skript-Tool für das Mapping</a></li>
+			</ul>
+			<h3>Quellen</h3>
+			<ul>
+				<li><a href="https://icons8.com/" target="_blank">Icons8</a> (Icons)</li>
+				<li><a href="https://overpassfont.org/" target="_blank">Overpass Font</a> (Schriftart)</li>
+				<li><a href="https://d3js.org/" target="_blank">D3.js</a> (Visualisierung und Daten-Handling)</li>
+				<li><a href="https://www.bundeshaushalt.de/" target="_blank">Die Struktur des Bundeshaushaltes</a> (Idee)</li>
+			</ul>
+			<h3>Nützliche Links</h3>
+			<ul>
+				<li><a href="https://bost.ocks.org/mike/chart/" target="_blank">Towards Reusable Charts</a>  (Mike Bostock)</li>
+				<li><a href="https://bl.ocks.org/mbostock/4341417" target="_blank">Donut Transitions</a>  (Mike Bostock)</li>
+				<li><a href="https://bl.ocks.org/mbhall88/b2504f8f3e384de4ff2b9dfa60f325e2" target="_blank">A static, reusable donut chart for D3.js</a> (Michael Hall)</li>
+				<li><a href="https://www.w3schools.com/howto/howto_css_parallax.asp" target="_blank">How To - Parallax Scrolling</a> (w3schools)</li>
+				<li><a href="https://ourcodeworld.com/articles/read/189/how-to-create-a-file-and-generate-a-download-with-javascript-in-the-browser-without-a-server" target="_blank">Create and generate a file in the Browser</a> (Our Code World)</li>
+			</ul>
+			<h3>BERNMOBIL</h3>
+			<ul>
+				<li><a href="https://bernmobil.ch" target="_blank">BERNMOBIL-Webseite</a></li>
+			</ul>
+		</div>
+		<div class="parallax3">
+		</div>
+	</div>
+	
+	<div id="tableContainer" style="display: none;">
+		<div class="dialogbox">
+			<div id="closeDialogButton" onclick="closeDialog()" class="button">Schliessen</div>
+			<h2>Ausgewählte Störungen</h2>
+			<p id="countPanel"></p>
+			<div id="csvDataDownloadButton" class="button">Als CSV-Datei herunterladen</div>
+		</div>
+		<table id="table">
+			<thead>
+				<tr></tr>
+			</thead>
+			<tbody>
+			</tbody>
+		</table>
+	</div>
+	
+</body>
+</html>
+
